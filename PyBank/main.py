@@ -1,19 +1,9 @@
 """PyBank - Exercise 03 - Python Challenges
 
 Developer: @daddyjab (Jeff Brown)
-TODO:
-    * Open the input file
-    * Read in the contents one row at a time
-    *   Calculate and store the change in profit (loss) for each entry (vs. previous month)
-    *   Remember: Can't start calculating a change in profit until the 2nd month
-    * 
-    * When the full input has been processed, calculate
-    *   Total number of months included in the dataset
-    *   Total net amount of Profit(Losses) over the entire period
-    *   Average change in Profit(Losses) between months over the entire period
-    *   Greatest increase in profits (date and amount) over the entire period
-    *   Greatest decrease in profits (date and amount) over the entire period
+
 """
+
 # Imports
 import os
 import csv
