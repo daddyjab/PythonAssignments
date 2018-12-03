@@ -41,8 +41,8 @@ with open(csvPath, newline='', encoding="utf8") as csvFile:
     #   1 = max P/L increase or decrease (use None to detect if it's first value)
     #
     # @TODO: Change these lists to dictionaries to make it more readable
-    max_pl_inc = ["", 0.0]
-    max_pl_dec = ["", 0.0]
+    max_pl_inc = {'bd':"", 'bpl': 0.0}
+    max_pl_dec = {'bd':"", 'bpl': 0.0}
 
     # Average change in P/L is just the (last P/L chg - first P/L chg ) / (count of months -1)
     first_pl = 0.0
@@ -81,18 +81,20 @@ with open(csvPath, newline='', encoding="utf8") as csvFile:
             if c_months == 2:
                 # Store this P/L change as both the max P/L increase and decrease
                 # (since we only have one P/L change so far, it is both!)
-                max_pl_inc = [b_date, chg_pl]
-                max_pl_dec = [b_date, chg_pl]
+                max_pl_inc['bd'] = b_date
+                max_pl_inc['bpl'] = chg_pl
+                max_pl_dec['bd'] = b_date
+                max_pl_dec['bpl'] = chg_pl
             
             else:
                 # With at least 2 P/L changes, can start checking for max P/L increases and decreases
-                if chg_pl > max_pl_inc[1]:
-                    max_pl_inc[0] = b_date
-                    max_pl_inc[1] = chg_pl
+                if chg_pl > max_pl_inc['bpl']:
+                    max_pl_inc['bd'] = b_date
+                    max_pl_inc['bpl'] = chg_pl
 
-                if chg_pl < max_pl_dec[1]:
-                    max_pl_dec[0] = b_date
-                    max_pl_dec[1] = chg_pl
+                if chg_pl < max_pl_dec['bpl']:
+                    max_pl_dec['bd'] = b_date
+                    max_pl_dec['bpl'] = chg_pl
     
         # Final things to do before ending this iteration
 
@@ -115,8 +117,8 @@ with open(csvPath, newline='', encoding="utf8") as csvFile:
     r_rpt.append(f"Total Months: {c_months}")
     r_rpt.append(f"Total Profit/Loss: ${tot_pl:.2f}")
     r_rpt.append(f"Average Change: ${avg_plchg:.2f}")
-    r_rpt.append(f"Greatest Increase in Profits: {max_pl_inc[0]} {max_pl_inc[1]:.2f}")
-    r_rpt.append(f"Greatest Decrease in Profits: {max_pl_dec[0]} {max_pl_dec[1]:.2f}")
+    r_rpt.append(f"Greatest Increase in Profits: ({max_pl_inc['bd']}) ${max_pl_inc['bpl']:.2f}")
+    r_rpt.append(f"Greatest Decrease in Profits: ({max_pl_dec['bd']}) ${max_pl_dec['bpl']:.2f}")
 
     # Print the results to the terminals
     for r in r_rpt: print(r)
