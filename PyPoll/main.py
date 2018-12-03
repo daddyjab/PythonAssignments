@@ -4,8 +4,13 @@ Developer: @daddyjab (Jeff Brown)
 
 """
 
-# For this project, tally election results in a dictionary
-# Then calculate the requested statitics
+# For this project, tally election results in a list of
+#  dictionary items, then calculate the requested statitics
+# Assumptions:
+#   * All candidates have different names
+#   * No voter voted more than one time
+#       => Don't have to check for unique Voter IDs
+#   * There is no minimum % required for a candidate to win
 
 # Imports
 import os
@@ -13,6 +18,9 @@ import csv
 
 # Set the path to the CSV file
 csvPath = os.path.join('Resources', 'election_data.csv')
+
+# Create a dictionary to hold election results
+e_Results = {}
 
 # Open the data input file
 with open(csvPath, newline='', encoding="utf8") as csvFile:
@@ -28,88 +36,36 @@ with open(csvPath, newline='', encoding="utf8") as csvFile:
     # Grab the header from the CSV file
     e_Header = next(csvReader)
 
-    # Initialize variables needed for calcs
-    # Tally count of months and total P/L across all months
-    c_months = 0
-    tot_pl = 0.0
-
-    # Remember the previous value of P/L for the calc of change and the average change,
-    #  and use "None" to detect if it's the first value (where change should be set to 0.0)
-    prev_pl = 0.0
-    chg_pl = 0.0
+    # Initialize variables needed for election data (not really necessary...)
+    e_County = ""
+    e_Cand = ""
+    e_VCount = 0
     
-    # Use lists to store the current max P/L increase and max P/L decrease and associated dates
-    #   0 = Date in "Month-Year" format
-    #   1 = max P/L increase or decrease (use None to detect if it's first value)
-    #
-    # @TODO: Change these lists to dictionaries to make it more readable
-    max_pl_inc = {'bd':"", 'bpl': 0.0}
-    max_pl_dec = {'bd':"", 'bpl': 0.0}
-
-    # Average change in P/L is just the (last P/L chg - first P/L chg ) / (count of months -1)
-    first_pl = 0.0
-    last_pl = 0.0
-
     # Read through the input file one row at a time
-    for b_Row in csvReader:
+    for e_Row in csvReader:
         # Populate field values for this row
         try:
-            b_date = str(b_Row[0])
-            b_pl = float(b_Row[1])
+            e_VCount = str(e_Row[0])
+            e_County = str(e_Row[1])
+            e_Cand = str(e_Row[2])
         except:
             print("ERROR: Assigning a row of data into local variables: ", end="")
-            print(b_Row)
+            print(e_Row)
 
-        # Tally one more month
-        c_months += 1
-
-        # Accumulate the total P/L
-        tot_pl += b_pl
-
-        # Do some special actions if this is the first row of data
-        if c_months == 1:
-            # Do save this first P/L value - we'll need it to calc the avg change later
-            first_pl = b_pl
-
-            # Don't try to calculate a P/L change - there's no prev value yet
-            # Don't try to store a max P/L increase or decrease - don't have one yet
+        # Check to see if this candidate has already gotten a vote
+        if e_Cand in e_Results.keys():
+            # Yes, candidate is already present in the dictionary
+            # Give the candidate another vote
+            e_Results[e_Cand] += 1
 
         else:
-            # Ok, we'll get here for 2nd row and beyond
+            # No, this is the first vote the candidate has received
+            # Mark that the candidate has 1 vote
+            e_Results[e_Cand] = 1
 
-            # This is the 2nd row, so can start calculating P/L changes
-            chg_pl = b_pl - prev_pl
+        print(f"DEBUG: Candidate {e_Cand}: ({e_Results[e_Cand]})")
 
-            if c_months == 2:
-                # Store this P/L change as both the max P/L increase and decrease
-                # (since we only have one P/L change so far, it is both!)
-                max_pl_inc['bd'] = b_date
-                max_pl_inc['bpl'] = chg_pl
-                max_pl_dec['bd'] = b_date
-                max_pl_dec['bpl'] = chg_pl
-            
-            else:
-                # With at least 2 P/L changes, can start checking for max P/L increases and decreases
-                if chg_pl > max_pl_inc['bpl']:
-                    max_pl_inc['bd'] = b_date
-                    max_pl_inc['bpl'] = chg_pl
-
-                if chg_pl < max_pl_dec['bpl']:
-                    max_pl_dec['bd'] = b_date
-                    max_pl_dec['bpl'] = chg_pl
-    
-        # Final things to do before ending this iteration
-
-        # Save this current P/L value as the last P/L value - it will be eventually!
-        last_pl = b_pl
-
-        # Store the current PL amount as the "previous" P/L for use in the next iteration
-        prev_pl = b_pl
-
-        # Print debug message
-        # print(f"DEBUG: Date: {b_date}, P/L: ${b_pl}: # Months: {c_months}, Total P/L: ${tot_pl}, P/L Change: ${chg_pl}")
-
-    # Perform final calculations
+"""     # Perform final calculations
     avg_plchg = (last_pl-first_pl)/(c_months-1)
 
     # Generate the results - and store in a list for now
@@ -134,3 +90,4 @@ with open(csvPath, newline='', encoding="utf8") as csvFile:
         # Write the report content to the file
         # Use the .join to add a \n between each row of output in the report
         outFile.writelines("\n".join(r_rpt))
+ """
