@@ -73,6 +73,21 @@ with open(csvPath, newline='', encoding="utf8") as csvFile:
         # Accumulate the total P/L
         tot_pl += b_pl
 
+        # Do some special actions if this is the first row of data
+        if c_months == 1:
+            # Don't try to calculate a P/L change - there's no prev value yet
+            # Don't try to store a max P/L increase or decrease - don't have one yet
+            # Ok, that's it for this first row of data
+            pass
+            
+        else:
+            # 
+            pass
+    
+        # Final things to do before ending this iteration
+        # Store the current PL amount as the "previous" P/L for use in the next iteration
+        prev_pl = b_pl
+
         # Print debug message
         print(f"Date: {b_date}, P/L: {b_pl}: # Months: {c_months}, Total P/L: {tot_pl}")
 
