@@ -135,22 +135,10 @@ with open(csvPath, newline='', encoding="utf8") as csvFile:
 
     # Now, output the same information to a flat text file
 
+    # Get the path of the output file
+    output_file = os.path.join('report.txt')
 
-# # ABOVE IS REUSED CODE - DELETE THIS SECTION WHEN DONE
-#     # Specify the output file
-#     output_file = os.path.join("output.csv")
-
-#     # Write the content of the zip into a CSV file
-#     with open(output_file, "w", newline="", encoding="utf8") as outFile:
-        
-#         # Open the file for writing
-#         writer = csv.writer(outFile)
-
-#         # Write a header row to the file
-#         writer.writerow(["Title", "Price", "Subscriber Count", "Number of Reviews", "Course Length", "% Subscribers w/ Reviews"])
-
-#         # Write all of the tuples to the file
-#         writer.writerows(o_keyInfo)
-
-# # ABOVE IS REUSED CODE - DELETE THIS SECTION WHEN DONE
-
+    # Write the content of the zip into a CSV file
+    with open(output_file, "w", newline="", encoding="utf8") as outFile:
+        # Write the report content to the file
+        outFile.writelines(r_rpt)
