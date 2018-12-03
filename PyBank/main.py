@@ -45,17 +45,20 @@ with open(csvPath, newline='', encoding="utf8") as csvFile:
 
     # Remember the previous value of P/L for the calc of change and the average change,
     #  and use "None" to detect if it's the first value (where change should be set to 0.0)
-    prev_pl = None
+    prev_pl = 0.0
+    chg_pl = 0.0
     
     # Use lists to store the current max P/L increase and max P/L decrease and associated dates
     #   0 = Date in "Month-Year" format
     #   1 = max P/L increase or decrease (use None to detect if it's first value)
-    max_pl_inc = ["", None]
-    max_pl_dec = ["", None]
+    #
+    # @TODO: Change these lists to dictionaries to make it more readable
+    max_pl_inc = ["", 0.0]
+    max_pl_dec = ["", 0.0]
 
     # Average change in P/L is just the (last P/L chg - first P/L chg ) / (count of months -1)
-    first_plchg = None
-    last_plchg = None
+    first_pl = 0.0
+    last_pl = 0.0
 
     # Read through the input file one row at a time
     for b_Row in csvReader:
@@ -75,34 +78,62 @@ with open(csvPath, newline='', encoding="utf8") as csvFile:
 
         # Do some special actions if this is the first row of data
         if c_months == 1:
+            # Do save this first P/L value - we'll need it to calc the avg change later
+            first_pl = b_pl
+
             # Don't try to calculate a P/L change - there's no prev value yet
             # Don't try to store a max P/L increase or decrease - don't have one yet
-            # Ok, that's it for this first row of data
-            pass
-            
+
         else:
-            # 
-            pass
+            # Ok, we'll get here for 2nd row and beyond
+
+            # This is the 2nd row, so can start calculating P/L changes
+            chg_pl = b_pl - prev_pl
+
+            if c_months == 2:
+                # Store this P/L change as both the max P/L increase and decrease
+                # (since we only have one P/L change so far, it is both!)
+                max_pl_inc = [b_date, chg_pl]
+                max_pl_dec = [b_date, chg_pl]
+            
+            else:
+                # With at least 2 P/L changes, can start checking for max P/L increases and decreases
+                if chg_pl > max_pl_inc[1]:
+                    max_pl_inc[0] = b_date
+                    max_pl_inc[1] = chg_pl
+
+                if chg_pl < max_pl_dec[1]:
+                    max_pl_dec[0] = b_date
+                    max_pl_dec[1] = chg_pl
     
         # Final things to do before ending this iteration
+
+        # Save this current P/L value as the last P/L value - it will be eventually!
+        last_pl = b_pl
+
         # Store the current PL amount as the "previous" P/L for use in the next iteration
         prev_pl = b_pl
 
         # Print debug message
-        print(f"Date: {b_date}, P/L: {b_pl}: # Months: {c_months}, Total P/L: {tot_pl}")
+        # print(f"DEBUG: Date: {b_date}, P/L: ${b_pl}: # Months: {c_months}, Total P/L: ${tot_pl}, P/L Change: ${chg_pl}")
 
     # Perform final calculations
-    # avg_plchg = (last_plchg-first_plchg)/(c_months-1)
-    avg_plchg = 100.0
+    avg_plchg = (last_pl-first_pl)/(c_months-1)
 
-    # Print out the results
-    print("Financial Analysis")
-    print("-"*30)
-    print(f"Total Months: {c_months}")
-    print(f"Total Profit/Loss: ${tot_pl}")
-    print(f"Average Change: ${avg_plchg}")
-    print(f"Greatest Increase in Profits: {max_pl_inc[0]} {max_pl_inc[1]}")
-    print(f"Greatest Decrease in Profits: {max_pl_dec[0]} {max_pl_dec[1]}")
+    # Generate the results - and store in a list for now
+    r_rpt = []
+    r_rpt.append("Financial Analysis")
+    r_rpt.append("-"*30)
+    r_rpt.append(f"Total Months: {c_months}")
+    r_rpt.append(f"Total Profit/Loss: ${tot_pl:.2f}")
+    r_rpt.append(f"Average Change: ${avg_plchg:.2f}")
+    r_rpt.append(f"Greatest Increase in Profits: {max_pl_inc[0]} {max_pl_inc[1]:.2f}")
+    r_rpt.append(f"Greatest Decrease in Profits: {max_pl_dec[0]} {max_pl_dec[1]:.2f}")
+
+    # Print the results to the terminals
+    for r in r_rpt: print(r)
+
+    # Now, output the same information to a flat text file
 
 
 # # ABOVE IS REUSED CODE - DELETE THIS SECTION WHEN DONE
