@@ -4,10 +4,8 @@ Developer: @daddyjab (Jeff Brown)
 TODO:
     * Open the input file
     * Read in the contents one row at a time
-    *   Use a dictionary of named tuples to store the needed info
-    *   Store the Month/Year and the as "mmm-yyyy" format
-    *   Store the absolute Profit/Loss for the month
     *   Calculate and store the change in profit (loss) for each entry (vs. previous month)
+    *   Remember: Can't start calculating a change in profit until the 2nd month
     * 
     * When the full input has been processed, calculate
     *   Total number of months included in the dataset
@@ -134,11 +132,11 @@ with open(csvPath, newline='', encoding="utf8") as csvFile:
     for r in r_rpt: print(r)
 
     # Now, output the same information to a flat text file
-
     # Get the path of the output file
     output_file = os.path.join('report.txt')
 
     # Write the content of the zip into a CSV file
     with open(output_file, "w", newline="", encoding="utf8") as outFile:
         # Write the report content to the file
-        outFile.writelines(r_rpt)
+        # Use the .join to add a \n between each row of output in the report
+        outFile.writelines("\n".join(r_rpt))
