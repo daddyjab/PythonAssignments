@@ -63,7 +63,17 @@ with open(csvPath, newline='', encoding="utf8") as csvFile:
             # Mark that the candidate has 1 vote
             e_Results[e_Cand] = 1
 
-        print(f"DEBUG: Candidate {e_Cand}: ({e_Results[e_Cand]})")
+        # print(f"DEBUG: Candidate {e_Cand}: ({e_Results[e_Cand]})")
+
+    # print("DEBUG: \n", e_Results)
+
+    # Find the top vote count
+    e_TopCount = max(e_Results.values())
+
+    # Find the key (i.e., the Candidate) who earned the top vote count
+    e_Winner = list(e_Results.keys())[list(e_Results.values()).index(e_TopCount)]
+
+    print(e_Winner)
 
 """     # Perform final calculations
     avg_plchg = (last_pl-first_pl)/(c_months-1)
