@@ -8,7 +8,7 @@ Developer: @daddyjab (Jeff Brown)
 import os
 import csv
 
-# Set the path to the CSV file that contains Udemy offerings
+# Set the path to the CSV file
 
 csvPath = os.path.join('Resources', 'budget_data.csv')
 
