@@ -65,22 +65,18 @@ with open(csvPath, newline='', encoding="utf8") as csvFile:
 
         # print(f"DEBUG: Candidate {e_Cand}: ({e_Results[e_Cand]})")
 
-    # print("DEBUG: \n", e_Results)
-
     # Find the top vote count
-    e_TopCount = max(e_Results.values())
+    e_TopVote = max(e_Results.values())
 
     # Find the key (i.e., the Candidate) who earned the top vote count
-    e_Winner = list(e_Results.keys())[list(e_Results.values()).index(e_TopCount)]
+    e_Winner = list(e_Results.keys())[list(e_Results.values()).index(e_TopVote)]
 
-    print(e_Winner)
-
-"""     # Perform final calculations
-    avg_plchg = (last_pl-first_pl)/(c_months-1)
+    # Find total votes cast
+    e_TotVotes = sum(e_Results.values())
 
     # Generate the results - and store in a list for now
     r_rpt = []
-    r_rpt.append("Financial Analysis")
+    r_rpt.append("Election Results")
     r_rpt.append("-"*30)
     r_rpt.append(f"Total Months: {c_months}")
     r_rpt.append(f"Total Profit/Loss: ${tot_pl:.2f}")
