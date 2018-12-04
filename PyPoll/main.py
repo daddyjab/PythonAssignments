@@ -78,11 +78,18 @@ with open(csvPath, newline='', encoding="utf8") as csvFile:
     r_rpt = []
     r_rpt.append("Election Results")
     r_rpt.append("-"*30)
-    r_rpt.append(f"Total Months: {c_months}")
-    r_rpt.append(f"Total Profit/Loss: ${tot_pl:.2f}")
-    r_rpt.append(f"Average Change: ${avg_plchg:.2f}")
-    r_rpt.append(f"Greatest Increase in Profits: ({max_pl_inc['bd']}) ${max_pl_inc['bpl']:.2f}")
-    r_rpt.append(f"Greatest Decrease in Profits: ({max_pl_dec['bd']}) ${max_pl_dec['bpl']:.2f}")
+    r_rpt.append(f"Total Votes: {e_TotVotes}")
+    
+    # Print individual Candidate results
+    r_rpt.append("-"*30)
+    r_rpt.append(f"Candidate Results:")
+    for e_c, e_v in e_Results.items():
+        r_rpt.append(f"{e_c}: {e_v/e_TotVotes:.3%} ({e_v})")
+
+    # Print Winning candidate
+    r_rpt.append("-"*30)
+    r_rpt.append(f"Winner: {e_Winner}")
+    r_rpt.append("-"*30)
 
     # Print the results to the terminals
     for r in r_rpt: print(r)
@@ -96,4 +103,3 @@ with open(csvPath, newline='', encoding="utf8") as csvFile:
         # Write the report content to the file
         # Use the .join to add a \n between each row of output in the report
         outFile.writelines("\n".join(r_rpt))
- """
