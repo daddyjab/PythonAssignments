@@ -1,519 +1,519 @@
 City Name,Country Name,Country Official Name,Country Code,Target Lat,Target Long,Grid Lat,Grid Long,Actual Lat,Actual Long,In Target Grid Area,Temp,Humidity,Cloudiness,Wind Speed,Wind Direction,Weather Description,Weather Icon URL
-Vaini,Tonga,Kingdom of Tonga,TO,-90.0,-178.57431159555952,-90.0,-180.0,-21.2,-175.2,False,73.4,94.0,75.0,4.85,99.5038,broken clouds,http://openweathermap.org/img/w/04n.png
-Rikitea,French Polynesia,French Polynesia,PF,-90.0,-139.69944296144624,-90.0,-138.0,-23.12,-134.97,False,78.29,100.0,20.0,11.18,67.0038,few clouds,http://openweathermap.org/img/w/02d.png
-Punta Arenas,Chile,Republic of Chile,CL,-90.0,-127.02874122657377,-90.0,-124.0,-53.16,-70.91,False,50.0,71.0,75.0,10.29,360.0,light rain,http://openweathermap.org/img/w/10d.png
-Ushuaia,Argentina,Argentine Republic,AR,-90.0,-90.54119095538078,-90.0,-89.0,-54.81,-68.31,False,50.16,61.0,40.0,5.82,180.0,scattered clouds,http://openweathermap.org/img/w/03d.png
-Hermanus,South Africa,Republic of South Africa,ZA,-90.0,-13.56377540733186,-90.0,-12.0,-34.42,19.24,False,70.55,53.0,0.0,5.86,136.004,clear sky,http://openweathermap.org/img/w/01d.png
-Bredasdorp,South Africa,Republic of South Africa,ZA,-88.46972217907702,14.156558772035922,-90.0,16.0,-34.53,20.04,False,73.4,60.0,0.0,6.93,190.0,clear sky,http://openweathermap.org/img/w/01d.png
-Port Elizabeth,South Africa,Republic of South Africa,ZA,-90.0,33.51454720577433,-90.0,37.0,-33.92,25.57,False,73.4,73.0,75.0,8.05,180.0,broken clouds,http://openweathermap.org/img/w/04d.png
-Port Alfred,South Africa,Republic of South Africa,ZA,-87.24321767329872,43.81650942274569,-90.0,44.0,-33.59,26.89,False,71.09,88.0,64.0,7.38,196.004,broken clouds,http://openweathermap.org/img/w/04d.png
-East London,South Africa,Republic of South Africa,ZA,-90.0,60.54969643436102,-90.0,58.0,-33.02,27.91,False,71.6,83.0,0.0,9.17,210.0,clear sky,http://openweathermap.org/img/w/01d.png
-Busselton,Australia,Australia,AU,-86.66060829210932,82.17329123789732,-90.0,79.0,-33.64,115.35,False,62.45,100.0,24.0,7.05,221.004,few clouds,http://openweathermap.org/img/w/02n.png
-Albany,Australia,Australia,AU,-87.73069377551366,92.49482054930046,-90.0,93.0,-35.02,117.88,False,55.4,100.0,0.0,3.36,330.0,clear sky,http://openweathermap.org/img/w/01n.png
-New Norfolk,Australia,Australia,AU,-90.0,121.1782741192776,-90.0,121.0,-42.78,147.06,False,60.8,77.0,75.0,9.17,30.0,broken clouds,http://openweathermap.org/img/w/04n.png
-Hobart,Australia,Australia,AU,-90.0,134.14032933181565,-90.0,135.0,-42.88,147.33,False,60.8,77.0,75.0,9.17,30.0,broken clouds,http://openweathermap.org/img/w/04n.png
-Bluff,New Zealand,New Zealand,NZ,-88.48779586452106,156.8787793476428,-90.0,156.0,-46.6,168.33,False,56.91,100.0,100.0,9.66,259.004,light rain,http://openweathermap.org/img/w/10n.png
-Cape Town,South Africa,Republic of South Africa,ZA,-84.69856549621947,-14.401802363766397,-83.0,-12.0,-33.93,18.42,False,71.6,68.0,20.0,28.86,180.0,few clouds,http://openweathermap.org/img/w/02d.png
-Kaitangata,New Zealand,New Zealand,NZ,-82.18681426511995,179.41568528028455,-83.0,177.0,-46.28,169.85,False,54.8,86.0,48.0,5.41,186.004,scattered clouds,http://openweathermap.org/img/w/03n.png
-Kruisfontein,South Africa,Republic of South Africa,ZA,-72.99815266735435,26.971591773655412,-76.0,30.0,-34.0,24.73,False,67.8,87.0,64.0,1.72,187.004,broken clouds,http://openweathermap.org/img/w/04d.png
-Mar Del Plata,Argentina,Argentine Republic,AR,-65.52903697483232,-28.070868914297133,-69.0,-26.0,-46.43,-67.52,False,72.35,35.0,8.0,25.28,288.004,clear sky,http://openweathermap.org/img/w/02d.png
-Chuy,Uruguay,Eastern Republic of Uruguay,UY,-68.95160402961595,-19.663880395804306,-69.0,-19.0,-33.69,-53.46,False,77.21,90.0,36.0,14.7,182.504,scattered clouds,http://openweathermap.org/img/w/03d.png
-Saint-Philippe,Réunion,Réunion,RE,-58.84392070546551,72.76427654382165,-62.0,72.0,-21.36,55.77,False,81.55,65.0,76.0,8.05,60.0,broken clouds,http://openweathermap.org/img/w/04n.png
-Tuatapere,New Zealand,New Zealand,NZ,-64.65131804579015,154.32587438145657,-62.0,156.0,-46.13,167.69,False,56.55,100.0,92.0,9.06,213.004,light rain,http://openweathermap.org/img/w/10n.png
-Avarua,Cook Islands,Cook Islands,CK,-56.567286536064614,-164.9839082260477,-55.0,-166.0,-21.21,-159.78,False,80.6,83.0,75.0,9.17,70.0,broken clouds,http://openweathermap.org/img/w/04d.png
-Castro,Chile,Republic of Chile,CL,-53.7335299802519,-102.07082304182217,-55.0,-103.0,-42.48,-73.76,False,55.4,87.0,90.0,14.99,340.0,mist,http://openweathermap.org/img/w/50d.png
-Arraial Do Cabo,Brazil,Federative Republic of Brazil,BR,-55.19962036308101,-18.75801453403345,-55.0,-19.0,-22.97,-42.02,False,86.47,66.0,20.0,16.11,130.0,few clouds,http://openweathermap.org/img/w/02d.png
-Mahebourg,Mauritius,Republic of Mauritius,MU,-56.62928585145022,79.53850571729781,-55.0,79.0,-20.41,57.7,False,80.6,83.0,20.0,7.38,136.504,few clouds,http://openweathermap.org/img/w/02n.png
-Dunedin,New Zealand,New Zealand,NZ,-54.32173031835878,177.74485306105993,-55.0,180.0,-45.87,170.5,False,56.73,99.0,76.0,2.91,51.0038,light rain,http://openweathermap.org/img/w/10n.png
-Coihaique,Chile,Republic of Chile,CL,-47.36724015361082,-76.80093413181189,-48.0,-75.0,-45.58,-72.07,False,58.19,54.0,75.0,9.17,260.0,broken clouds,http://openweathermap.org/img/w/04d.png
-Comodoro Rivadavia,Argentina,Argentine Republic,AR,-48.261500561114055,-68.61558977510393,-48.0,-68.0,-45.87,-67.48,True,73.4,65.0,40.0,19.46,290.0,scattered clouds,http://openweathermap.org/img/w/03d.png
-Jamestown,"Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan da Cunha",SH,-48.697942839488945,-17.417706929592352,-48.0,-19.0,-15.94,-5.72,False,72.03,100.0,56.0,14.36,119.004,broken clouds,http://openweathermap.org/img/w/04d.png
-Saldanha,South Africa,Republic of South Africa,ZA,-46.18279093011982,-8.97100685259665,-48.0,-12.0,-33.01,17.94,False,75.2,53.0,0.0,20.8,200.0,clear sky,http://openweathermap.org/img/w/01d.png
-Esperance,Australia,Australia,AU,-44.73186301781127,124.68567677751949,-48.0,128.0,-33.86,121.89,False,59.0,93.0,40.0,1.12,240.0,scattered clouds,http://openweathermap.org/img/w/03n.png
-Mount Gambier,Australia,Australia,AU,-46.40946515332582,132.46042612525878,-48.0,135.0,-37.83,140.78,False,50.0,87.0,0.0,5.82,150.0,clear sky,http://openweathermap.org/img/w/01n.png
-Te Anau,New Zealand,New Zealand,NZ,-45.3715671125046,167.16894565401768,-48.0,170.0,-45.41,167.72,True,55.61,98.0,92.0,2.57,312.004,light rain,http://openweathermap.org/img/w/10n.png
-Christchurch,New Zealand,New Zealand,NZ,-50.98098535821709,178.85594906809447,-48.0,177.0,-43.53,172.64,False,57.2,87.0,44.0,3.36,310.0,scattered clouds,http://openweathermap.org/img/w/03n.png
-Waipawa,New Zealand,New Zealand,NZ,-44.629132437029455,178.5817653386244,-48.0,180.0,-39.94,176.59,False,61.82,79.0,12.0,8.55,279.004,few clouds,http://openweathermap.org/img/w/02n.png
-Ancud,Chile,Republic of Chile,CL,-40.143544361676916,-98.93694913233522,-41.0,-96.0,-41.87,-73.83,False,55.4,87.0,90.0,14.99,340.0,mist,http://openweathermap.org/img/w/50d.png
-General Roca,Argentina,Argentine Republic,AR,-39.67000492774666,-67.79922895008315,-41.0,-68.0,-39.03,-67.58,True,73.4,27.0,0.0,3.36,230.0,clear sky,http://openweathermap.org/img/w/01d.png
-Viedma,Argentina,Argentine Republic,AR,-42.01373556725493,-60.27747041163206,-41.0,-61.0,-40.81,-62.99,True,76.85,27.0,0.0,9.33,297.504,clear sky,http://openweathermap.org/img/w/01d.png
-Margate,South Africa,Republic of South Africa,ZA,-40.16439441274852,41.01539872586459,-41.0,44.0,-30.86,30.37,False,75.18,90.0,92.0,8.43,35.5038,overcast clouds,http://openweathermap.org/img/w/04n.png
-Port Lincoln,Australia,Australia,AU,-41.86147310334567,130.88109147878816,-41.0,128.0,-34.72,135.86,False,59.21,100.0,0.0,8.05,145.504,clear sky,http://openweathermap.org/img/w/01n.png
-Portland,Australia,Australia,AU,-42.81952015047886,140.52222447557895,-41.0,142.0,-33.35,149.98,False,62.13,85.0,32.0,1.57,335.504,scattered clouds,http://openweathermap.org/img/w/03n.png
-Launceston,Australia,Australia,AU,-40.76329965242791,147.955634828479,-41.0,149.0,-41.43,147.14,True,51.8,81.0,44.0,3.36,330.0,scattered clouds,http://openweathermap.org/img/w/03n.png
-Westport,New Zealand,New Zealand,NZ,-38.876788640181054,168.9368942197159,-41.0,170.0,-41.75,171.6,True,61.01,100.0,92.0,1.9,260.504,light rain,http://openweathermap.org/img/w/10n.png
-Otane,New Zealand,New Zealand,NZ,-41.001545660892056,177.6239258403196,-41.0,177.0,-39.89,176.62,True,53.54,90.0,8.0,2.51,296.504,clear sky,http://openweathermap.org/img/w/02n.png
-Lebu,Chile,Republic of Chile,CL,-33.70878951245961,-103.71316064406228,-34.0,-103.0,-37.62,-73.65,False,58.53,96.0,0.0,12.12,206.004,clear sky,http://openweathermap.org/img/w/01d.png
-Constitucion,Chile,Republic of Chile,CL,-33.21887487421186,-77.64494844569835,-34.0,-75.0,-35.33,-72.42,False,62.13,78.0,0.0,15.37,220.504,clear sky,http://openweathermap.org/img/w/01d.png
-San Rafael,Argentina,Argentine Republic,AR,-34.398322328975816,-67.24187152271998,-34.0,-68.0,-34.61,-68.33,True,74.6,19.0,0.0,11.34,28.5038,clear sky,http://openweathermap.org/img/w/01d.png
-Santa Fe,Argentina,Argentine Republic,AR,-31.985589823630395,-60.9161784712787,-34.0,-61.0,-31.62,-60.7,True,79.95,83.0,24.0,13.98,157.004,few clouds,http://openweathermap.org/img/w/02d.png
-Tapes,Brazil,Federative Republic of Brazil,BR,-31.264100027257022,-50.95830571818229,-34.0,-54.0,-30.67,-51.4,True,84.05,95.0,44.0,6.26,171.004,light rain,http://openweathermap.org/img/w/10d.png
-Luderitz,Namibia,Republic of Namibia,NA,-31.891683549445347,0.6901726719207142,-34.0,2.0,-26.65,15.16,False,66.9,67.0,0.0,17.16,177.004,clear sky,http://openweathermap.org/img/w/01d.png
-Calvinia,South Africa,Republic of South Africa,ZA,-31.42225146336611,19.737089842196653,-34.0,23.0,-31.47,19.78,True,81.08,21.0,0.0,7.76,235.004,clear sky,http://openweathermap.org/img/w/01d.png
-Richards Bay,South Africa,Republic of South Africa,ZA,-35.71455147482171,39.68933412693481,-34.0,37.0,-28.77,32.06,False,71.31,99.0,92.0,2.13,289.504,heavy intensity rain,http://openweathermap.org/img/w/10n.png
-Saint-Joseph,Réunion,Réunion,RE,-31.795049587062426,55.31276903001792,-34.0,58.0,-21.37,55.62,False,81.57,65.0,76.0,8.05,60.0,broken clouds,http://openweathermap.org/img/w/04n.png
-Souillac,Mauritius,Republic of Mauritius,MU,-33.94661066885778,62.99655179831732,-34.0,65.0,-20.52,57.52,False,80.6,83.0,20.0,7.38,136.504,few clouds,http://openweathermap.org/img/w/02n.png
-Bambous Virieux,Mauritius,Republic of Mauritius,MU,-31.927494186615544,80.49157695253163,-34.0,79.0,-20.34,57.76,False,80.6,83.0,20.0,7.38,136.504,few clouds,http://openweathermap.org/img/w/02n.png
-Carnarvon,Australia,Australia,AU,-32.09419794527466,88.76109237983178,-34.0,86.0,-24.87,113.63,False,73.4,73.0,0.0,18.34,180.0,clear sky,http://openweathermap.org/img/w/01n.png
-Geraldton,Australia,Australia,AU,-31.449474351475367,97.05199301785629,-34.0,100.0,-28.77,114.6,False,66.2,88.0,0.0,13.87,180.0,clear sky,http://openweathermap.org/img/w/01n.png
-Murray Bridge,Australia,Australia,AU,-35.90094097332611,140.51608983324013,-34.0,142.0,-35.12,139.28,True,62.99,95.0,0.0,12.68,176.004,clear sky,http://openweathermap.org/img/w/01n.png
-Ulladulla,Australia,Australia,AU,-36.1997108368174,151.267933541595,-34.0,149.0,-35.36,150.48,True,69.96,96.0,44.0,10.45,338.004,light rain,http://openweathermap.org/img/w/10n.png
-Nelson Bay,Australia,Australia,AU,-37.15989752785836,156.86973942139784,-34.0,156.0,-32.72,152.14,False,68.0,94.0,40.0,4.7,130.0,scattered clouds,http://openweathermap.org/img/w/03n.png
-Ahipara,New Zealand,New Zealand,NZ,-34.257037879863695,165.58075761632762,-34.0,163.0,-35.17,173.16,False,58.94,100.0,48.0,3.4,207.504,scattered clouds,http://openweathermap.org/img/w/03n.png
-Russell,New Zealand,New Zealand,NZ,-30.973418085482844,178.2681771370946,-34.0,177.0,-35.26,174.12,False,55.16,89.0,0.0,2.91,220.504,clear sky,http://openweathermap.org/img/w/01n.png
-Coquimbo,Chile,Republic of Chile,CL,-29.617626578115875,-80.29393327189482,-27.0,-82.0,-29.95,-71.34,False,68.0,64.0,0.0,16.11,270.0,clear sky,http://openweathermap.org/img/w/01d.png
-Vallenar,Chile,Republic of Chile,CL,-28.92273473001061,-71.63759355843285,-27.0,-75.0,-28.58,-70.76,True,75.0,70.0,64.0,2.91,279.504,broken clouds,http://openweathermap.org/img/w/04d.png
-Pozo Colorado,Paraguay,Republic of Paraguay,PY,-23.80153919784216,-59.84377974214169,-27.0,-61.0,-23.49,-58.8,True,91.65,63.0,64.0,10.63,0.00384521,broken clouds,http://openweathermap.org/img/w/04d.png
-Jesus,Paraguay,Republic of Paraguay,PY,-27.04906190110741,-55.75170110328826,-27.0,-54.0,-27.05,-55.78,True,89.56,63.0,75.0,2.62,294.504,shower rain,http://openweathermap.org/img/w/09d.png
-Braco Do Norte,Brazil,Federative Republic of Brazil,BR,-27.96735120685883,-49.03771203081708,-27.0,-47.0,-28.27,-49.17,True,83.33,78.0,44.0,1.9,147.504,light rain,http://openweathermap.org/img/w/10d.png
-Vila Velha,Brazil,Federative Republic of Brazil,BR,-23.773555218711216,-30.06282110001016,-27.0,-33.0,-3.71,-38.6,False,86.0,66.0,0.0,13.87,70.0,clear sky,http://openweathermap.org/img/w/01d.png
-Kanye,Botswana,Republic of Botswana,BW,-24.964606752339023,25.126866136162313,-27.0,23.0,-24.98,25.34,True,65.24,94.0,92.0,6.26,159.504,light rain,http://openweathermap.org/img/w/10n.png
-Nsoko,Swaziland,Kingdom of Swaziland,SZ,-27.07142794734806,32.3801228517842,-27.0,30.0,-27.03,31.95,True,73.4,83.0,88.0,2.62,201.504,moderate rain,http://openweathermap.org/img/w/10n.png
-Xai-Xai,Mozambique,Republic of Mozambique,MZ,-25.711217557106856,34.44738423526362,-27.0,37.0,-25.04,33.64,True,78.74,91.0,12.0,16.67,91.5038,few clouds,http://openweathermap.org/img/w/02n.png
-Roebourne,Australia,Australia,AU,-25.056101302244116,118.54609616746296,-27.0,121.0,-20.77,117.15,False,73.79,85.0,0.0,6.76,309.004,clear sky,http://openweathermap.org/img/w/01n.png
-Yulara,Australia,Australia,AU,-25.442745191869463,131.12243793587552,-27.0,128.0,-25.24,130.99,True,91.4,26.0,88.0,14.99,160.0,overcast clouds,http://openweathermap.org/img/w/04n.png
-Alice Springs,Australia,Australia,AU,-27.373092154798975,136.9654214124678,-27.0,135.0,-23.7,133.88,False,89.6,18.0,0.0,8.05,90.0,clear sky,http://openweathermap.org/img/w/01n.png
-Broken Hill,Australia,Australia,AU,-29.537177104092187,142.4101819001957,-27.0,142.0,-31.97,141.45,True,87.8,23.0,92.0,23.04,60.0,overcast clouds,http://openweathermap.org/img/w/04n.png
-Roma,Australia,Australia,AU,-26.71304633156108,146.20498362664875,-27.0,149.0,-26.57,148.79,True,70.37,52.0,0.0,12.8,34.0038,clear sky,http://openweathermap.org/img/w/01n.png
-Byron Bay,Australia,Australia,AU,-28.688097553972046,154.6567351064322,-27.0,156.0,-28.65,153.62,True,67.73,73.0,80.0,9.17,40.0,broken clouds,http://openweathermap.org/img/w/04n.png
-Vao,New Caledonia,New Caledonia,NC,-24.78230912719214,168.4367610664242,-27.0,170.0,-22.67,167.48,True,75.18,100.0,32.0,24.61,125.004,scattered clouds,http://openweathermap.org/img/w/03n.png
-Kaeo,New Zealand,New Zealand,NZ,-29.21132602898097,176.53706153755502,-27.0,180.0,-35.1,173.78,False,55.16,89.0,0.0,2.91,220.504,clear sky,http://openweathermap.org/img/w/01n.png
-Alofi,Niue,Niue,NU,-17.983360560095505,-169.88278464313362,-20.0,-173.0,-19.06,-169.92,True,78.8,88.0,88.0,9.17,350.0,overcast clouds,http://openweathermap.org/img/w/04n.png
-Tautira,French Polynesia,French Polynesia,PF,-19.87684210069503,-147.23086339560348,-20.0,-145.0,-17.73,-149.15,True,80.6,74.0,20.0,12.75,80.0,shower rain,http://openweathermap.org/img/w/09d.png
-Atuona,French Polynesia,French Polynesia,PF,-16.91883243133168,-140.27784315061797,-20.0,-138.0,-9.8,-139.03,False,80.36,100.0,56.0,19.84,99.5038,broken clouds,http://openweathermap.org/img/w/04d.png
-Puerto Ayora,Ecuador,Republic of Ecuador,EC,-17.574193185918542,-102.78579016822819,-20.0,-103.0,-0.74,-90.35,False,84.2,66.0,75.0,19.46,140.0,broken clouds,http://openweathermap.org/img/w/04d.png
-Pisco,Peru,Republic of Peru,PE,-23.236300897222378,-95.01683712275783,-20.0,-96.0,-13.71,-76.2,False,71.6,30.0,0.0,10.29,290.0,clear sky,http://openweathermap.org/img/w/01d.png
-Punta De Bombon,Peru,Republic of Peru,PE,-17.562822535382374,-71.94755601058277,-20.0,-75.0,-17.17,-71.79,True,69.6,100.0,88.0,8.28,163.504,overcast clouds,http://openweathermap.org/img/w/04d.png
-Uyuni,"Bolivia, Plurinational State of",Plurinational State of Bolivia,BO,-19.8421595793465,-68.24839398054539,-20.0,-68.0,-20.46,-66.82,True,55.2,92.0,48.0,5.82,91.0038,light rain,http://openweathermap.org/img/w/10d.png
-Boyuibe,"Bolivia, Plurinational State of",Plurinational State of Bolivia,BO,-20.890870800012404,-62.26291093454337,-20.0,-61.0,-20.43,-63.28,True,91.4,55.0,90.0,3.02,73.0038,overcast clouds,http://openweathermap.org/img/w/04d.png
-Caiaponia,Brazil,Federative Republic of Brazil,BR,-16.859243441959944,-51.91045768641655,-20.0,-54.0,-16.96,-51.81,True,72.98,99.0,92.0,8.05,323.504,light rain,http://openweathermap.org/img/w/10d.png
-Lambari,Brazil,Federative Republic of Brazil,BR,-22.034013882583636,-45.44525129813725,-20.0,-47.0,-21.98,-45.35,True,80.81,77.0,12.0,4.14,287.504,few clouds,http://openweathermap.org/img/w/02d.png
-Santa Maria Do Suacui,Brazil,Federative Republic of Brazil,BR,-18.303031271927054,-42.2766809059603,-20.0,-40.0,-18.19,-42.41,True,75.41,95.0,76.0,3.85,3.00385,light rain,http://openweathermap.org/img/w/10d.png
-Caravelas,Brazil,Federative Republic of Brazil,BR,-21.28672196265773,-31.14424417581417,-20.0,-33.0,-17.73,-39.27,False,80.27,99.0,56.0,17.72,33.0038,broken clouds,http://openweathermap.org/img/w/04d.png
-Georgetown,"Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan da Cunha",SH,-18.814878026688874,-23.48975522030837,-20.0,-26.0,-7.93,-14.42,False,76.53,100.0,92.0,12.86,117.004,light rain,http://openweathermap.org/img/w/10d.png
-Henties Bay,Namibia,Republic of Namibia,NA,-22.979841081678362,3.5522150959836765,-20.0,2.0,-22.12,14.28,False,66.41,84.0,0.0,4.59,219.004,clear sky,http://openweathermap.org/img/w/01d.png
-Khorixas,Namibia,Republic of Namibia,NA,-19.31231295480142,15.087800162172659,-20.0,16.0,-20.37,14.96,True,81.71,32.0,12.0,12.57,237.504,few clouds,http://openweathermap.org/img/w/02d.png
-Rundu,Namibia,Republic of Namibia,NA,-17.585958685026966,20.531702848014,-20.0,23.0,-17.91,19.77,True,74.33,83.0,0.0,3.91,80.0038,clear sky,http://openweathermap.org/img/w/01d.png
-Chipinge,Zimbabwe,Republic of Zimbabwe,ZW,-20.085232154320245,32.41054943734638,-20.0,30.0,-20.19,32.62,True,75.23,85.0,12.0,7.16,105.004,few clouds,http://openweathermap.org/img/w/02n.png
-Nsanje,Malawi,Republic of Malawi,MW,-17.661351208918305,34.33343568325038,-20.0,37.0,-16.92,35.26,True,85.08,59.0,44.0,9.55,153.504,scattered clouds,http://openweathermap.org/img/w/03n.png
-Miandrivazo,Madagascar,Republic of Madagascar,MG,-19.821004623204892,45.44951511641755,-20.0,44.0,-19.53,45.46,True,70.68,94.0,76.0,3.8,99.0038,moderate rain,http://openweathermap.org/img/w/10n.png
-Grand Gaube,Mauritius,Republic of Mauritius,MU,-17.879830272503863,61.14090830190866,-20.0,58.0,-20.01,57.66,True,80.6,83.0,20.0,10.89,132.004,few clouds,http://openweathermap.org/img/w/02n.png
-Quatre Cocos,Mauritius,Republic of Mauritius,MU,-17.295076780448095,63.94080443992557,-20.0,65.0,-20.21,57.76,False,80.6,83.0,20.0,7.38,136.504,few clouds,http://openweathermap.org/img/w/02n.png
-Hithadhoo,Maldives,Republic of Maldives,MV,-23.014879955575232,83.89106540966776,-20.0,86.0,-0.6,73.08,False,82.97,100.0,20.0,4.63,8.50385,few clouds,http://openweathermap.org/img/w/02n.png
-Port Hedland,Australia,Australia,AU,-20.2940916976914,120.94636454105627,-20.0,121.0,-20.31,118.58,True,78.8,88.0,56.0,12.75,280.0,broken clouds,http://openweathermap.org/img/w/04n.png
-Kununurra,Australia,Australia,AU,-18.37163352718737,127.98130432489577,-20.0,128.0,-15.77,128.74,True,82.4,88.0,75.0,6.93,150.0,broken clouds,http://openweathermap.org/img/w/04n.png
-Mount Isa,Australia,Australia,AU,-22.866025118009123,140.6316954725505,-20.0,142.0,-20.73,139.49,True,89.6,31.0,0.0,13.87,90.0,clear sky,http://openweathermap.org/img/w/01n.png
-Bowen,Australia,Australia,AU,-17.48591665280525,149.13342304423745,-20.0,149.0,-20.01,148.25,True,75.2,83.0,90.0,9.17,120.0,overcast clouds,http://openweathermap.org/img/w/04n.png
-Poum,New Caledonia,New Caledonia,NC,-22.91442450192076,159.4629408165326,-20.0,156.0,-20.23,164.02,False,77.39,100.0,0.0,19.91,114.004,clear sky,http://openweathermap.org/img/w/01n.png
-Fayaoue,New Caledonia,New Caledonia,NC,-20.4322561361356,166.81524961227143,-20.0,170.0,-20.65,166.53,True,77.48,100.0,68.0,21.14,133.504,light rain,http://openweathermap.org/img/w/10n.png
-Isangel,Vanuatu,Republic of Vanuatu,VU,-19.828414913789686,174.86803154455885,-20.0,177.0,-19.55,169.27,False,77.93,100.0,20.0,18.39,119.504,few clouds,http://openweathermap.org/img/w/02n.png
-Faanui,French Polynesia,French Polynesia,PF,-9.675255285837267,-157.67125445776247,-13.0,-159.0,-16.48,-151.75,False,82.16,100.0,12.0,16.33,83.5038,light rain,http://openweathermap.org/img/w/10d.png
-San Cristobal,Ecuador,Republic of Ecuador,EC,-13.991787872239552,-91.20839961684979,-13.0,-89.0,-1.02,-79.44,False,67.98,100.0,76.0,1.9,332.004,light rain,http://openweathermap.org/img/w/10d.png
-Hualmay,Peru,Republic of Peru,PE,-12.560123009683327,-80.76861098927793,-13.0,-82.0,-11.1,-77.61,True,77.12,65.0,44.0,5.59,198.504,scattered clouds,http://openweathermap.org/img/w/03d.png
-Mazamari,Peru,Republic of Peru,PE,-10.14392342302442,-73.72210523067345,-13.0,-75.0,-11.33,-74.53,True,65.96,100.0,92.0,1.9,206.504,moderate rain,http://openweathermap.org/img/w/10d.png
-San Borja,"Bolivia, Plurinational State of",Plurinational State of Bolivia,BO,-15.304757084352527,-65.9463465547073,-13.0,-68.0,-14.86,-66.75,True,77.03,90.0,68.0,3.62,301.504,light rain,http://openweathermap.org/img/w/10d.png
-Alta Floresta,Brazil,Federative Republic of Brazil,BR,-9.93890795878781,-52.7961686963696,-13.0,-54.0,-9.87,-56.08,True,80.6,83.0,75.0,3.36,270.0,shower rain,http://openweathermap.org/img/w/09d.png
-Niquelandia,Brazil,Federative Republic of Brazil,BR,-14.672298587904141,-48.27369009212729,-13.0,-47.0,-14.47,-48.46,True,82.16,80.0,48.0,6.76,276.504,light rain,http://openweathermap.org/img/w/10d.png
-Aracaju,Brazil,Federative Republic of Brazil,BR,-11.096905427368561,-37.00727513063512,-13.0,-40.0,-10.92,-37.08,True,84.2,58.0,20.0,14.99,120.0,few clouds,http://openweathermap.org/img/w/02d.png
-Conde,Brazil,Federative Republic of Brazil,BR,-14.674928088278238,-33.9192383148309,-13.0,-33.0,-11.81,-37.61,False,86.25,61.0,64.0,10.11,87.5038,broken clouds,http://openweathermap.org/img/w/04d.png
-Maragogi,Brazil,Federative Republic of Brazil,BR,-14.38946539375906,-27.168588052084303,-13.0,-26.0,-9.01,-35.22,False,86.3,65.0,0.0,11.79,102.004,clear sky,http://openweathermap.org/img/w/01d.png
-Namibe,Angola,Republic of Angola,AO,-14.06364675630369,5.672134104465416,-13.0,9.0,-15.19,12.15,False,75.0,100.0,12.0,10.33,238.504,few clouds,http://openweathermap.org/img/w/02d.png
-Eenhana,Namibia,Republic of Namibia,NA,-16.385192612222916,17.041073792708563,-13.0,16.0,-17.48,16.34,True,96.8,22.0,0.0,3.36,200.0,clear sky,http://openweathermap.org/img/w/01d.png
-Kalabo,Zambia,Republic of Zambia,ZM,-15.80153068386619,21.930657043792877,-13.0,23.0,-15.0,22.67,True,72.71,85.0,68.0,7.16,73.0038,broken clouds,http://openweathermap.org/img/w/04n.png
-Nyimba,Zambia,Republic of Zambia,ZM,-15.436294198163186,31.605939346327908,-13.0,30.0,-14.56,30.81,True,70.95,96.0,0.0,2.73,196.004,clear sky,http://openweathermap.org/img/w/01n.png
-Matiri,"Tanzania, United Republic of",United Republic of Tanzania,TZ,-10.201449543558194,34.6875064335636,-13.0,37.0,-10.75,34.9,True,71.54,100.0,20.0,3.4,131.004,few clouds,http://openweathermap.org/img/w/02n.png
-Sambava,Madagascar,Republic of Madagascar,MG,-11.265905463841214,54.371740261226265,-13.0,51.0,-14.27,50.17,False,83.42,100.0,88.0,11.41,142.004,overcast clouds,http://openweathermap.org/img/w/04n.png
-Praya,Indonesia,Republic of Indonesia,ID,-11.411326789874531,116.28125467994813,-13.0,114.0,-8.71,116.27,True,80.6,83.0,75.0,2.24,,broken clouds,http://openweathermap.org/img/w/04n.png
-Broome,Australia,Australia,AU,-16.098059372535445,118.96774329789078,-13.0,121.0,-17.97,122.23,True,84.2,79.0,40.0,11.41,290.0,scattered clouds,http://openweathermap.org/img/w/03n.png
-Soe,Indonesia,Republic of Indonesia,ID,-13.006181843918158,125.48055333656845,-13.0,128.0,-9.86,124.28,True,69.65,97.0,56.0,0.34,295.004,broken clouds,http://openweathermap.org/img/w/04n.png
-Katherine,Australia,Australia,AU,-14.256702626840536,132.423337697274,-13.0,135.0,-14.47,132.26,True,80.6,78.0,40.0,5.82,340.0,scattered clouds,http://openweathermap.org/img/w/03n.png
-Merauke,Indonesia,Republic of Indonesia,ID,-10.899523468212717,140.54811479998529,-13.0,142.0,-8.49,140.4,True,74.33,100.0,92.0,17.72,312.504,light rain,http://openweathermap.org/img/w/10n.png
-Samarai,Papua New Guinea,Independent State of Papua New Guinea,PG,-11.048763977722746,150.49191574674487,-13.0,149.0,-10.62,150.67,True,85.8,98.0,92.0,18.23,264.504,overcast clouds,http://openweathermap.org/img/w/04n.png
-Sola,Vanuatu,Republic of Vanuatu,VU,-12.532737421338716,170.05323397191376,-13.0,170.0,-13.88,167.55,True,82.25,96.0,88.0,16.11,132.504,overcast clouds,http://openweathermap.org/img/w/04n.png
-Oyotun,Peru,Republic of Peru,PE,-6.938442511486572,-79.40459645878492,-6.0,-82.0,-6.85,-79.3,True,66.2,29.0,0.0,14.99,200.0,clear sky,http://openweathermap.org/img/w/01d.png
-Porto Walter,Brazil,Federative Republic of Brazil,BR,-9.35653541724712,-73.1068232529163,-6.0,-75.0,-8.27,-72.74,True,82.97,69.0,80.0,2.91,343.004,broken clouds,http://openweathermap.org/img/w/04d.png
-Puerto Narino,Colombia,Republic of Colombia,CO,-2.5778877305834635,-70.591459440764,-6.0,-68.0,-3.77,-70.38,True,82.4,83.0,75.0,4.7,250.0,broken clouds,http://openweathermap.org/img/w/04d.png
-Anori,Brazil,Federative Republic of Brazil,BR,-3.9892575952830107,-61.532178284041805,-6.0,-61.0,-3.74,-61.66,True,87.2,68.0,56.0,5.26,18.5038,light rain,http://openweathermap.org/img/w/10d.png
-Sao Felix Do Xingu,Brazil,Federative Republic of Brazil,BR,-5.990284155519234,-52.6143198311123,-6.0,-54.0,-6.64,-51.99,True,77.84,90.0,76.0,2.84,80.0038,broken clouds,http://openweathermap.org/img/w/04d.png
-Olinda,Brazil,Federative Republic of Brazil,BR,-8.787053876904224,-33.71953315503708,-6.0,-33.0,-22.82,-43.41,False,88.61,66.0,20.0,16.11,140.0,few clouds,http://openweathermap.org/img/w/02d.png
-Natal,Brazil,Federative Republic of Brazil,BR,-2.768240219473297,-24.734032936707585,-6.0,-26.0,-5.81,-35.21,False,87.8,55.0,20.0,17.22,110.0,few clouds,http://openweathermap.org/img/w/02d.png
-Port-Gentil,Gabon,Gabonese Republic,GA,-5.061707454087072,1.3795294991718197,-6.0,2.0,-0.72,8.78,False,82.4,83.0,20.0,6.93,190.0,few clouds,http://openweathermap.org/img/w/02d.png
-Gamba,Gabon,Gabonese Republic,GA,-3.0147169782661054,8.936744725352508,-6.0,9.0,-2.72,10.02,True,78.96,100.0,80.0,4.74,180.504,light rain,http://openweathermap.org/img/w/10d.png
-Djambala,Congo,Republic of the Congo,CG,-2.583624314063142,14.973340825874928,-6.0,16.0,-2.55,14.76,True,72.89,92.0,56.0,2.13,349.504,broken clouds,http://openweathermap.org/img/w/04n.png
-Ilebo,"Congo, The Democratic Republic of the","Congo, The Democratic Republic of the",CD,-3.6246164343253735,21.24668659293338,-6.0,23.0,-4.33,20.59,True,77.93,84.0,64.0,3.36,279.004,broken clouds,http://openweathermap.org/img/w/04n.png
-Kahama,"Tanzania, United Republic of",United Republic of Tanzania,TZ,-4.218759962659949,32.31865089482146,-6.0,30.0,-3.83,32.6,True,67.71,89.0,12.0,2.91,261.004,few clouds,http://openweathermap.org/img/w/02n.png
-Utete,"Tanzania, United Republic of",United Republic of Tanzania,TZ,-8.673720240690557,38.06969895109715,-6.0,37.0,-7.99,38.76,True,80.18,78.0,32.0,4.92,69.0038,scattered clouds,http://openweathermap.org/img/w/03n.png
-Micheweni,"Tanzania, United Republic of",United Republic of Tanzania,TZ,-4.670594234933878,42.655272266784976,-6.0,44.0,-4.97,39.83,True,81.66,100.0,20.0,7.16,82.5038,few clouds,http://openweathermap.org/img/w/02n.png
-Mitsamiouli,Comoros,Union of the Comoros,KM,-6.242879777186807,47.69225115291419,-6.0,51.0,-11.38,43.28,False,80.6,88.0,20.0,4.7,100.0,few clouds,http://openweathermap.org/img/w/02n.png
-Victoria,Seychelles,Republic of Seychelles,SC,-2.5576390106099973,57.126651078519316,-6.0,58.0,-4.62,55.45,True,78.8,88.0,40.0,2.24,,scattered clouds,http://openweathermap.org/img/w/03n.png
-Padang,Indonesia,Republic of Indonesia,ID,-7.773240621883762,92.19596309855206,-6.0,93.0,-0.92,100.36,False,79.55,100.0,36.0,2.57,204.004,moderate rain,http://openweathermap.org/img/w/10n.png
-Pringsewu,Indonesia,Republic of Indonesia,ID,-7.621827386375187,103.27575204028992,-6.0,100.0,-5.36,104.98,True,77.48,76.0,32.0,4.74,254.504,scattered clouds,http://openweathermap.org/img/w/03n.png
-Tegal,Indonesia,Republic of Indonesia,ID,-6.863107669169266,109.15255130755442,-6.0,107.0,-6.87,109.14,True,83.55,100.0,80.0,5.26,171.504,broken clouds,http://openweathermap.org/img/w/04n.png
-Martapura,Indonesia,Republic of Indonesia,ID,-4.154510773273868,115.61646516207914,-6.0,114.0,-3.41,114.85,True,79.23,95.0,20.0,6.53,334.504,few clouds,http://openweathermap.org/img/w/02n.png
-Maumere,Indonesia,Republic of Indonesia,ID,-7.299521210083695,121.51801397293941,-6.0,121.0,-8.63,122.22,True,77.43,100.0,44.0,7.05,293.504,light rain,http://openweathermap.org/img/w/10n.png
-Tual,Indonesia,Republic of Indonesia,ID,-5.763435272348731,130.62472955466745,-6.0,128.0,-5.67,132.75,True,84.68,98.0,56.0,14.88,297.004,broken clouds,http://openweathermap.org/img/w/04n.png
-Nabire,Indonesia,Republic of Indonesia,ID,-4.6849773708913505,136.1586880527206,-6.0,135.0,-3.36,135.5,True,68.61,96.0,80.0,0.89,356.004,light rain,http://openweathermap.org/img/w/10n.png
-Kiunga,Papua New Guinea,Independent State of Papua New Guinea,PG,-6.087182915328566,139.44743977400748,-6.0,142.0,-6.12,141.3,True,71.54,99.0,92.0,2.24,359.504,light rain,http://openweathermap.org/img/w/10n.png
-Finschhafen,Papua New Guinea,Independent State of Papua New Guinea,PG,-7.272778506239288,148.04469384736797,-6.0,149.0,-6.6,147.85,True,75.14,86.0,64.0,0.56,266.004,broken clouds,http://openweathermap.org/img/w/04n.png
-Kokopo,Papua New Guinea,Independent State of Papua New Guinea,PG,-5.710927616170422,153.42883775261464,-6.0,156.0,-4.34,152.27,True,77.57,100.0,92.0,12.46,305.004,light rain,http://openweathermap.org/img/w/10n.png
-Auki,Solomon Islands,Solomon Islands,SB,-6.724192167010544,161.88517347603897,-6.0,163.0,-8.77,160.7,True,76.76,100.0,92.0,9.89,289.004,moderate rain,http://openweathermap.org/img/w/10n.png
-Hilo,United States,United States of America,US,3.792779731020344,-164.52129284415807,1.0,-166.0,19.71,-155.08,False,69.98,97.0,75.0,3.36,220.0,light rain,http://openweathermap.org/img/w/10n.png
-San Patricio,Mexico,United Mexican States,MX,1.7824322401200892,-118.29219963448755,1.0,-117.0,19.22,-104.7,False,82.4,74.0,75.0,5.82,330.0,broken clouds,http://openweathermap.org/img/w/04d.png
-Coahuayana,Mexico,United Mexican States,MX,3.4816894679896757,-111.78091967112454,1.0,-110.0,18.62,-100.35,False,75.95,46.0,88.0,3.06,272.004,overcast clouds,http://openweathermap.org/img/w/04d.png
-Muisne,Ecuador,Republic of Ecuador,EC,2.4945266553446785,-83.29782494626453,1.0,-82.0,0.61,-80.02,True,82.4,78.0,75.0,6.93,200.0,broken clouds,http://openweathermap.org/img/w/04d.png
-Inirida,Colombia,Republic of Colombia,CO,3.20769205236856,-66.69565684130365,1.0,-68.0,3.87,-67.92,True,85.35,76.0,12.0,0.22,306.004,light rain,http://openweathermap.org/img/w/10d.png
-Manaus,Brazil,Federative Republic of Brazil,BR,-1.1185158136677535,-59.78638678614476,1.0,-61.0,-3.13,-59.98,True,85.96,66.0,40.0,5.82,90.0,scattered clouds,http://openweathermap.org/img/w/03d.png
-Terra Santa,Brazil,Federative Republic of Brazil,BR,-2.0436965027567555,-56.543950493029854,1.0,-54.0,-2.1,-56.49,True,82.88,90.0,36.0,4.92,18.5038,moderate rain,http://openweathermap.org/img/w/10d.png
-Breves,Brazil,Federative Republic of Brazil,BR,-1.1556703604909346,-50.458658502000155,1.0,-47.0,-1.68,-50.48,True,84.77,79.0,36.0,4.85,48.0038,light rain,http://openweathermap.org/img/w/10d.png
-Itarema,Brazil,Federative Republic of Brazil,BR,1.3737112940935283,-37.335863768263636,1.0,-40.0,-2.92,-39.92,False,85.8,73.0,48.0,11.79,69.0038,light rain,http://openweathermap.org/img/w/10d.png
-Touros,Brazil,Federative Republic of Brazil,BR,-0.6611067915315063,-33.02734214429044,1.0,-33.0,-5.2,-35.46,False,87.8,58.0,20.0,14.99,150.0,few clouds,http://openweathermap.org/img/w/02d.png
-Bonthe,Sierra Leone,Republic of Sierra Leone,SL,2.9384899765672943,-18.041559856433356,1.0,-19.0,7.53,-12.5,False,87.11,62.0,20.0,5.26,248.004,few clouds,http://openweathermap.org/img/w/02d.png
-Tabou,Côte d'Ivoire,Republic of Côte d'Ivoire,CI,1.5870575347546403,-5.785251845844947,1.0,-5.0,4.42,-7.36,True,80.72,100.0,12.0,7.87,202.004,few clouds,http://openweathermap.org/img/w/02d.png
-Takoradi,Ghana,Republic of Ghana,GH,-2.1813119939184276,-0.6879715229978589,1.0,2.0,4.89,-1.75,False,83.55,96.0,0.0,6.08,166.504,clear sky,http://openweathermap.org/img/w/01d.png
-Libreville,Gabon,Gabonese Republic,GA,0.6489465228293692,9.148581268294121,1.0,9.0,0.39,9.45,True,82.4,78.0,40.0,5.82,170.0,scattered clouds,http://openweathermap.org/img/w/03d.png
-Boda,Central African Republic,Central African Republic,CF,4.269684163801612,17.054779981712173,1.0,16.0,4.32,17.47,True,77.7,68.0,0.0,3.74,101.004,clear sky,http://openweathermap.org/img/w/01n.png
-Boende,"Congo, The Democratic Republic of the","Congo, The Democratic Republic of the",CD,-0.060474500339799064,21.771811059252933,1.0,23.0,-0.28,20.88,True,74.28,95.0,24.0,1.57,78.0038,moderate rain,http://openweathermap.org/img/w/10n.png
-Ntungamo,Uganda,Republic of Uganda,UG,-1.09246098537524,29.418203259952787,1.0,30.0,-0.87,30.27,True,63.08,89.0,12.0,2.51,77.5038,light rain,http://openweathermap.org/img/w/10n.png
-Namanga,"Tanzania, United Republic of",United Republic of Tanzania,TZ,-2.317133320111779,36.56395925174084,1.0,37.0,-6.78,39.27,False,84.2,79.0,40.0,8.05,40.0,scattered clouds,http://openweathermap.org/img/w/03n.png
-Wajir,Kenya,Republic of Kenya,KE,2.7199577290741326,40.63671661808137,1.0,44.0,1.75,40.07,True,81.26,55.0,8.0,5.26,69.5038,clear sky,http://openweathermap.org/img/w/02n.png
-Mogadishu,Somalia,Federal Republic of Somalia,SO,-0.8239264864688809,50.56156520631172,1.0,51.0,2.04,45.34,False,79.23,100.0,0.0,19.39,74.5038,clear sky,http://openweathermap.org/img/w/01n.png
-Kudahuvadhoo,Maldives,Republic of Maldives,MV,2.726437959051778,64.717552553484,1.0,65.0,2.67,72.89,False,79.37,100.0,80.0,5.03,60.5038,light rain,http://openweathermap.org/img/w/10n.png
-Matara,Sri Lanka,Democratic Socialist Republic of Sri Lanka,LK,-1.7608909562266972,82.7959308845986,1.0,86.0,5.95,80.54,False,78.29,92.0,76.0,12.57,64.0038,light rain,http://openweathermap.org/img/w/10n.png
-Meulaboh,Indonesia,Republic of Indonesia,ID,-1.8737878387998772,89.58626339405023,1.0,93.0,4.14,96.13,False,77.03,100.0,80.0,3.02,83.0038,light rain,http://openweathermap.org/img/w/10n.png
-Pontian Kecil,Malaysia,Malaysia,MY,0.5254957007279617,103.00194130051776,1.0,100.0,1.48,103.39,True,79.75,88.0,75.0,2.24,,broken clouds,http://openweathermap.org/img/w/04n.png
-Kijang,Indonesia,Republic of Indonesia,ID,0.18941103031991702,105.35863424574919,1.0,107.0,0.9,104.63,True,82.56,92.0,12.0,16.15,341.004,few clouds,http://openweathermap.org/img/w/02n.png
-Sibu,Malaysia,Malaysia,MY,2.7715004734849362,111.75637854550449,1.0,114.0,2.29,111.83,True,78.8,94.0,75.0,2.24,,broken clouds,http://openweathermap.org/img/w/04n.png
-Tarakan,Indonesia,Republic of Indonesia,ID,1.7895149699328208,119.6682778996333,1.0,121.0,3.3,117.63,True,81.66,97.0,64.0,4.63,99.0038,broken clouds,http://openweathermap.org/img/w/04n.png
-Sorong,Indonesia,Republic of Indonesia,ID,3.3914802635382184,131.0231865604187,1.0,128.0,-0.86,131.25,False,76.67,100.0,44.0,2.24,100.504,light rain,http://openweathermap.org/img/w/10n.png
-Biak,Indonesia,Republic of Indonesia,ID,0.5129663200392343,136.23469266059013,1.0,135.0,-0.91,122.88,False,78.78,100.0,64.0,3.29,214.504,broken clouds,http://openweathermap.org/img/w/04n.png
-Aitape,Papua New Guinea,Independent State of Papua New Guinea,PG,-1.560594331926426,143.52974241718408,1.0,142.0,-3.15,142.36,True,75.36,100.0,88.0,9.62,309.504,light rain,http://openweathermap.org/img/w/10n.png
-Kavieng,Papua New Guinea,Independent State of Papua New Guinea,PG,1.5275391914159595,151.78123923142815,1.0,149.0,-2.57,150.8,False,81.75,100.0,64.0,9.95,327.504,broken clouds,http://openweathermap.org/img/w/04n.png
-Namatanai,Papua New Guinea,Independent State of Papua New Guinea,PG,2.2502078333127074,158.22752929918622,1.0,156.0,-3.66,152.44,False,79.05,100.0,88.0,10.11,298.504,light rain,http://openweathermap.org/img/w/10n.png
-Buala,Solomon Islands,Solomon Islands,SB,0.5432646579254117,163.45587763918584,1.0,163.0,-8.15,159.59,False,76.94,100.0,92.0,13.58,287.504,moderate rain,http://openweathermap.org/img/w/10n.png
-Kapaa,United States,United States of America,US,6.359446684812287,-167.9918830321135,8.0,-166.0,22.08,-159.32,False,71.28,81.0,75.0,13.87,50.0,broken clouds,http://openweathermap.org/img/w/04n.png
-Cabo San Lucas,Mexico,United Mexican States,MX,9.555969203114028,-125.49898553989064,8.0,-124.0,22.89,-109.91,False,64.4,52.0,20.0,6.93,280.0,few clouds,http://openweathermap.org/img/w/02d.png
-Tecoanapa,Mexico,United Mexican States,MX,11.448970274628214,-100.42355596823526,8.0,-103.0,16.99,-99.26,False,84.2,62.0,40.0,4.52,214.504,scattered clouds,http://openweathermap.org/img/w/03d.png
-Pochutla,Mexico,United Mexican States,MX,5.938781323559132,-98.21022557497773,8.0,-96.0,15.74,-96.47,False,86.79,45.0,5.0,5.3,223.504,clear sky,http://openweathermap.org/img/w/02d.png
-Acajutla,El Salvador,Republic of El Salvador,SV,6.706662668895013,-91.85262059187687,8.0,-89.0,13.59,-89.83,False,84.2,45.0,0.0,3.36,70.0,clear sky,http://openweathermap.org/img/w/01d.png
-Tocumen,Panama,Republic of Panama,PA,9.001462063852458,-79.3687190093244,8.0,-82.0,9.08,-79.38,True,87.13,49.0,40.0,13.87,10.0,scattered clouds,http://openweathermap.org/img/w/03d.png
-Puerto Carreno,Colombia,Republic of Colombia,CO,6.3278829982834415,-65.48822230678921,8.0,-68.0,6.19,-67.49,True,87.8,52.0,20.0,4.7,90.0,few clouds,http://openweathermap.org/img/w/02d.png
-Mabaruma,Guyana,Republic of Guyana,GY,9.464701371700738,-59.03458735552734,8.0,-61.0,8.2,-59.78,True,78.92,82.0,88.0,9.62,66.0038,overcast clouds,http://openweathermap.org/img/w/04d.png
-Mana,French Guiana,French Guiana,GF,10.107445182393661,-52.72192201610021,8.0,-54.0,5.67,-53.78,False,73.88,99.0,92.0,2.73,42.5038,moderate rain,http://openweathermap.org/img/w/10d.png
-Carutapera,Brazil,Federative Republic of Brazil,BR,4.56975447801976,-43.842526915037425,8.0,-47.0,-1.2,-46.02,False,83.46,78.0,88.0,7.83,20.5038,overcast clouds,http://openweathermap.org/img/w/04d.png
-Sao Filipe,Cabo Verde,Republic of Cabo Verde,CV,10.630397256236115,-30.266396596552415,8.0,-33.0,14.9,-24.5,False,75.18,86.0,8.0,9.44,44.0038,clear sky,http://openweathermap.org/img/w/02d.png
-Bubaque,Guinea-Bissau,Republic of Guinea-Bissau,GW,5.398226608350992,-19.61817169332658,8.0,-19.0,11.28,-15.83,False,85.49,82.0,0.0,0.89,325.004,clear sky,http://openweathermap.org/img/w/01d.png
-Boffa,Guinea,Republic of Guinea,GN,9.833152260398403,-14.23872362055814,8.0,-12.0,10.18,-14.04,True,84.41,62.0,0.0,6.15,212.004,clear sky,http://openweathermap.org/img/w/01d.png
-Tanda,Côte d'Ivoire,Republic of Côte d'Ivoire,CI,7.998436325685227,-3.034444300362881,8.0,-5.0,7.8,-3.17,True,90.35,32.0,0.0,6.53,62.0038,clear sky,http://openweathermap.org/img/w/01d.png
-Bolgatanga,Ghana,Republic of Ghana,GH,10.336041799536368,-1.0290048059743135,8.0,2.0,10.79,-0.85,True,86.16,22.0,20.0,7.38,54.0038,few clouds,http://openweathermap.org/img/w/02d.png
-Tibati,Cameroon,Republic of Cameroon,CM,5.997371052177559,12.028681941829737,8.0,9.0,6.47,12.63,True,81.75,30.0,0.0,10.29,42.5038,clear sky,http://openweathermap.org/img/w/01n.png
-Kabo,Central African Republic,Central African Republic,CF,7.724449894320045,18.56266006946158,8.0,16.0,7.69,18.62,True,85.53,26.0,8.0,8.84,34.5038,clear sky,http://openweathermap.org/img/w/02n.png
-Ouadda,Central African Republic,Central African Republic,CF,7.471641504707915,22.153032032296096,8.0,23.0,8.07,22.4,True,78.74,29.0,0.0,11.34,69.0038,clear sky,http://openweathermap.org/img/w/01n.png
-Shakiso,Ethiopia,Federal Democratic Republic of Ethiopia,ET,5.690393953260228,38.75560939055167,8.0,37.0,5.77,38.9,True,60.78,86.0,0.0,2.62,62.0038,clear sky,http://openweathermap.org/img/w/01n.png
-Xuddur,Somalia,Federal Republic of Somalia,SO,5.415443765890005,45.80317868870186,8.0,44.0,4.12,43.89,True,78.47,45.0,0.0,8.77,73.0038,clear sky,http://openweathermap.org/img/w/01n.png
-Eyl,Somalia,Federal Republic of Somalia,SO,6.544962030524115,51.02706353866777,8.0,51.0,7.98,49.82,True,75.9,94.0,0.0,18.16,48.5038,clear sky,http://openweathermap.org/img/w/01n.png
-Bandarbeyla,Somalia,Federal Republic of Somalia,SO,7.88860043057093,61.496389103492426,8.0,58.0,9.49,50.81,False,75.59,100.0,92.0,17.9,36.0038,overcast clouds,http://openweathermap.org/img/w/04n.png
-Kulhudhuffushi,Maldives,Republic of Maldives,MV,7.148758087424714,63.2039980159324,8.0,65.0,6.62,73.07,False,83.06,100.0,64.0,10.67,60.0038,broken clouds,http://openweathermap.org/img/w/04n.png
-Dhidhdhoo,Maldives,Republic of Maldives,MV,7.226272655677315,74.13031863275762,8.0,72.0,6.88,73.1,True,83.06,100.0,64.0,10.67,60.0038,broken clouds,http://openweathermap.org/img/w/04n.png
-Kanniyakumari,India,Republic of India,IN,7.959437548404168,77.4587272261239,8.0,79.0,8.08,77.57,True,81.48,100.0,0.0,26.28,50.5038,clear sky,http://openweathermap.org/img/w/01n.png
-Port Blair,India,Republic of India,IN,9.74732334693988,87.7878500236601,8.0,86.0,11.67,92.75,False,81.66,100.0,44.0,9.84,43.0038,scattered clouds,http://openweathermap.org/img/w/03n.png
-Kuah,Malaysia,Malaysia,MY,6.512169640634843,99.29057768297174,8.0,100.0,6.33,99.84,True,80.83,94.0,75.0,7.09,34.5038,broken clouds,http://openweathermap.org/img/w/04n.png
-Rach Gia,Viet Nam,Socialist Republic of Viet Nam,VN,10.10141927557822,104.71032180603025,8.0,107.0,10.02,105.08,True,78.8,74.0,40.0,5.82,40.0,scattered clouds,http://openweathermap.org/img/w/03n.png
-Labuan,Malaysia,Malaysia,MY,8.44935290488636,112.75893789940781,8.0,114.0,5.33,115.2,True,79.61,88.0,75.0,4.7,,broken clouds,http://openweathermap.org/img/w/04n.png
-Ilaya,Philippines,Republic of the Philippines,PH,8.567858418601169,123.42110853667026,8.0,121.0,13.41,121.18,False,70.64,100.0,88.0,3.74,46.5038,moderate rain,http://openweathermap.org/img/w/10n.png
-Pilar,Philippines,Republic of the Philippines,PH,10.275389819403692,128.2674619465872,8.0,128.0,17.42,120.6,False,73.52,72.0,56.0,8.88,67.5038,light rain,http://openweathermap.org/img/w/10n.png
-Butaritari,Kiribati,Republic of Kiribati,KI,5.097843841226415,162.4791192662115,8.0,163.0,3.07,172.79,False,82.52,100.0,56.0,15.14,73.5038,moderate rain,http://openweathermap.org/img/w/10n.png
-Ewa Beach,United States,United States of America,US,15.3066952893361,-159.42863961978097,15.0,-159.0,21.32,-158.01,False,76.33,73.0,40.0,6.93,80.0,scattered clouds,http://openweathermap.org/img/w/03n.png
-Constitucion,Mexico,United Mexican States,MX,13.17777343592033,-127.77717544905731,15.0,-131.0,23.99,-104.67,False,57.2,47.0,90.0,18.34,190.0,overcast clouds,http://openweathermap.org/img/w/04d.png
-Tomatlan,Mexico,United Mexican States,MX,16.402193787298756,-110.35504332548437,15.0,-110.0,19.93,-105.25,False,71.81,70.0,88.0,3.36,336.504,overcast clouds,http://openweathermap.org/img/w/04d.png
-Ixtapa,Mexico,United Mexican States,MX,17.580826683165135,-101.72506337123626,15.0,-103.0,20.71,-105.21,True,66.2,100.0,90.0,6.93,30.0,overcast clouds,http://openweathermap.org/img/w/04d.png
-Puerto Madero,Mexico,United Mexican States,MX,14.016956241489956,-93.31944249040824,15.0,-96.0,14.72,-92.42,True,89.6,49.0,5.0,6.93,290.0,clear sky,http://openweathermap.org/img/w/02d.png
-Chivana,Honduras,Republic of Honduras,HN,15.712591402452981,-88.00586241545759,15.0,-89.0,15.79,-87.99,True,83.25,54.0,20.0,5.82,220.0,few clouds,http://openweathermap.org/img/w/02d.png
-Laguna De Perlas,Nicaragua,Republic of Nicaragua,NI,13.013570763787289,-83.48100269046472,15.0,-82.0,12.34,-83.67,True,84.2,66.0,75.0,9.17,100.0,broken clouds,http://openweathermap.org/img/w/04d.png
-San Andres,Colombia,Republic of Colombia,CO,13.227790287188363,-78.40278213641771,15.0,-75.0,8.22,-76.58,False,87.8,66.0,20.0,11.41,310.0,few clouds,http://openweathermap.org/img/w/02d.png
-San Pedro De Macoris,Dominican Republic,Dominican Republic,DO,16.71248714850873,-69.41113666271958,15.0,-68.0,18.46,-69.3,True,83.28,58.0,40.0,13.87,80.0,scattered clouds,http://openweathermap.org/img/w/03d.png
-Le Vauclin,Martinique,Martinique,MQ,15.884947048331817,-58.280066815857126,15.0,-61.0,14.55,-60.84,True,77.0,83.0,90.0,14.99,90.0,mist,http://openweathermap.org/img/w/50d.png
-Oistins,Barbados,Barbados,BB,12.165758456917874,-55.19277880396811,15.0,-54.0,13.07,-59.53,False,84.2,58.0,20.0,24.16,90.0,few clouds,http://openweathermap.org/img/w/02d.png
-Bathsheba,Barbados,Barbados,BB,14.543930985951302,-50.02336963812597,15.0,-47.0,13.22,-59.52,False,84.2,58.0,20.0,24.16,90.0,few clouds,http://openweathermap.org/img/w/02d.png
-Ponta Do Sol,Cabo Verde,Republic of Cabo Verde,CV,15.752913829683738,-35.26516029222636,15.0,-33.0,17.2,-25.09,False,78.8,47.0,0.0,16.11,50.0,clear sky,http://openweathermap.org/img/w/01d.png
-Nouakchott,Mauritania,Islamic Republic of Mauritania,MR,17.946685474842536,-16.44380568354004,15.0,-19.0,18.08,-15.98,True,86.0,9.0,48.0,13.87,80.0,scattered clouds,http://openweathermap.org/img/w/03d.png
-Bafoulabe,Mali,Republic of Mali,ML,14.143215083393159,-10.362221928574813,15.0,-12.0,13.81,-10.83,True,87.6,30.0,0.0,5.26,86.5038,clear sky,http://openweathermap.org/img/w/01d.png
-Goundam,Mali,Republic of Mali,ML,16.739033201331956,-4.344491729683758,15.0,-5.0,16.42,-3.66,True,80.58,27.0,36.0,6.64,32.0038,scattered clouds,http://openweathermap.org/img/w/03d.png
-Sokoto,Nigeria,Federal Republic of Nigeria,NG,12.408987469061472,5.268222080302269,15.0,2.0,13.06,5.24,True,79.28,27.0,8.0,8.1,55.0038,clear sky,http://openweathermap.org/img/w/02d.png
-Goure,Niger,Republic of the Niger,NE,15.139654683889017,10.26746326222085,15.0,9.0,13.98,10.27,True,73.2,25.0,12.0,9.55,51.5038,few clouds,http://openweathermap.org/img/w/02n.png
-Ati,Chad,Republic of Chad,TD,13.698192840055373,18.977422791119267,15.0,16.0,13.21,18.34,True,76.31,30.0,56.0,9.06,12.5038,broken clouds,http://openweathermap.org/img/w/04n.png
-Oum Hadjer,Chad,Republic of Chad,TD,13.201188860866797,19.561724988830257,15.0,23.0,13.3,19.7,True,75.05,34.0,8.0,8.84,341.504,clear sky,http://openweathermap.org/img/w/02n.png
-Salalah,Oman,Sultanate of Oman,OM,15.24073655096899,61.28845796429153,15.0,58.0,17.01,54.1,False,77.0,61.0,75.0,6.93,140.0,broken clouds,http://openweathermap.org/img/w/04n.png
-Mangrol,India,Republic of India,IN,15.79604552062004,65.71205643398562,15.0,65.0,25.33,76.51,False,46.79,74.0,0.0,3.85,71.0038,clear sky,http://openweathermap.org/img/w/01n.png
-Atmakur,India,Republic of India,IN,15.706805684302001,78.55470626286663,15.0,79.0,15.88,78.59,True,63.17,84.0,0.0,5.26,93.5038,clear sky,http://openweathermap.org/img/w/01n.png
-Yanam,India,Republic of India,IN,15.043944418657672,84.02465827171449,15.0,86.0,16.73,82.22,True,67.98,66.0,0.0,8.16,69.0038,clear sky,http://openweathermap.org/img/w/01n.png
-Pathein,Myanmar,Republic of Myanmar,MM,17.20623350475223,92.46901553514297,15.0,93.0,16.78,94.73,True,69.74,81.0,0.0,3.74,299.004,clear sky,http://openweathermap.org/img/w/01n.png
-Soeng Sang,Thailand,Kingdom of Thailand,TH,14.416130586589393,102.6269757021852,15.0,100.0,14.43,102.46,True,71.6,68.0,8.0,13.87,40.0,clear sky,http://openweathermap.org/img/w/02n.png
-Lumphat,Cambodia,Kingdom of Cambodia,KH,12.9403949643382,106.55961258991984,15.0,107.0,13.5,106.97,True,72.66,69.0,20.0,3.51,31.0038,few clouds,http://openweathermap.org/img/w/02n.png
-Tuy Hoa,Viet Nam,Socialist Republic of Viet Nam,VN,13.245698476299463,113.41382605401701,15.0,114.0,13.08,109.3,False,72.62,100.0,92.0,23.6,16.5038,light rain,http://openweathermap.org/img/w/10n.png
-Puro,Philippines,Republic of the Philippines,PH,17.67731883283614,119.19314022633822,15.0,121.0,13.13,123.76,False,73.65,99.0,68.0,4.07,48.5038,light rain,http://openweathermap.org/img/w/10n.png
-Alugan,Philippines,Republic of the Philippines,PH,16.30330995820403,131.2977228704506,15.0,128.0,12.22,125.48,False,75.77,100.0,92.0,7.27,65.0038,moderate rain,http://openweathermap.org/img/w/10n.png
-Lompoc,United States,United States of America,US,23.64748613518644,-128.23255202425872,22.0,-131.0,34.64,-120.46,False,41.5,62.0,1.0,6.08,1.50385,clear sky,http://openweathermap.org/img/w/01d.png
-Guerrero Negro,Mexico,United Mexican States,MX,22.864687085581075,-122.55361048805607,22.0,-124.0,27.97,-114.04,False,59.61,58.0,0.0,13.09,332.504,clear sky,http://openweathermap.org/img/w/01d.png
-Aguililla,Mexico,United Mexican States,MX,18.75475345212314,-102.85590209677866,22.0,-103.0,18.74,-102.79,True,77.84,46.0,0.0,2.06,152.504,clear sky,http://openweathermap.org/img/w/01d.png
-Miramar,Mexico,United Mexican States,MX,23.038347473711855,-95.78156532799841,22.0,-96.0,20.64,-103.45,False,64.4,36.0,75.0,6.93,220.0,broken clouds,http://openweathermap.org/img/w/04d.png
-Tzucacab,Mexico,United Mexican States,MX,19.733998879661424,-89.35279741343705,22.0,-89.0,20.07,-89.05,True,77.7,90.0,100.0,4.74,113.504,light rain,http://openweathermap.org/img/w/10d.png
-Mantua,Cuba,Republic of Cuba,CU,23.24806323028427,-84.45928703484296,22.0,-82.0,22.29,-84.28,True,82.43,70.0,0.0,8.39,99.0038,clear sky,http://openweathermap.org/img/w/01d.png
-Rock Sound,Bahamas,Commonwealth of the Bahamas,BS,24.962142218153975,-75.82641770099056,22.0,-75.0,24.9,-76.2,True,77.48,100.0,32.0,12.8,93.5038,scattered clouds,http://openweathermap.org/img/w/03d.png
-Cockburn Town,Turks and Caicos Islands,Turks and Caicos Islands,TC,24.88576101344806,-69.88322604562725,22.0,-68.0,21.46,-71.14,True,79.28,99.0,80.0,17.94,102.004,broken clouds,http://openweathermap.org/img/w/04d.png
-Los Llanos De Aridane,Spain,Kingdom of Spain,ES,25.339423818431776,-23.56871806946978,22.0,-26.0,28.66,-17.92,False,68.0,52.0,75.0,2.24,,broken clouds,http://openweathermap.org/img/w/04d.png
-Santa Maria,Cabo Verde,Republic of Cabo Verde,CV,18.79107061937894,-20.3127525882673,22.0,-19.0,16.6,-22.9,True,77.77,47.0,0.0,14.99,70.0,clear sky,http://openweathermap.org/img/w/01d.png
-Atar,Mauritania,Islamic Republic of Mauritania,MR,20.298439833753967,-13.441841992229334,22.0,-12.0,20.52,-13.05,True,75.23,12.0,0.0,2.84,86.0038,clear sky,http://openweathermap.org/img/w/01d.png
-Araouane,Mali,Republic of Mali,ML,19.695470508478444,-7.907643811318817,22.0,-5.0,18.9,-3.53,False,72.48,23.0,0.0,1.57,48.5038,clear sky,http://openweathermap.org/img/w/01d.png
-Arlit,Niger,Republic of the Niger,NE,21.30937342758869,5.048568390010444,22.0,2.0,18.74,7.39,True,63.26,67.0,44.0,2.8,9.00385,scattered clouds,http://openweathermap.org/img/w/03n.png
-Marawi,Sudan,Republic of the Sudan,SD,20.880947307062776,25.720261783736376,22.0,23.0,18.48,31.82,False,59.93,41.0,12.0,10.45,357.504,few clouds,http://openweathermap.org/img/w/02n.png
-Umm Lajj,Saudi Arabia,Kingdom of Saudi Arabia,SA,24.27182168464115,35.733315133820135,22.0,37.0,25.02,37.27,True,63.89,100.0,80.0,9.95,342.004,broken clouds,http://openweathermap.org/img/w/04n.png
-Riyadh,Saudi Arabia,Kingdom of Saudi Arabia,SA,23.326750087560832,44.61623706019346,22.0,44.0,24.63,46.72,True,64.4,55.0,40.0,5.82,150.0,scattered clouds,http://openweathermap.org/img/w/03n.png
-Nizwa,Oman,Sultanate of Oman,OM,22.30692253923716,57.316021680916016,22.0,58.0,22.93,57.53,True,53.54,79.0,0.0,3.02,111.004,clear sky,http://openweathermap.org/img/w/01n.png
-Devgarh,India,Republic of India,IN,25.47235139461539,73.93513322740907,22.0,72.0,31.13,77.45,False,25.55,73.0,32.0,1.79,76.5038,scattered clouds,http://openweathermap.org/img/w/03n.png
-Ashta,India,Republic of India,IN,23.09211592820747,76.6395800523254,22.0,79.0,16.95,74.41,False,55.61,77.0,12.0,5.93,32.0038,few clouds,http://openweathermap.org/img/w/02n.png
-Sonamukhi,India,Republic of India,IN,23.132930272333386,87.33479967944747,22.0,86.0,23.3,87.41,True,48.14,80.0,0.0,2.84,338.004,clear sky,http://openweathermap.org/img/w/01n.png
-Mabai,China,People's Republic of China,CN,22.784198668032523,104.63859619059755,22.0,107.0,23.01,104.4,True,42.15,100.0,88.0,2.57,113.004,light rain,http://openweathermap.org/img/w/10n.png
-Lianzhou,China,People's Republic of China,CN,24.6279785724643,112.12826956572725,22.0,114.0,24.79,112.38,True,27.03,92.0,64.0,2.51,19.0038,broken clouds,http://openweathermap.org/img/w/04n.png
-Dicabisagan,Philippines,Republic of the Philippines,PH,18.653410454159392,128.2229018857698,22.0,128.0,17.08,122.42,False,72.89,100.0,92.0,13.58,53.5038,heavy intensity rain,http://openweathermap.org/img/w/10n.png
-Gushikawa,Japan,Japan,JP,19.380209238271444,138.36760031097208,22.0,135.0,26.35,127.87,False,59.92,75.0,40.0,10.29,40.0,scattered clouds,http://openweathermap.org/img/w/03n.png
-Katsuura,Japan,Japan,JP,22.04283384672445,145.01679277152513,22.0,142.0,33.93,134.5,False,42.8,48.0,40.0,16.11,360.0,scattered clouds,http://openweathermap.org/img/w/03n.png
-Hasaki,Japan,Japan,JP,21.428272391098705,158.12294874392654,22.0,156.0,35.73,140.83,False,26.51,68.0,20.0,2.24,,few clouds,http://openweathermap.org/img/w/02n.png
-Ahuimanu,United States,United States of America,US,32.45978388506515,-153.5344736185093,29.0,-152.0,21.44,-157.84,False,76.33,84.0,75.0,10.29,60.0,broken clouds,http://openweathermap.org/img/w/04n.png
-San Buenaventura,Mexico,United Mexican States,MX,27.216644944647157,-101.20152900752738,29.0,-103.0,27.06,-101.55,True,41.0,80.0,90.0,8.05,40.0,mist,http://openweathermap.org/img/w/50d.png
-Tyler,United States,United States of America,US,32.265984610854744,-95.2031311639172,29.0,-96.0,32.35,-95.3,True,41.92,77.0,90.0,5.37,81.5038,moderate rain,http://openweathermap.org/img/w/10d.png
-Estelle,United States,United States of America,US,26.766105393354835,-88.41653315390063,29.0,-89.0,32.87,-97.01,False,37.53,72.0,90.0,5.82,330.0,overcast clouds,http://openweathermap.org/img/w/04d.png
-Richmond Hill,United States,United States of America,US,31.802959809687493,-81.31396419624909,29.0,-82.0,31.94,-81.3,True,66.2,93.0,90.0,5.82,170.0,mist,http://openweathermap.org/img/w/50d.png
-Havelock,United States,United States of America,US,32.43208317762169,-75.28936347209043,29.0,-75.0,34.88,-76.9,True,55.67,89.0,90.0,3.36,360.0,light rain,http://openweathermap.org/img/w/10d.png
-Hamilton,Bermuda,Bermuda,BM,28.714675963678165,-67.53466058610859,29.0,-68.0,32.3,-64.78,False,66.2,100.0,90.0,3.36,230.0,light intensity shower rain,http://openweathermap.org/img/w/09d.png
-Saint George,Bermuda,Bermuda,BM,29.36086949409668,-51.40976256669847,29.0,-54.0,32.38,-64.68,False,66.2,100.0,90.0,3.36,230.0,light intensity shower rain,http://openweathermap.org/img/w/09d.png
-Ribeira Grande,Portugal,Portuguese Republic,PT,26.457411299410477,-36.66653363956228,29.0,-40.0,38.52,-28.7,False,57.2,82.0,90.0,12.75,70.0,light rain,http://openweathermap.org/img/w/10d.png
-Ponta Delgada,Portugal,Portuguese Republic,PT,29.078236318974458,-26.740702207096934,29.0,-26.0,37.73,-25.67,False,64.4,82.0,75.0,23.04,130.0,broken clouds,http://openweathermap.org/img/w/04d.png
-Puerto Del Rosario,Spain,Kingdom of Spain,ES,26.11561512873056,-11.120188232367212,29.0,-12.0,28.5,-13.86,True,66.2,72.0,40.0,6.93,150.0,scattered clouds,http://openweathermap.org/img/w/03d.png
-Adrar,Algeria,People's Democratic Republic of Algeria,DZ,29.106910033449758,-3.6604791840666184,29.0,-5.0,27.87,-0.29,True,68.0,28.0,0.0,17.22,10.0,clear sky,http://openweathermap.org/img/w/01d.png
-Bani Walid,Libya,Libya,LY,30.91984384788027,14.944425914565821,29.0,16.0,31.76,14.0,True,42.11,78.0,0.0,1.79,101.004,clear sky,http://openweathermap.org/img/w/01n.png
-Jalu,Libya,Libya,LY,27.44369944806109,22.41326524451816,29.0,23.0,29.03,21.55,True,48.81,74.0,8.0,4.92,359.004,clear sky,http://openweathermap.org/img/w/02n.png
-Madinat Sittah Uktubar,Egypt,Arab Republic of Egypt,EG,30.15125520720646,30.70864549035914,29.0,30.0,29.82,31.05,True,62.6,55.0,40.0,8.05,340.0,scattered clouds,http://openweathermap.org/img/w/03n.png
-Tabuk,Saudi Arabia,Kingdom of Saudi Arabia,SA,26.94780647669819,37.40310859730271,29.0,37.0,28.38,36.58,True,55.4,35.0,40.0,5.82,300.0,scattered clouds,http://openweathermap.org/img/w/03n.png
-Mehran,"Iran, Islamic Republic of",Islamic Republic of Iran,IR,32.02314675447582,45.44978007672242,29.0,44.0,33.12,46.17,True,35.6,93.0,0.0,2.24,130.0,clear sky,http://openweathermap.org/img/w/01n.png
-Taft,"Iran, Islamic Republic of",Islamic Republic of Iran,IR,31.44437895527021,54.05626917043515,29.0,51.0,31.75,54.22,True,48.2,31.0,0.0,4.7,240.0,clear sky,http://openweathermap.org/img/w/01n.png
-Qeshm,"Iran, Islamic Republic of",Islamic Republic of Iran,IR,26.48222108587522,55.81462866229558,29.0,58.0,26.96,56.27,True,67.17,77.0,20.0,4.7,40.0,haze,http://openweathermap.org/img/w/50n.png
-Nushki,Pakistan,Islamic Republic of Pakistan,PK,29.946864672403848,65.495080288405,29.0,65.0,29.55,66.02,True,40.71,87.0,0.0,2.84,133.504,clear sky,http://openweathermap.org/img/w/01n.png
-Jodhpur,India,Republic of India,IN,26.7386616358077,73.0440178172037,29.0,72.0,26.3,73.04,True,46.2,74.0,0.0,2.91,91.5038,clear sky,http://openweathermap.org/img/w/01n.png
-Lalsot,India,Republic of India,IN,26.43253472771488,76.2426707250075,29.0,79.0,26.56,76.33,True,55.4,54.0,0.0,2.8,46.0038,haze,http://openweathermap.org/img/w/50n.png
-Banepa,Nepal,Federal Democratic Republic of Nepal,NP,28.243323906369085,86.34730606329379,29.0,86.0,27.63,85.52,True,42.8,81.0,20.0,3.36,100.0,mist,http://openweathermap.org/img/w/50n.png
-Gasa,Bhutan,Kingdom of Bhutan,BT,28.61148835293396,89.59609348181984,29.0,93.0,27.91,89.73,True,-35.57,0.0,0.0,0.72,110.504,clear sky,http://openweathermap.org/img/w/01n.png
-Tezu,India,Republic of India,IN,27.717166345393363,97.55015708507959,29.0,100.0,27.93,96.16,True,45.35,32.0,0.0,1.9,43.0038,clear sky,http://openweathermap.org/img/w/01n.png
-Rongcheng,China,People's Republic of China,CN,26.116341945956773,104.53560076972381,29.0,107.0,37.16,122.42,False,20.73,100.0,0.0,9.66,337.004,clear sky,http://openweathermap.org/img/w/01n.png
-Nanchang,China,People's Republic of China,CN,28.983353687064415,115.18544150671175,29.0,114.0,28.68,115.89,True,29.78,96.0,56.0,5.75,345.504,broken clouds,http://openweathermap.org/img/w/04n.png
-Rucheng,China,People's Republic of China,CN,32.461902867711736,120.67425838588413,29.0,121.0,25.55,113.68,False,25.28,94.0,92.0,3.02,323.004,overcast clouds,http://openweathermap.org/img/w/04n.png
-Shenjiamen,China,People's Republic of China,CN,29.596265401216005,125.78091462769949,29.0,128.0,29.96,122.3,True,45.71,100.0,100.0,21.92,2.00385,light rain,http://openweathermap.org/img/w/10n.png
-Nichinan,Japan,Japan,JP,31.054587155214172,133.01697025327758,29.0,135.0,31.65,131.31,True,38.87,100.0,48.0,6.31,353.504,scattered clouds,http://openweathermap.org/img/w/03n.png
-Nikolskoye,Russian Federation,Russian Federation,RU,30.502641266845515,177.8580002713943,29.0,177.0,59.7,30.79,False,32.0,90.0,90.0,4.47,280.0,overcast clouds,http://openweathermap.org/img/w/04n.png
-Kahului,United States,United States of America,US,34.329100436971906,-144.06450081253425,36.0,-145.0,20.89,-156.47,False,72.03,84.0,20.0,16.11,50.0,few clouds,http://openweathermap.org/img/w/02n.png
-Fortuna,United States,United States of America,US,33.80693466704659,-135.00554867343462,36.0,-138.0,40.6,-124.16,False,44.98,100.0,90.0,5.82,130.0,light rain,http://openweathermap.org/img/w/10d.png
-Blythe,United States,United States of America,US,33.542113365064864,-114.58784960518412,36.0,-117.0,33.61,-114.59,True,42.98,41.0,1.0,4.63,63.0038,clear sky,http://openweathermap.org/img/w/01d.png
-Price,United States,United States of America,US,39.0512788207694,-110.26447149606341,36.0,-110.0,39.6,-110.81,True,17.96,70.0,1.0,3.36,320.0,clear sky,http://openweathermap.org/img/w/01d.png
-Amarillo,United States,United States of America,US,35.209048152509254,-101.54625485722116,36.0,-103.0,35.21,-101.83,True,30.52,53.0,1.0,12.75,210.0,clear sky,http://openweathermap.org/img/w/01d.png
-Russellville,United States,United States of America,US,35.268790387738086,-92.90296542155703,36.0,-96.0,35.28,-93.13,True,38.64,72.0,40.0,2.62,196.504,scattered clouds,http://openweathermap.org/img/w/03d.png
-Herrin,United States,United States of America,US,37.94981322537905,-89.10671667300575,36.0,-89.0,37.8,-89.03,True,37.38,74.0,75.0,9.17,170.0,broken clouds,http://openweathermap.org/img/w/04d.png
-Laurens,United States,United States of America,US,34.615374084716755,-82.03357442956302,36.0,-82.0,34.5,-82.02,True,52.32,100.0,90.0,3.36,348.004,light rain,http://openweathermap.org/img/w/10d.png
-Poquoson,United States,United States of America,US,37.50792484630504,-75.82173640993192,36.0,-75.0,37.12,-76.35,True,48.94,67.0,75.0,8.05,90.0,broken clouds,http://openweathermap.org/img/w/04d.png
-Nantucket,United States,United States of America,US,38.041099248131744,-68.64856013317795,36.0,-68.0,41.28,-70.1,True,34.18,63.0,90.0,4.7,300.0,overcast clouds,http://openweathermap.org/img/w/04d.png
-Saint-Pierre,Saint Pierre and Miquelon,Saint Pierre and Miquelon,PM,35.95369653962459,-53.737028068412286,36.0,-54.0,46.77,-56.17,False,32.0,100.0,75.0,17.22,340.0,broken clouds,http://openweathermap.org/img/w/04d.png
-Torbay,Canada,Canada,CA,35.063551373641175,-47.89012763536075,36.0,-47.0,47.66,-52.73,False,30.2,92.0,90.0,23.04,340.0,overcast clouds,http://openweathermap.org/img/w/04d.png
-Vila Franca Do Campo,Portugal,Portuguese Republic,PT,38.14980305431105,-23.781295987900698,36.0,-26.0,37.72,-25.43,True,64.4,82.0,75.0,23.04,130.0,broken clouds,http://openweathermap.org/img/w/04d.png
-Camacha,Portugal,Portuguese Republic,PT,36.257055134667745,-17.934488585865537,36.0,-19.0,33.08,-16.33,True,64.4,59.0,20.0,5.82,100.0,few clouds,http://openweathermap.org/img/w/02d.png
-Lagos,Portugal,Portuguese Republic,PT,36.93157925139222,-9.007054262836572,36.0,-12.0,37.1,-8.67,True,64.4,48.0,0.0,14.99,70.0,clear sky,http://openweathermap.org/img/w/01d.png
-Chipiona,Spain,Kingdom of Spain,ES,36.130488612158096,-7.203705254848982,36.0,-5.0,36.74,-6.44,True,62.6,59.0,20.0,12.75,140.0,few clouds,http://openweathermap.org/img/w/02d.png
-Constantine,Algeria,People's Democratic Republic of Algeria,DZ,38.048162283899096,5.9530297390517415,36.0,9.0,36.36,6.61,True,50.0,71.0,75.0,10.29,330.0,broken clouds,http://openweathermap.org/img/w/04n.png
-Capaci,Italy,Italian Republic,IT,38.36011376236698,13.234417962573133,36.0,16.0,38.17,13.24,True,57.2,71.0,40.0,8.05,280.0,scattered clouds,http://openweathermap.org/img/w/03n.png
-Kumluca,Turkey,Republic of Turkey,TR,35.86575762609286,31.02011160372661,36.0,30.0,36.37,30.29,True,26.76,90.0,76.0,1.23,346.504,light rain,http://openweathermap.org/img/w/10n.png
-Eregli,Turkey,Republic of Turkey,TR,37.318258403953266,34.06450102686245,36.0,37.0,37.51,34.05,True,22.49,90.0,88.0,2.84,285.504,overcast clouds,http://openweathermap.org/img/w/04n.png
-Cizre,Turkey,Republic of Turkey,TR,37.15662582200169,42.055424236409195,36.0,44.0,37.33,42.19,True,39.36,99.0,92.0,10.29,107.004,moderate rain,http://openweathermap.org/img/w/10n.png
-Astara,"Iran, Islamic Republic of",Islamic Republic of Iran,IR,38.269048921563254,48.89290409671615,36.0,51.0,38.43,48.87,True,24.24,100.0,75.0,2.06,208.504,broken clouds,http://openweathermap.org/img/w/04n.png
-Annau,Turkmenistan,Turkmenistan,TM,38.90595693461127,59.59340418265617,36.0,58.0,37.89,58.52,True,41.0,80.0,90.0,6.93,100.0,overcast clouds,http://openweathermap.org/img/w/04n.png
-Kogon,Uzbekistan,Republic of Uzbekistan,UZ,39.471139504990596,64.2914433735225,36.0,65.0,39.73,64.54,True,33.55,84.0,90.0,6.93,20.0,overcast clouds,http://openweathermap.org/img/w/04n.png
-Kargil,India,Republic of India,IN,34.53489355097441,76.52143184277024,36.0,79.0,34.57,76.1,True,-6.45,81.0,76.0,0.89,96.0038,broken clouds,http://openweathermap.org/img/w/04n.png
-Yumen,China,People's Republic of China,CN,37.43744107091372,93.13934855250172,36.0,93.0,40.29,97.04,False,-7.8,53.0,12.0,3.13,109.504,few clouds,http://openweathermap.org/img/w/02n.png
-Yinchuan,China,People's Republic of China,CN,38.23124530656767,105.3777281888942,36.0,107.0,38.48,106.21,True,0.03,57.0,48.0,3.51,222.004,scattered clouds,http://openweathermap.org/img/w/03n.png
-Minggang,China,People's Republic of China,CN,32.54255300956765,114.1868538384196,36.0,114.0,32.45,114.03,True,13.04,67.0,0.0,3.13,35.5038,clear sky,http://openweathermap.org/img/w/01n.png
-Yatou,China,People's Republic of China,CN,35.75540730350579,122.97529693161793,36.0,121.0,33.81,104.32,False,15.47,28.0,0.0,2.51,273.004,clear sky,http://openweathermap.org/img/w/01n.png
-Nagato,Japan,Japan,JP,36.96856396891353,130.20073429642403,36.0,128.0,34.35,131.14,True,41.0,75.0,75.0,6.93,350.0,broken clouds,http://openweathermap.org/img/w/04n.png
-Oyama,Japan,Japan,JP,32.54940938468482,138.11850800985204,36.0,135.0,36.31,139.8,False,24.8,73.0,40.0,4.85,315.004,scattered clouds,http://openweathermap.org/img/w/03n.png
-Yuza,Japan,Japan,JP,39.105989977617554,139.71121700971958,36.0,142.0,39.05,139.95,True,38.73,100.0,88.0,15.32,312.504,overcast clouds,http://openweathermap.org/img/w/04n.png
-Severo-Kurilsk,Russian Federation,Russian Federation,RU,39.46185755446968,159.6940552768324,36.0,163.0,50.68,156.12,False,23.88,100.0,48.0,5.03,269.004,scattered clouds,http://openweathermap.org/img/w/03n.png
-Provideniya,Russian Federation,Russian Federation,RU,44.7781252444353,-180.0,43.0,-180.0,64.42,-173.23,False,-0.69,100.0,76.0,40.31,38.0038,broken clouds,http://openweathermap.org/img/w/04n.png
-Bethel,United States,United States of America,US,43.148193396929315,-171.93786773554277,43.0,-173.0,60.79,-161.76,False,32.81,91.0,90.0,20.8,160.0,light snow,http://openweathermap.org/img/w/13n.png
-Kodiak,United States,United States of America,US,43.78072703511966,-156.09020184764108,43.0,-159.0,39.95,-94.76,False,32.83,69.0,1.0,14.99,200.0,clear sky,http://openweathermap.org/img/w/01d.png
-Sitka,United States,United States of America,US,40.38989975884393,-142.85147167198912,43.0,-145.0,37.17,-99.65,False,32.84,75.0,0.0,8.66,200.504,clear sky,http://openweathermap.org/img/w/01d.png
-Eureka,United States,United States of America,US,40.359215964257295,-140.29532265154867,43.0,-138.0,40.8,-124.16,False,44.64,100.0,90.0,5.82,130.0,light rain,http://openweathermap.org/img/w/10d.png
-Yakima,United States,United States of America,US,46.18009142406683,-121.28236855440048,43.0,-124.0,46.6,-120.51,True,36.32,82.0,1.0,5.82,240.0,clear sky,http://openweathermap.org/img/w/01d.png
-Baker City,United States,United States of America,US,44.31650241889274,-118.05610514702934,43.0,-117.0,44.77,-117.83,True,35.96,61.0,90.0,19.46,300.0,overcast clouds,http://openweathermap.org/img/w/04d.png
-Blackfoot,United States,United States of America,US,43.80514804583326,-113.00791519794727,43.0,-110.0,43.19,-112.35,True,29.88,75.0,75.0,21.92,200.0,light snow,http://openweathermap.org/img/w/13d.png
-Pierre,United States,United States of America,US,43.80054073750841,-101.03486499037393,43.0,-103.0,44.37,-100.35,True,35.96,72.0,75.0,9.17,250.0,broken clouds,http://openweathermap.org/img/w/04d.png
-Marshall,United States,United States of America,US,44.940454646228126,-95.75417605408218,43.0,-96.0,39.39,-87.69,False,33.67,81.0,1.0,10.29,170.0,clear sky,http://openweathermap.org/img/w/01d.png
-Pontiac,United States,United States of America,US,40.84965380117498,-88.26309055742328,43.0,-89.0,42.64,-83.29,False,30.31,68.0,20.0,8.05,210.0,few clouds,http://openweathermap.org/img/w/02d.png
-Conneaut,United States,United States of America,US,41.95912642328128,-80.34690407064643,43.0,-82.0,41.95,-80.55,True,33.1,69.0,90.0,6.93,220.0,overcast clouds,http://openweathermap.org/img/w/04d.png
-Deep River,Canada,Canada,CA,46.49858844348973,-77.21653737898852,43.0,-75.0,46.1,-77.49,True,12.2,85.0,90.0,5.82,150.0,overcast clouds,http://openweathermap.org/img/w/04d.png
-Brewster,United States,United States of America,US,42.41175944497085,-68.3653050207541,43.0,-68.0,41.76,-70.08,True,33.98,54.0,75.0,3.36,,broken clouds,http://openweathermap.org/img/w/04d.png
-Lagoa,Portugal,Portuguese Republic,PT,45.39936680465691,-27.45596068866153,43.0,-26.0,37.14,-8.45,False,64.4,48.0,0.0,14.99,70.0,clear sky,http://openweathermap.org/img/w/01d.png
-Peniche,Portugal,Portuguese Republic,PT,40.52080604593598,-15.478897797927083,43.0,-12.0,39.36,-9.38,False,61.14,58.0,0.0,10.29,50.0,clear sky,http://openweathermap.org/img/w/01d.png
-Mogadouro,Portugal,Portuguese Republic,PT,41.49086594607071,-6.49295034342463,43.0,-5.0,41.34,-6.71,True,36.93,81.0,0.0,4.14,58.5038,clear sky,http://openweathermap.org/img/w/01n.png
-Cognac,France,French Republic,FR,45.37280483548451,-0.3428752581365746,43.0,2.0,45.69,-0.33,True,46.22,76.0,0.0,11.41,20.0,clear sky,http://openweathermap.org/img/w/01n.png
-Chamonix-Mont-Blanc,France,French Republic,FR,46.00987229768901,6.852114716923594,43.0,9.0,45.92,6.87,True,41.85,75.0,20.0,11.41,40.0,few clouds,http://openweathermap.org/img/w/02n.png
-Forio,Italy,Italian Republic,IT,40.747555180566835,13.881228562667378,43.0,16.0,40.73,13.86,True,48.83,76.0,0.0,5.82,360.0,clear sky,http://openweathermap.org/img/w/01n.png
-Bayburt,Turkey,Republic of Turkey,TR,40.129781269004184,40.26480736373813,43.0,37.0,40.26,40.22,True,14.03,73.0,88.0,1.12,32.5038,overcast clouds,http://openweathermap.org/img/w/04n.png
-Yashkul,Russian Federation,Russian Federation,RU,45.986036388157956,45.7350271079897,43.0,44.0,46.17,45.34,True,31.26,95.0,92.0,10.85,77.0038,overcast clouds,http://openweathermap.org/img/w/04n.png
-Balkhash,Kazakhstan,Republic of Kazakhstan,KZ,44.96654987345511,75.48098033957913,43.0,72.0,46.84,74.98,True,14.75,92.0,80.0,10.18,255.004,broken clouds,http://openweathermap.org/img/w/04n.png
-Ushtobe,Kazakhstan,Republic of Kazakhstan,KZ,46.1137374043488,76.69139833549085,43.0,79.0,45.25,77.98,True,23.66,94.0,92.0,4.36,243.004,overcast clouds,http://openweathermap.org/img/w/04n.png
-Baijiantan,China,People's Republic of China,CN,46.31454258975511,85.42175623553761,43.0,86.0,45.63,85.18,True,-2.04,70.0,88.0,3.58,97.0038,overcast clouds,http://openweathermap.org/img/w/04n.png
-Altay,China,People's Republic of China,CN,46.40241889001096,90.10618492138735,43.0,93.0,47.83,88.13,True,-11.18,60.0,56.0,2.35,103.504,broken clouds,http://openweathermap.org/img/w/04n.png
-Zhangye,China,People's Republic of China,CN,39.68335467583818,99.98730709265936,43.0,100.0,38.94,100.46,True,-9.6,56.0,48.0,2.73,14.5038,scattered clouds,http://openweathermap.org/img/w/03n.png
-Hovd,Mongolia,Mongolia,MN,42.300906628208814,104.47029880405933,43.0,107.0,48.01,91.64,False,-33.99,0.0,8.0,2.06,72.0038,clear sky,http://openweathermap.org/img/w/02n.png
-Hohhot,China,People's Republic of China,CN,41.99277439167694,111.35559654816842,43.0,114.0,40.81,111.65,True,-0.41,44.0,0.0,4.47,50.0,clear sky,http://openweathermap.org/img/w/01n.png
-Xingcheng,China,People's Republic of China,CN,40.76592068095747,120.27468202184004,43.0,121.0,40.62,120.71,True,-6.99,92.0,0.0,3.8,12.5038,clear sky,http://openweathermap.org/img/w/01n.png
-Suifenhe,China,People's Republic of China,CN,44.60153076719669,130.9921351712761,43.0,128.0,44.39,131.16,True,-8.34,64.0,0.0,2.84,268.004,clear sky,http://openweathermap.org/img/w/01n.png
-Zarubino,Russian Federation,Russian Federation,RU,40.01906235477489,132.11466024029633,43.0,135.0,42.65,131.06,True,10.43,100.0,0.0,9.84,311.004,clear sky,http://openweathermap.org/img/w/01n.png
-Kushiro,Japan,Japan,JP,42.39664427666347,144.8644818891009,43.0,142.0,43.11,144.15,True,25.86,74.0,0.0,11.9,351.504,clear sky,http://openweathermap.org/img/w/01n.png
-Ketchikan,United States,United States of America,US,51.85999758003361,-134.9398063662328,50.0,-138.0,55.34,-131.65,True,33.3,100.0,90.0,3.36,170.0,fog,http://openweathermap.org/img/w/50n.png
-Prince Rupert,Canada,Canada,CA,50.240218476783966,-134.3742607855683,50.0,-131.0,54.32,-130.32,False,32.0,100.0,1.0,6.93,60.0,clear sky,http://openweathermap.org/img/w/01n.png
-Quesnel,Canada,Canada,CA,52.86070122989185,-122.7472443002152,50.0,-124.0,52.98,-122.49,True,28.4,74.0,90.0,4.7,350.0,overcast clouds,http://openweathermap.org/img/w/04n.png
-Sandpoint,United States,United States of America,US,48.387785949036484,-115.9355990408386,50.0,-117.0,48.28,-116.55,True,33.42,69.0,75.0,8.05,210.0,broken clouds,http://openweathermap.org/img/w/04d.png
-Three Hills,Canada,Canada,CA,52.01300981566787,-113.14753866460872,50.0,-110.0,51.7,-113.27,True,8.6,78.0,90.0,23.04,340.0,light snow,http://openweathermap.org/img/w/13d.png
-Assiniboia,Canada,Canada,CA,48.42976832843601,-105.7911435627833,50.0,-103.0,49.63,-105.99,True,15.92,82.0,92.0,11.12,10.5038,overcast clouds,http://openweathermap.org/img/w/04d.png
-Lac Du Bonnet,Canada,Canada,CA,50.366908289928176,-95.93084063144582,50.0,-96.0,50.25,-96.06,True,12.14,90.0,80.0,7.27,48.5038,broken clouds,http://openweathermap.org/img/w/04d.png
-Marathon,Canada,Canada,CA,48.41802500295355,-85.7455069235701,50.0,-89.0,48.72,-86.38,True,24.8,92.0,90.0,4.7,,light snow,http://openweathermap.org/img/w/13d.png
-Moose Factory,Canada,Canada,CA,53.16174090907724,-80.19914690474798,50.0,-82.0,51.26,-80.61,True,8.6,84.0,90.0,4.7,340.0,light snow,http://openweathermap.org/img/w/13d.png
-New Richmond,Canada,Canada,CA,47.84069797941993,-65.93983175405594,50.0,-68.0,48.17,-65.87,True,6.8,55.0,1.0,8.05,300.0,clear sky,http://openweathermap.org/img/w/01d.png
-Havre-Saint-Pierre,Canada,Canada,CA,51.48304067633376,-63.77882302707279,50.0,-61.0,50.23,-63.6,True,1.4,54.0,1.0,11.41,280.0,clear sky,http://openweathermap.org/img/w/01d.png
-Catalina,Canada,Canada,CA,48.23592069598003,-53.08939966196846,50.0,-54.0,48.52,-53.08,True,32.25,100.0,92.0,23.09,339.504,overcast clouds,http://openweathermap.org/img/w/04d.png
-Grindavik,Iceland,Republic of Iceland,IS,53.463532042953354,-27.5323294064872,50.0,-26.0,63.84,-22.43,False,42.71,100.0,90.0,13.87,140.0,light intensity drizzle rain,http://openweathermap.org/img/w/09n.png
-Dingle,Ireland,Ireland,IE,49.889207326827695,-21.875483506432296,50.0,-19.0,52.14,-10.27,False,51.8,81.0,90.0,6.93,230.0,overcast clouds,http://openweathermap.org/img/w/04d.png
-Tralee,Ireland,Ireland,IE,52.334951109685115,-9.824100380220763,50.0,-12.0,52.27,-9.7,True,51.8,81.0,90.0,6.93,230.0,overcast clouds,http://openweathermap.org/img/w/04d.png
-Kinsale,Ireland,Ireland,IE,50.15590967467815,-7.700509080904347,50.0,-5.0,51.71,-8.52,True,48.2,87.0,75.0,8.05,240.0,broken clouds,http://openweathermap.org/img/w/04n.png
-Great Yarmouth,United Kingdom,United Kingdom of Great Britain and Northern Ireland,GB,52.908530065217064,2.7943249870346065,50.0,2.0,52.61,1.73,True,51.8,93.0,75.0,5.82,280.0,broken clouds,http://openweathermap.org/img/w/04n.png
-Neustadt,Germany,Federal Republic of Germany,DE,52.592596126646065,9.498562748491747,50.0,9.0,47.92,8.21,False,37.89,93.0,0.0,2.24,,clear sky,http://openweathermap.org/img/w/01n.png
-Koprivnice,Czechia,Czech Republic,CZ,49.592463739330114,18.14807199494617,50.0,16.0,49.6,18.14,True,36.54,96.0,90.0,3.36,310.0,light rain,http://openweathermap.org/img/w/10n.png
-Miechow,Poland,Republic of Poland,PL,50.31457379884557,20.252850560721132,50.0,23.0,50.36,20.03,True,36.43,93.0,75.0,13.87,230.0,light rain,http://openweathermap.org/img/w/10n.png
-Moshny,Ukraine,Ukraine,UA,49.639344751067355,31.73942629350719,50.0,30.0,49.52,31.74,True,23.66,94.0,76.0,5.86,130.504,broken clouds,http://openweathermap.org/img/w/04n.png
-Vyshneve,Ukraine,Ukraine,UA,48.35565375758733,33.93253280236718,50.0,37.0,50.39,30.37,False,29.01,100.0,90.0,2.24,,mist,http://openweathermap.org/img/w/50n.png
-Olkhovka,Russian Federation,Russian Federation,RU,49.91694582354722,44.72923829601033,50.0,44.0,53.21,60.61,False,-2.04,58.0,0.0,8.55,269.504,clear sky,http://openweathermap.org/img/w/01n.png
-Shubarshi,Kazakhstan,Republic of Kazakhstan,KZ,47.600634795994345,57.374731927425785,50.0,58.0,48.59,57.19,True,12.68,84.0,68.0,5.03,167.504,broken clouds,http://openweathermap.org/img/w/04n.png
-Atbasar,Kazakhstan,Republic of Kazakhstan,KZ,51.033488356966615,69.28064623703405,50.0,72.0,51.81,68.36,True,10.25,80.0,64.0,12.91,241.504,broken clouds,http://openweathermap.org/img/w/04n.png
-Malinovoye Ozero,Russian Federation,Russian Federation,RU,51.47700471164201,79.74367234810259,50.0,79.0,51.68,79.77,True,18.21,81.0,88.0,7.54,249.004,overcast clouds,http://openweathermap.org/img/w/04n.png
-Erzin,Russian Federation,Russian Federation,RU,49.87866310212388,95.86565543423687,50.0,93.0,50.26,95.16,True,-37.82,0.0,0.0,0.6,74.0038,clear sky,http://openweathermap.org/img/w/01n.png
-Kungurtug,Russian Federation,Russian Federation,RU,50.73758666105973,97.25365975803987,50.0,100.0,50.6,97.53,True,-33.41,0.0,0.0,2.8,146.004,clear sky,http://openweathermap.org/img/w/01n.png
-Nizhniy Tsasuchey,Russian Federation,Russian Federation,RU,50.15200379380625,114.89335311816396,50.0,114.0,50.52,115.13,True,-26.7,0.0,0.0,5.41,333.004,clear sky,http://openweathermap.org/img/w/01n.png
-Gannan,China,People's Republic of China,CN,48.73976863184427,123.91243813480719,50.0,121.0,47.92,123.49,True,-13.7,63.0,12.0,4.52,288.004,few clouds,http://openweathermap.org/img/w/02n.png
-Romny,Russian Federation,Russian Federation,RU,50.80322584062378,129.28631980425132,50.0,128.0,50.73,129.29,True,-11.63,57.0,0.0,7.43,315.004,clear sky,http://openweathermap.org/img/w/01n.png
-Imeni Poliny Osipenko,Russian Federation,Russian Federation,RU,53.263793580579865,137.898147637277,50.0,135.0,52.42,136.49,True,-17.52,26.0,0.0,3.4,159.504,clear sky,http://openweathermap.org/img/w/01n.png
-Vanino,Russian Federation,Russian Federation,RU,49.93453160712566,140.25610776429605,50.0,142.0,53.93,40.55,False,20.15,92.0,80.0,10.63,219.504,broken clouds,http://openweathermap.org/img/w/04n.png
-Vostok,Russian Federation,Russian Federation,RU,52.722703062512934,150.71660607853914,50.0,149.0,46.45,135.83,False,-6.05,69.0,56.0,1.83,254.004,broken clouds,http://openweathermap.org/img/w/04n.png
-Beringovskiy,Russian Federation,Russian Federation,RU,48.08400682427237,180.0,50.0,180.0,63.05,179.32,False,-3.17,86.0,44.0,33.04,12.5038,scattered clouds,http://openweathermap.org/img/w/03n.png
-Egvekinot,Russian Federation,Russian Federation,RU,57.98462287427632,-180.0,57.0,-180.0,66.32,-179.17,False,-35.25,0.0,12.0,4.03,340.004,few clouds,http://openweathermap.org/img/w/02n.png
-Palmer,United States,United States of America,US,57.772695353836575,-146.36406104314992,57.0,-145.0,61.6,-149.11,False,21.31,91.0,90.0,2.91,97.0038,light snow,http://openweathermap.org/img/w/13n.png
-Juneau,United States,United States of America,US,58.44427634224749,-135.1850861322671,57.0,-138.0,58.3,-134.42,True,33.1,95.0,90.0,4.7,80.0,overcast clouds,http://openweathermap.org/img/w/04n.png
-Smithers,Canada,Canada,CA,56.006384609708746,-127.42855660747934,57.0,-124.0,54.78,-127.17,True,24.8,92.0,20.0,8.05,300.0,few clouds,http://openweathermap.org/img/w/02n.png
-Slave Lake,Canada,Canada,CA,57.85953718225883,-114.40548589673773,57.0,-117.0,55.28,-114.77,True,1.4,77.0,90.0,9.17,310.0,light snow,http://openweathermap.org/img/w/13d.png
-Bonnyville,Canada,Canada,CA,54.99119009980503,-111.38530736234868,57.0,-110.0,54.27,-110.74,True,-4.01,76.0,75.0,6.93,20.0,light snow,http://openweathermap.org/img/w/13d.png
-Flin Flon,Canada,Canada,CA,57.25242061224581,-100.83111038527909,57.0,-103.0,54.77,-101.88,True,-29.21,66.0,40.0,4.7,350.0,scattered clouds,http://openweathermap.org/img/w/03d.png
-Thompson,Canada,Canada,CA,59.552556942793714,-94.12358085566323,57.0,-96.0,55.74,-97.86,False,-36.41,65.0,20.0,4.29,332.004,few clouds,http://openweathermap.org/img/w/02d.png
-Iqaluit,Canada,Canada,CA,59.42885022312555,-75.71767358845455,57.0,-75.0,63.75,-68.52,False,-5.81,70.0,20.0,12.75,120.0,few clouds,http://openweathermap.org/img/w/02d.png
-Saint-Augustin,Canada,Canada,CA,58.6341354769872,-57.869678438426206,57.0,-61.0,45.63,-73.98,False,13.01,71.0,40.0,3.36,20.0,scattered clouds,http://openweathermap.org/img/w/03d.png
-Paamiut,Greenland,Greenland,GL,59.43286667272119,-51.01094453995532,57.0,-54.0,61.99,-49.67,True,30.95,100.0,80.0,33.04,132.504,broken clouds,http://openweathermap.org/img/w/04d.png
-Nanortalik,Greenland,Greenland,GL,60.491343364405985,-45.45565279367699,57.0,-47.0,60.14,-45.24,True,23.93,92.0,32.0,8.55,105.004,scattered clouds,http://openweathermap.org/img/w/03d.png
-Tasiilaq,Greenland,Greenland,GL,59.68945089988979,-31.20215538981608,57.0,-33.0,65.61,-37.64,False,10.4,78.0,20.0,2.24,,few clouds,http://openweathermap.org/img/w/02n.png
-Vestmannaeyjar,Iceland,Republic of Iceland,IS,59.94542725495137,-21.34549008442137,57.0,-19.0,63.44,-20.27,True,44.6,100.0,90.0,19.46,130.0,moderate rain,http://openweathermap.org/img/w/10n.png
-Killybegs,Ireland,Ireland,IE,56.54707591723908,-9.332399215172543,57.0,-12.0,54.63,-8.45,True,51.8,81.0,90.0,12.75,200.0,overcast clouds,http://openweathermap.org/img/w/04n.png
-Den Helder,Netherlands,Kingdom of the Netherlands,NL,54.100861794457245,4.373769428827766,57.0,2.0,52.96,4.76,True,48.81,100.0,90.0,8.05,300.0,mist,http://openweathermap.org/img/w/50n.png
-Rostock,Germany,Federal Republic of Germany,DE,54.080295873521756,12.312541646376816,57.0,9.0,54.09,12.13,True,41.0,86.0,20.0,13.87,300.0,few clouds,http://openweathermap.org/img/w/02n.png
-Szczecinek,Poland,Republic of Poland,PL,53.98815038540873,16.69202171639438,57.0,16.0,53.71,16.69,True,37.65,100.0,88.0,15.43,333.504,light rain,http://openweathermap.org/img/w/10n.png
-Helsinki,Finland,Republic of Finland,FI,60.1816896549567,24.93699744157632,57.0,23.0,60.17,24.94,True,30.2,92.0,75.0,5.82,360.0,broken clouds,http://openweathermap.org/img/w/04n.png
-Minsk,Belarus,Republic of Belarus,BY,53.97989879420747,28.431408381652457,57.0,30.0,53.9,27.56,True,33.8,100.0,90.0,4.47,180.0,mist,http://openweathermap.org/img/w/50n.png
-Zubtsov,Russian Federation,Russian Federation,RU,56.1454052288951,34.65643210014552,57.0,37.0,56.17,34.59,True,27.93,90.0,92.0,7.31,220.504,overcast clouds,http://openweathermap.org/img/w/04n.png
-Yazykovo,Russian Federation,Russian Federation,RU,54.54240349407883,47.296089399430606,57.0,44.0,54.3,47.38,True,4.8,77.0,44.0,8.16,217.004,scattered clouds,http://openweathermap.org/img/w/03n.png
-Yukamenskoye,Russian Federation,Russian Federation,RU,57.7029582588633,51.97623292366944,57.0,51.0,57.89,52.24,True,10.16,81.0,80.0,10.89,229.004,broken clouds,http://openweathermap.org/img/w/04n.png
-Asha,Russian Federation,Russian Federation,RU,55.22664489080863,57.1625329698656,57.0,58.0,54.99,57.29,True,3.23,64.0,48.0,4.07,225.504,scattered clouds,http://openweathermap.org/img/w/03n.png
-Sumkino,Russian Federation,Russian Federation,RU,57.70676061597112,68.11224388235735,57.0,65.0,58.11,68.32,True,5.61,84.0,68.0,5.93,229.004,broken clouds,http://openweathermap.org/img/w/04n.png
-Vagay,Russian Federation,Russian Federation,RU,58.413899906289046,68.78193922040529,57.0,72.0,57.94,69.02,True,5.93,82.0,80.0,6.6,226.504,broken clouds,http://openweathermap.org/img/w/04n.png
-Strezhevoy,Russian Federation,Russian Federation,RU,60.41067118634824,78.36237739995588,57.0,79.0,60.73,77.6,True,12.2,92.0,90.0,6.71,190.0,light snow,http://openweathermap.org/img/w/13n.png
-Yarkovo,Russian Federation,Russian Federation,RU,54.7559896758099,82.64310569693954,57.0,86.0,54.81,82.6,True,12.2,72.0,88.0,11.18,180.0,light snow,http://openweathermap.org/img/w/13n.png
-Irbeyskoye,Russian Federation,Russian Federation,RU,55.32578862308097,95.9663748398324,57.0,93.0,55.64,95.45,True,-38.0,0.0,0.0,0.27,64.0038,clear sky,http://openweathermap.org/img/w/01n.png
-Kvitok,Russian Federation,Russian Federation,RU,55.94526486234027,98.90437927962168,57.0,100.0,56.08,98.48,True,-9.83,68.0,0.0,7.94,120.504,clear sky,http://openweathermap.org/img/w/01n.png
-Markova,Russian Federation,Russian Federation,RU,57.744967536030906,107.00511689211609,57.0,107.0,52.21,104.21,False,-18.42,26.0,44.0,2.73,67.0038,scattered clouds,http://openweathermap.org/img/w/03n.png
-Kurumkan,Russian Federation,Russian Federation,RU,54.04732437616447,111.61767153143124,57.0,114.0,54.33,110.32,True,-33.32,0.0,0.0,2.24,20.5038,clear sky,http://openweathermap.org/img/w/01n.png
-Taldan,Russian Federation,Russian Federation,RU,54.04578236587627,124.94615198943879,57.0,128.0,53.69,124.82,True,-12.17,77.0,0.0,7.27,282.504,clear sky,http://openweathermap.org/img/w/01n.png
-Mnogovershinnyy,Russian Federation,Russian Federation,RU,54.045441080974406,140.16034934700352,57.0,142.0,53.94,139.92,True,0.98,51.0,0.0,8.43,294.004,clear sky,http://openweathermap.org/img/w/01n.png
-Arman,Russian Federation,Russian Federation,RU,56.45594093930262,147.5574584847521,57.0,149.0,59.7,150.17,True,-25.76,38.0,0.0,3.36,354.004,clear sky,http://openweathermap.org/img/w/01n.png
-Esso,Russian Federation,Russian Federation,RU,56.180419605400104,159.10850931008576,57.0,156.0,55.93,158.7,True,-15.05,59.0,24.0,2.06,151.004,few clouds,http://openweathermap.org/img/w/02n.png
-Tilichiki,Russian Federation,Russian Federation,RU,59.26390094215932,166.91580458915948,57.0,170.0,60.47,166.1,True,-18.87,80.0,0.0,8.1,1.50385,clear sky,http://openweathermap.org/img/w/01n.png
-Lavrentiya,Russian Federation,Russian Federation,RU,63.8104726893182,-169.8895728485387,64.0,-173.0,65.58,-170.99,True,-3.98,90.0,48.0,41.27,33.5038,scattered clouds,http://openweathermap.org/img/w/03n.png
-Nome,United States,United States of America,US,64.06721783753943,-165.38047530870685,64.0,-166.0,30.04,-94.42,False,48.15,89.0,90.0,4.7,20.0,moderate rain,http://openweathermap.org/img/w/10d.png
-College,United States,United States of America,US,63.95810481371869,-150.05143399575422,64.0,-152.0,64.86,-147.8,True,4.01,81.0,75.0,4.63,44.5038,broken clouds,http://openweathermap.org/img/w/04n.png
-Haines Junction,Canada,Canada,CA,64.62090030587994,-141.58877939739645,64.0,-145.0,60.75,-137.51,False,-0.87,70.0,92.0,2.28,171.004,overcast clouds,http://openweathermap.org/img/w/04n.png
-Whitehorse,Canada,Canada,CA,62.35394991616521,-134.6691833024193,64.0,-138.0,60.72,-135.06,True,6.8,84.0,90.0,21.92,160.0,light snow,http://openweathermap.org/img/w/13n.png
-Mayo,Canada,Canada,CA,64.69975307974347,-132.7125924119276,64.0,-131.0,63.59,-135.9,True,8.6,78.0,90.0,6.93,10.0,overcast clouds,http://openweathermap.org/img/w/04n.png
-Fort Nelson,Canada,Canada,CA,60.55439684803148,-121.96121277929386,64.0,-124.0,58.81,-122.69,True,1.4,77.0,90.0,2.24,,overcast clouds,http://openweathermap.org/img/w/04n.png
-Hay River,Canada,Canada,CA,62.763345680449184,-117.77397045267638,64.0,-117.0,60.82,-115.79,True,-23.81,67.0,20.0,2.24,310.0,few clouds,http://openweathermap.org/img/w/02n.png
-Yellowknife,Canada,Canada,CA,63.599984686300964,-113.11287596372023,64.0,-110.0,62.45,-114.38,True,-29.21,73.0,20.0,6.93,50.0,few clouds,http://openweathermap.org/img/w/02n.png
-La Ronge,Canada,Canada,CA,62.248618026349966,-103.02388052252968,64.0,-103.0,55.1,-105.3,False,-23.81,74.0,20.0,5.82,30.0,few clouds,http://openweathermap.org/img/w/02d.png
-Maniitsoq,Greenland,Greenland,GL,60.919849324574336,-58.906106315165935,64.0,-61.0,65.42,-52.9,False,21.68,93.0,80.0,13.58,99.5038,broken clouds,http://openweathermap.org/img/w/04d.png
-Qasigiannguit,Greenland,Greenland,GL,67.3770966902514,-49.497849315267544,64.0,-47.0,68.82,-51.19,True,14.0,56.0,40.0,18.34,100.0,scattered clouds,http://openweathermap.org/img/w/03d.png
-Hofn,Iceland,Republic of Iceland,IS,66.71853248011769,-14.93718059063289,64.0,-12.0,64.25,-15.21,True,35.6,93.0,90.0,5.82,310.0,drizzle rain,http://openweathermap.org/img/w/09n.png
-Klaksvik,Faroe Islands,Faroe Islands,FO,63.27904344538336,-5.131595580612965,64.0,-5.0,62.23,-6.59,True,48.2,100.0,76.0,17.22,260.0,mist,http://openweathermap.org/img/w/50n.png
-Raudeberg,Norway,Kingdom of Norway,NO,64.21617124208369,1.5471475447269154,64.0,2.0,61.99,5.14,False,37.4,93.0,75.0,16.11,120.0,light intensity shower rain,http://openweathermap.org/img/w/09n.png
-Sistranda,Norway,Kingdom of Norway,NO,66.35392600489004,7.729168726567224,64.0,9.0,63.73,8.83,True,37.4,86.0,75.0,6.93,140.0,broken clouds,http://openweathermap.org/img/w/04n.png
-Snasa,Norway,Kingdom of Norway,NO,64.50255121134649,13.300999852832586,64.0,16.0,64.25,12.38,True,30.2,100.0,75.0,10.29,40.0,fog,http://openweathermap.org/img/w/50n.png
-Boden,Sweden,Kingdom of Sweden,SE,66.93688140980528,22.37775805864821,64.0,23.0,65.83,21.69,True,14.0,92.0,0.0,7.83,222.004,clear sky,http://openweathermap.org/img/w/01n.png
-Pitkyaranta,Russian Federation,Russian Federation,RU,61.565939207613454,31.806946648811998,64.0,30.0,61.57,31.48,True,23.3,84.0,8.0,5.93,334.504,clear sky,http://openweathermap.org/img/w/02n.png
-Severodvinsk,Russian Federation,Russian Federation,RU,64.83911776841757,38.99959804679743,64.0,37.0,64.56,39.82,True,23.0,92.0,75.0,6.71,330.0,broken clouds,http://openweathermap.org/img/w/04n.png
-Lukovetskiy,Russian Federation,Russian Federation,RU,63.95000111077123,42.608646063841014,64.0,44.0,64.29,41.92,True,23.0,92.0,75.0,6.71,330.0,broken clouds,http://openweathermap.org/img/w/04n.png
-Leshukonskoye,Russian Federation,Russian Federation,RU,66.14957556371658,47.98174756458434,64.0,51.0,64.9,45.76,True,22.8,81.0,80.0,6.08,302.004,broken clouds,http://openweathermap.org/img/w/04n.png
-Cheremukhovo,Russian Federation,Russian Federation,RU,60.822749560234854,59.38147541054993,64.0,58.0,56.23,46.23,False,8.54,80.0,68.0,8.95,215.504,broken clouds,http://openweathermap.org/img/w/04n.png
-Oktyabrskoye,Russian Federation,Russian Federation,RU,63.428950383222094,67.24708543654368,64.0,65.0,56.73,85.44,False,-13.01,83.0,0.0,4.47,70.0,clear sky,http://openweathermap.org/img/w/01n.png
-Yar-Sale,Russian Federation,Russian Federation,RU,66.0938312597425,71.1733588468881,64.0,72.0,66.83,70.83,True,-9.42,85.0,8.0,13.42,193.004,clear sky,http://openweathermap.org/img/w/02n.png
-Baykit,Russian Federation,Russian Federation,RU,64.88111636088689,94.39117307473681,64.0,93.0,61.68,96.39,True,-25.13,0.0,0.0,4.85,176.004,clear sky,http://openweathermap.org/img/w/01n.png
-Tura,Russian Federation,Russian Federation,RU,62.42556200926609,99.27453743741472,64.0,100.0,64.27,100.22,True,-19.19,27.0,8.0,2.39,175.504,clear sky,http://openweathermap.org/img/w/02n.png
-Yerbogachen,Russian Federation,Russian Federation,RU,63.500241622965554,107.55540027845274,64.0,107.0,61.28,108.01,True,-10.28,53.0,12.0,6.87,230.004,few clouds,http://openweathermap.org/img/w/02n.png
-Udachnyy,Russian Federation,Russian Federation,RU,65.86579277566314,115.29891975433432,64.0,114.0,66.42,112.4,True,7.64,73.0,48.0,6.42,267.004,scattered clouds,http://openweathermap.org/img/w/03n.png
-Kysyl-Syr,Russian Federation,Russian Federation,RU,65.21644630286856,122.08363351742275,64.0,121.0,63.9,122.77,True,-16.44,72.0,80.0,4.85,242.004,broken clouds,http://openweathermap.org/img/w/04n.png
-Pokrovsk,Russian Federation,Russian Federation,RU,61.79140582526588,129.18567448170418,64.0,128.0,61.48,129.14,True,-5.87,71.0,76.0,7.54,274.504,broken clouds,http://openweathermap.org/img/w/04n.png
-Khandyga,Russian Federation,Russian Federation,RU,65.28503175524347,137.51028101774676,64.0,135.0,62.65,135.58,True,-35.48,0.0,68.0,2.57,88.5038,broken clouds,http://openweathermap.org/img/w/04n.png
-Belaya Gora,Russian Federation,Russian Federation,RU,67.35575092637276,148.69498257596968,64.0,149.0,68.54,146.19,True,-33.54,0.0,76.0,3.85,225.004,broken clouds,http://openweathermap.org/img/w/04d.png
-Omsukchan,Russian Federation,Russian Federation,RU,63.56356868407774,157.24937736829128,64.0,156.0,62.53,155.8,True,-41.33,0.0,24.0,2.73,269.504,few clouds,http://openweathermap.org/img/w/02n.png
-Anadyr,Russian Federation,Russian Federation,RU,63.74566761236161,177.38235396047298,64.0,177.0,64.73,177.51,True,-36.41,73.0,20.0,15.66,340.0,mist,http://openweathermap.org/img/w/50n.png
-Barrow,United States,United States of America,US,74.29954429258342,-163.14554673606605,71.0,-166.0,39.51,-90.4,False,32.32,72.0,1.0,8.05,200.0,clear sky,http://openweathermap.org/img/w/01d.png
-Fairbanks,United States,United States of America,US,70.05196491695173,-146.0888211066706,71.0,-145.0,64.84,-147.72,False,1.51,81.0,75.0,4.63,44.5038,broken clouds,http://openweathermap.org/img/w/04n.png
-Aklavik,Canada,Canada,CA,71.78590448878116,-137.42897166705268,71.0,-138.0,68.22,-135.01,False,-12.43,75.0,5.0,4.14,133.004,clear sky,http://openweathermap.org/img/w/02d.png
-Tuktoyaktuk,Canada,Canada,CA,72.17066620411134,-133.03778703614626,71.0,-131.0,69.44,-133.03,True,-13.01,75.0,5.0,10.29,170.0,clear sky,http://openweathermap.org/img/w/02d.png
-Norman Wells,Canada,Canada,CA,69.19056489390255,-123.22047335662265,71.0,-124.0,65.28,-126.83,False,-20.21,75.0,5.0,3.36,60.0,clear sky,http://openweathermap.org/img/w/02n.png
-Qaanaaq,Greenland,Greenland,GL,72.8034746100987,-85.99346317706063,71.0,-89.0,77.48,-69.36,False,-12.57,97.0,0.0,9.89,89.0038,clear sky,http://openweathermap.org/img/w/01d.png
-Clyde River,Canada,Canada,CA,70.40092974423023,-76.80344414326868,71.0,-75.0,70.47,-68.59,False,-16.61,75.0,90.0,4.7,280.0,overcast clouds,http://openweathermap.org/img/w/04d.png
-Ilulissat,Greenland,Greenland,GL,72.49970147535726,-52.47897271330166,71.0,-54.0,69.22,-51.1,True,14.0,56.0,40.0,18.34,100.0,scattered clouds,http://openweathermap.org/img/w/03d.png
-Husavik,Iceland,Republic of Iceland,IS,68.14176016769245,-15.402755904567009,71.0,-12.0,66.04,-17.34,True,27.48,100.0,92.0,6.04,104.004,overcast clouds,http://openweathermap.org/img/w/04n.png
-Tromso,Norway,Kingdom of Norway,NO,69.78027915973475,18.862986596826165,71.0,16.0,69.65,18.96,True,26.33,86.0,90.0,18.34,190.0,light shower snow,http://openweathermap.org/img/w/13d.png
-Rovaniemi,Finland,Republic of Finland,FI,67.55005437792575,25.035927077470458,71.0,23.0,66.5,25.72,True,8.6,92.0,64.0,14.99,230.0,broken clouds,http://openweathermap.org/img/w/04n.png
-Berlevag,Norway,Kingdom of Norway,NO,71.2494923700728,28.945280762310844,71.0,30.0,70.86,29.09,True,23.99,85.0,40.0,14.99,280.0,light shower snow,http://openweathermap.org/img/w/13d.png
-Ostrovnoy,Russian Federation,Russian Federation,RU,70.26517207537971,40.40381990021052,71.0,37.0,68.05,39.51,True,21.5,88.0,80.0,19.84,292.504,broken clouds,http://openweathermap.org/img/w/04d.png
-Kamenka,Russian Federation,Russian Federation,RU,71.27914744553729,44.32856412911691,71.0,44.0,53.19,44.05,False,13.26,88.0,80.0,8.05,212.004,broken clouds,http://openweathermap.org/img/w/04n.png
-Naryan-Mar,Russian Federation,Russian Federation,RU,67.83123449296706,51.82459917580104,71.0,51.0,67.67,53.09,True,25.19,90.0,80.0,17.83,265.004,broken clouds,http://openweathermap.org/img/w/04n.png
-Aksarka,Russian Federation,Russian Federation,RU,70.27598793598975,68.72810834041815,71.0,72.0,66.56,67.8,False,-14.37,65.0,24.0,11.45,195.004,few clouds,http://openweathermap.org/img/w/02n.png
-Tazovskiy,Russian Federation,Russian Federation,RU,69.58464546197024,79.70240324633193,71.0,79.0,67.47,78.7,True,8.99,78.0,68.0,12.8,184.504,broken clouds,http://openweathermap.org/img/w/04n.png
-Talnakh,Russian Federation,Russian Federation,RU,73.86436872472557,89.22932064227584,71.0,86.0,69.49,88.39,False,6.47,79.0,80.0,20.69,179.004,broken clouds,http://openweathermap.org/img/w/04d.png
-Khatanga,Russian Federation,Russian Federation,RU,71.59696134008209,97.39346469677726,71.0,100.0,71.98,102.47,False,8.76,80.0,56.0,18.23,253.004,broken clouds,http://openweathermap.org/img/w/04d.png
-Tiksi,Russian Federation,Russian Federation,RU,74.3973442155439,121.68426737187183,71.0,121.0,71.64,128.87,False,-9.6,68.0,32.0,30.02,246.004,scattered clouds,http://openweathermap.org/img/w/03d.png
-Verkhoyansk,Russian Federation,Russian Federation,RU,68.9107495063644,133.58977483233232,71.0,135.0,67.55,133.39,True,-38.18,0.0,44.0,2.51,101.004,scattered clouds,http://openweathermap.org/img/w/03n.png
-Cherskiy,Russian Federation,Russian Federation,RU,74.01621835369427,156.78706971591197,71.0,156.0,68.75,161.3,False,-22.2,32.0,44.0,5.41,156.504,scattered clouds,http://openweathermap.org/img/w/03d.png
-Bilibino,Russian Federation,Russian Federation,RU,69.87511621253033,164.12326696109736,71.0,163.0,68.06,166.44,True,-24.5,35.0,76.0,2.06,186.504,broken clouds,http://openweathermap.org/img/w/04d.png
-Pevek,Russian Federation,Russian Federation,RU,73.37730689982776,168.51579378514285,71.0,170.0,69.7,170.27,False,-9.69,86.0,64.0,9.1,296.504,broken clouds,http://openweathermap.org/img/w/04d.png
-Komsomolskiy,Russian Federation,Russian Federation,RU,70.87869446407666,174.2597471076563,71.0,177.0,67.55,63.78,False,10.07,79.0,76.0,18.84,210.004,broken clouds,http://openweathermap.org/img/w/04n.png
-Leningradskiy,Russian Federation,Russian Federation,RU,69.46192696142545,179.1886794725211,71.0,180.0,69.38,178.42,True,-8.7,82.0,48.0,14.32,277.504,scattered clouds,http://openweathermap.org/img/w/03d.png
-Narsaq,Greenland,Greenland,GL,79.22674065846125,-63.72494749720828,78.0,-61.0,60.91,-46.05,False,2.69,53.0,44.0,3.58,15.0038,scattered clouds,http://openweathermap.org/img/w/03d.png
-Upernavik,Greenland,Greenland,GL,79.59448593150267,-50.52169675658631,78.0,-54.0,72.79,-56.15,False,9.66,100.0,36.0,6.42,43.5038,scattered clouds,http://openweathermap.org/img/w/03d.png
-Oksfjord,Norway,Kingdom of Norway,NO,75.83217618994571,21.1739223701182,78.0,23.0,70.24,22.35,False,22.35,72.0,40.0,17.22,140.0,shower rain,http://openweathermap.org/img/w/09d.png
-Mehamn,Norway,Kingdom of Norway,NO,80.83677351281496,27.93713332439445,78.0,30.0,71.03,27.85,False,26.6,79.0,75.0,10.29,230.0,heavy shower snow,http://openweathermap.org/img/w/13d.png
-Vardo,Norway,Kingdom of Norway,NO,76.14238973966296,35.15004820643577,78.0,37.0,70.37,31.11,False,21.11,85.0,75.0,26.4,250.0,shower snow,http://openweathermap.org/img/w/13d.png
-Dikson,Russian Federation,Russian Federation,RU,74.76312776117106,78.47647143333536,78.0,79.0,73.51,80.55,True,8.27,100.0,64.0,38.97,203.504,broken clouds,http://openweathermap.org/img/w/04d.png
-Saskylakh,Russian Federation,Russian Federation,RU,75.57224977870739,109.80789080250193,78.0,107.0,71.97,114.09,False,1.07,61.0,24.0,15.82,258.004,few clouds,http://openweathermap.org/img/w/02d.png
-Chokurdakh,Russian Federation,Russian Federation,RU,78.32334681254899,144.78174983666693,78.0,142.0,70.62,147.9,False,-14.64,66.0,64.0,14.99,255.004,broken clouds,http://openweathermap.org/img/w/04d.png
-Longyearbyen,Svalbard and Jan Mayen,Svalbard and Jan Mayen,SJ,84.3646959748798,18.409110103792564,85.0,16.0,78.22,15.64,False,6.8,71.0,75.0,12.75,340.0,broken clouds,http://openweathermap.org/img/w/04d.png
+Vaini,Tonga,Kingdom of Tonga,TO,-88.46690615914036,-180.0,-90.0,-180.0,-21.2,-175.2,False,80.6,83.0,90.0,9.17,170.0,overcast clouds,http://openweathermap.org/img/w/04n.png
+Rikitea,French Polynesia,French Polynesia,PF,-88.36119179264863,-137.2576418339496,-90.0,-138.0,-23.12,-134.97,False,78.83,100.0,36.0,10.94,48.5002,scattered clouds,http://openweathermap.org/img/w/03n.png
+Punta Arenas,Chile,Republic of Chile,CL,-88.03254306915233,-120.74704838846183,-90.0,-124.0,-53.16,-70.91,False,59.0,54.0,40.0,9.17,330.0,scattered clouds,http://openweathermap.org/img/w/03n.png
+Ushuaia,Argentina,Argentine Republic,AR,-89.63385401960917,-91.3020732874173,-90.0,-89.0,-54.81,-68.31,False,51.8,62.0,90.0,18.34,360.0,light intensity drizzle,http://openweathermap.org/img/w/09n.png
+Hermanus,South Africa,Republic of South Africa,ZA,-90.0,-12.767157870800794,-90.0,-12.0,-34.42,19.24,False,54.67,92.0,0.0,4.38,97.0002,clear sky,http://openweathermap.org/img/w/01n.png
+Bredasdorp,South Africa,Republic of South Africa,ZA,-90.0,14.621769790862544,-90.0,16.0,-34.53,20.04,False,57.2,87.0,8.0,2.24,120.0,clear sky,http://openweathermap.org/img/w/02n.png
+Port Elizabeth,South Africa,Republic of South Africa,ZA,-90.0,31.22180194189564,-90.0,30.0,-33.92,25.57,False,60.8,93.0,0.0,2.24,270.0,clear sky,http://openweathermap.org/img/w/01n.png
+Port Alfred,South Africa,Republic of South Africa,ZA,-90.0,44.014984521726426,-90.0,44.0,-33.59,26.89,False,67.54,96.0,56.0,3.71,218.5,broken clouds,http://openweathermap.org/img/w/04n.png
+East London,South Africa,Republic of South Africa,ZA,-90.0,60.918622638848404,-90.0,58.0,-33.02,27.91,False,71.59,100.0,20.0,8.63,228.5,few clouds,http://openweathermap.org/img/w/02n.png
+Busselton,Australia,Australia,AU,-90.0,79.06436987775092,-90.0,79.0,-33.64,115.35,False,66.95,100.0,76.0,0.76,75.5002,broken clouds,http://openweathermap.org/img/w/04d.png
+Albany,Australia,Australia,AU,-88.89519553713257,92.74182631125574,-90.0,93.0,-35.02,117.88,False,68.0,72.0,90.0,9.17,300.0,overcast clouds,http://openweathermap.org/img/w/04d.png
+New Norfolk,Australia,Australia,AU,-89.2385449348769,129.10468378957583,-90.0,128.0,-42.78,147.06,False,68.0,60.0,40.0,12.75,140.0,scattered clouds,http://openweathermap.org/img/w/03d.png
+Hobart,Australia,Australia,AU,-88.92103096051966,137.18249104340876,-90.0,135.0,-42.88,147.33,False,68.0,60.0,40.0,12.75,140.0,scattered clouds,http://openweathermap.org/img/w/03d.png
+Bluff,New Zealand,New Zealand,NZ,-90.0,156.51429015286652,-90.0,156.0,-46.6,168.33,False,57.19,100.0,44.0,4.0,184.5,light rain,http://openweathermap.org/img/w/10d.png
+Kaitangata,New Zealand,New Zealand,NZ,-87.12693132501273,180.0,-90.0,180.0,-46.28,169.85,False,58.81,100.0,92.0,3.78,263.0,light rain,http://openweathermap.org/img/w/10d.png
+Cape Town,South Africa,Republic of South Africa,ZA,-80.4043845023234,-11.903602862302414,-83.0,-12.0,-33.93,18.42,False,69.8,64.0,0.0,16.11,190.0,clear sky,http://openweathermap.org/img/w/01n.png
+Kruisfontein,South Africa,Republic of South Africa,ZA,-77.57286269597208,29.373946197369854,-76.0,30.0,-34.0,24.73,False,63.53,97.0,0.0,2.04,89.0002,clear sky,http://openweathermap.org/img/w/01n.png
+Avarua,Cook Islands,Cook Islands,CK,-67.23682879337223,-167.27423976770453,-69.0,-166.0,-21.21,-159.78,False,80.6,94.0,75.0,6.93,60.0,shower rain,http://openweathermap.org/img/w/09n.png
+Saint-Philippe,Réunion,Réunion,RE,-67.59728290201376,72.00345551261512,-69.0,72.0,-21.36,55.77,False,77.0,65.0,75.0,5.82,30.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Mar Del Plata,Argentina,Argentine Republic,AR,-59.831958087396615,-31.530130233214205,-62.0,-33.0,-46.43,-67.52,False,67.85,45.0,8.0,26.64,290.5,clear sky,http://openweathermap.org/img/w/02n.png
+Chuy,Uruguay,Eastern Republic of Uruguay,UY,-62.40435023649222,-23.6035411633796,-62.0,-26.0,-33.69,-53.46,False,68.21,77.0,0.0,17.09,160.0,clear sky,http://openweathermap.org/img/w/01n.png
+Cidreira,Brazil,Federative Republic of Brazil,BR,-61.05571401422994,-20.408474365400565,-62.0,-19.0,-30.17,-50.22,False,79.06,83.0,24.0,4.56,55.5002,few clouds,http://openweathermap.org/img/w/02n.png
+Castro,Chile,Republic of Chile,CL,-53.55287731652284,-106.67177145295996,-55.0,-110.0,-42.48,-73.76,False,53.6,100.0,75.0,16.11,340.0,light intensity shower rain,http://openweathermap.org/img/w/09n.png
+Arraial Do Cabo,Brazil,Federative Republic of Brazil,BR,-52.43667440788613,-22.452423788947037,-55.0,-19.0,-22.97,-42.02,False,76.76,94.0,0.0,12.62,65.5002,clear sky,http://openweathermap.org/img/w/01n.png
+Tuatapere,New Zealand,New Zealand,NZ,-58.01748557462112,157.786211496353,-55.0,156.0,-46.13,167.69,False,58.4,95.0,88.0,7.52,200.5,light rain,http://openweathermap.org/img/w/10d.png
+Dunedin,New Zealand,New Zealand,NZ,-54.81700553085634,179.23671030853652,-55.0,180.0,-45.87,170.5,False,59.98,96.0,88.0,4.34,157.5,light rain,http://openweathermap.org/img/w/10d.png
+Rio Gallegos,Argentina,Argentine Republic,AR,-49.773442763005164,-67.83252275037556,-48.0,-68.0,-51.62,-69.22,True,69.8,57.0,40.0,18.34,320.0,scattered clouds,http://openweathermap.org/img/w/03n.png
+Rawson,Argentina,Argentine Republic,AR,-44.80340149702893,-62.322046079379454,-48.0,-61.0,-43.3,-65.11,True,73.88,22.0,0.0,7.85,289.0,clear sky,http://openweathermap.org/img/w/01n.png
+Necochea,Argentina,Argentine Republic,AR,-44.93578402775066,-55.183888943409656,-48.0,-54.0,-38.55,-58.74,False,58.85,81.0,0.0,5.5,125.0,clear sky,http://openweathermap.org/img/w/01n.png
+Jamestown,"Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan da Cunha",SH,-48.81389440023581,-16.921466633376863,-48.0,-19.0,-15.94,-5.72,False,71.81,100.0,92.0,13.56,112.0,overcast clouds,http://openweathermap.org/img/w/04n.png
+Souillac,Mauritius,Republic of Mauritius,MU,-50.7046785086335,72.37977933703775,-48.0,72.0,-20.52,57.52,False,77.0,94.0,40.0,3.36,320.0,scattered clouds,http://openweathermap.org/img/w/03n.png
+Esperance,Australia,Australia,AU,-44.813377168500075,124.06594972790612,-48.0,121.0,-33.86,121.89,False,71.6,64.0,0.0,10.29,210.0,clear sky,http://openweathermap.org/img/w/01d.png
+Mount Gambier,Australia,Australia,AU,-49.25001235723452,130.72682763893476,-48.0,128.0,-37.83,140.78,False,68.0,64.0,0.0,8.05,130.0,clear sky,http://openweathermap.org/img/w/01d.png
+Port Lincoln,Australia,Australia,AU,-45.25779787417882,132.28981143432986,-48.0,135.0,-34.72,135.86,False,68.26,79.0,0.0,5.06,147.0,clear sky,http://openweathermap.org/img/w/01d.png
+Portland,Australia,Australia,AU,-44.553510103970126,140.55290246056626,-48.0,142.0,-33.35,149.98,False,79.55,52.0,64.0,4.0,310.5,broken clouds,http://openweathermap.org/img/w/04d.png
+Southbridge,New Zealand,New Zealand,NZ,-45.35399689680952,172.5525790298612,-48.0,170.0,-43.81,172.25,True,68.0,72.0,12.0,14.99,80.0,few clouds,http://openweathermap.org/img/w/02d.png
+Waipawa,New Zealand,New Zealand,NZ,-46.18177658217541,178.44897275159803,-48.0,180.0,-39.94,176.59,False,76.04,65.0,0.0,9.93,259.5,clear sky,http://openweathermap.org/img/w/01d.png
+Ancud,Chile,Republic of Chile,CL,-40.321079688909066,-105.04039170891203,-41.0,-103.0,-41.87,-73.83,False,53.6,100.0,75.0,16.11,340.0,light intensity shower rain,http://openweathermap.org/img/w/09n.png
+San Carlos De Bariloche,Argentina,Argentine Republic,AR,-40.79049103056097,-69.99630367906263,-41.0,-68.0,-41.13,-71.31,True,50.0,71.0,75.0,19.46,300.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Bahia Blanca,Argentina,Argentine Republic,AR,-38.19885140055645,-63.585917995073686,-41.0,-61.0,-38.72,-62.27,True,74.74,44.0,0.0,9.82,307.5,clear sky,http://openweathermap.org/img/w/01n.png
+Saldanha,South Africa,Republic of South Africa,ZA,-43.82784139989113,-2.4866503670641675,-41.0,-5.0,-33.01,17.94,False,62.6,82.0,0.0,5.82,230.0,clear sky,http://openweathermap.org/img/w/01n.png
+Margate,South Africa,Republic of South Africa,ZA,-41.011483617143824,41.95219515112955,-41.0,44.0,-30.86,30.37,False,73.16,95.0,88.0,1.54,296.0,overcast clouds,http://openweathermap.org/img/w/04n.png
+Mahebourg,Mauritius,Republic of Mauritius,MU,-38.04422075253942,77.05112928088057,-41.0,79.0,-20.41,57.7,False,77.0,94.0,40.0,3.36,320.0,scattered clouds,http://openweathermap.org/img/w/03n.png
+Hastings,Australia,Australia,AU,-38.3015555221989,144.97330111925498,-41.0,142.0,-38.31,145.19,True,70.54,56.0,0.0,12.75,180.0,clear sky,http://openweathermap.org/img/w/01d.png
+Launceston,Australia,Australia,AU,-40.75683881855043,150.30771644160785,-41.0,149.0,-41.43,147.14,True,71.6,40.0,44.0,11.41,340.0,scattered clouds,http://openweathermap.org/img/w/03d.png
+Te Anau,New Zealand,New Zealand,NZ,-39.34859944885989,161.95947075050856,-41.0,163.0,-45.41,167.72,False,58.94,89.0,56.0,1.77,190.0,light rain,http://openweathermap.org/img/w/10d.png
+Wanaka,New Zealand,New Zealand,NZ,-41.7784134907129,167.52136399102406,-41.0,170.0,-44.7,169.14,True,70.46,53.0,8.0,4.23,290.0,clear sky,http://openweathermap.org/img/w/02d.png
+Otane,New Zealand,New Zealand,NZ,-42.438111699864436,178.66156822403954,-41.0,180.0,-39.89,176.62,True,77.39,67.0,0.0,2.77,186.0,clear sky,http://openweathermap.org/img/w/01d.png
+Lebu,Chile,Republic of Chile,CL,-33.38013237278559,-102.62863104802993,-34.0,-103.0,-37.62,-73.65,False,57.82,98.0,0.0,9.31,201.0,clear sky,http://openweathermap.org/img/w/01n.png
+Valparaiso,Chile,Republic of Chile,CL,-31.42322558957336,-78.35844903749006,-34.0,-75.0,-33.04,-71.63,False,63.54,51.0,0.0,11.41,170.0,clear sky,http://openweathermap.org/img/w/01n.png
+Chimbarongo,Chile,Republic of Chile,CL,-34.97756154737009,-70.79405782952126,-34.0,-68.0,-34.71,-71.04,True,77.0,43.0,0.0,8.05,180.0,clear sky,http://openweathermap.org/img/w/01n.png
+Parana,Argentina,Argentine Republic,AR,-31.80776418543029,-60.63682126878829,-34.0,-61.0,-31.73,-60.52,True,75.64,80.0,8.0,8.86,141.5,clear sky,http://openweathermap.org/img/w/02n.png
+Trinidad,Uruguay,Eastern Republic of Uruguay,UY,-33.72601779142101,-57.15783054205896,-34.0,-54.0,-33.52,-56.9,True,67.13,77.0,0.0,12.66,126.5,clear sky,http://openweathermap.org/img/w/01n.png
+Luderitz,Namibia,Republic of Namibia,NA,-32.239273563594914,3.8358273379474195,-34.0,2.0,-26.65,15.16,False,61.78,77.0,0.0,14.07,176.0,clear sky,http://openweathermap.org/img/w/01n.png
+Calvinia,South Africa,Republic of South Africa,ZA,-32.030575084079786,20.852323169621414,-34.0,23.0,-31.47,19.78,True,56.92,55.0,0.0,2.59,232.0,clear sky,http://openweathermap.org/img/w/01n.png
+Richards Bay,South Africa,Republic of South Africa,ZA,-32.92785023448023,40.09159102299269,-34.0,37.0,-28.77,32.06,False,70.1,100.0,88.0,4.72,27.5002,overcast clouds,http://openweathermap.org/img/w/04n.png
+Bambous Virieux,Mauritius,Republic of Mauritius,MU,-32.01936620296661,74.3289613846304,-34.0,72.0,-20.34,57.76,False,77.0,94.0,40.0,3.36,320.0,scattered clouds,http://openweathermap.org/img/w/03n.png
+Flinders,Australia,Australia,AU,-30.803223415487484,131.20472767115817,-34.0,128.0,-34.58,150.85,False,84.2,54.0,12.0,5.82,90.0,few clouds,http://openweathermap.org/img/w/02d.png
+Victor Harbor,Australia,Australia,AU,-35.81821213946945,138.62734141516756,-34.0,142.0,-35.55,138.62,True,73.4,56.0,0.0,16.11,240.0,clear sky,http://openweathermap.org/img/w/01d.png
+Batemans Bay,Australia,Australia,AU,-36.332609034831314,150.93352156580653,-34.0,149.0,-35.71,150.18,True,74.96,84.0,20.0,3.27,183.0,light rain,http://openweathermap.org/img/w/10d.png
+Nelson Bay,Australia,Australia,AU,-33.434854266891676,152.63615010902697,-34.0,156.0,-32.72,152.14,True,91.4,36.0,0.0,8.05,320.0,clear sky,http://openweathermap.org/img/w/01d.png
+Port Macquarie,Australia,Australia,AU,-34.89612758052969,160.53870196235889,-34.0,163.0,-31.43,152.91,False,86.0,55.0,0.0,6.93,40.0,clear sky,http://openweathermap.org/img/w/01d.png
+Ahipara,New Zealand,New Zealand,NZ,-36.15826366742689,171.34898425484474,-34.0,170.0,-35.17,173.16,True,71.0,76.0,0.0,7.4,229.5,clear sky,http://openweathermap.org/img/w/01d.png
+Alofi,Niue,Niue,NU,-28.129519373734084,-167.058975546043,-27.0,-166.0,-19.06,-169.92,False,84.2,79.0,24.0,11.41,360.0,few clouds,http://openweathermap.org/img/w/02n.png
+Puerto Ayora,Ecuador,Republic of Ecuador,EC,-28.243918298552238,-103.40125679749606,-27.0,-103.0,-0.74,-90.35,False,82.4,65.0,0.0,18.34,150.0,clear sky,http://openweathermap.org/img/w/01n.png
+Pisco,Peru,Republic of Peru,PE,-24.64709544616712,-97.18460414011412,-27.0,-96.0,-13.71,-76.2,False,71.6,78.0,0.0,21.92,220.0,clear sky,http://openweathermap.org/img/w/01n.png
+Coquimbo,Chile,Republic of Chile,CL,-26.62061484889222,-80.58079905431771,-27.0,-82.0,-29.95,-71.34,False,60.8,82.0,0.0,8.93,217.5,clear sky,http://openweathermap.org/img/w/01n.png
+Presidencia Roque Saenz Pena,Argentina,Argentine Republic,AR,-25.824753762825832,-61.23501531578324,-27.0,-61.0,-26.79,-60.44,True,79.51,90.0,80.0,8.63,135.5,broken clouds,http://openweathermap.org/img/w/04n.png
+Uruguaiana,Brazil,Federative Republic of Brazil,BR,-29.70924773934658,-57.30683538217895,-27.0,-54.0,-29.77,-57.08,True,82.4,65.0,0.0,14.99,180.0,clear sky,http://openweathermap.org/img/w/01n.png
+Tibagi,Brazil,Federative Republic of Brazil,BR,-24.60032925131615,-50.295453147009624,-27.0,-47.0,-24.52,-50.41,True,67.13,98.0,68.0,5.57,168.0,moderate rain,http://openweathermap.org/img/w/10n.png
+Sao Joao Da Barra,Brazil,Federative Republic of Brazil,BR,-28.127081712220235,-30.176358367075483,-27.0,-33.0,-21.64,-41.05,False,74.15,100.0,92.0,21.39,21.5002,moderate rain,http://openweathermap.org/img/w/10n.png
+Bloemhof,South Africa,Republic of South Africa,ZA,-27.546442732999303,25.30085019329034,-27.0,23.0,-27.65,25.61,True,63.35,100.0,88.0,6.91,56.5002,overcast clouds,http://openweathermap.org/img/w/04n.png
+Macia,Mozambique,Republic of Mozambique,MZ,-25.35652129817911,33.09433265310847,-27.0,30.0,-25.03,33.09,True,76.04,82.0,32.0,8.63,96.5002,scattered clouds,http://openweathermap.org/img/w/03n.png
+Inhambane,Mozambique,Republic of Mozambique,MZ,-24.672441861555953,35.91422986422393,-27.0,37.0,-23.87,35.38,True,75.5,100.0,0.0,8.86,80.0002,clear sky,http://openweathermap.org/img/w/01n.png
+Saint-Joseph,Réunion,Réunion,RE,-25.42496518745418,54.793747318062515,-27.0,58.0,-21.37,55.62,False,77.0,65.0,75.0,5.82,30.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Carnarvon,Australia,Australia,AU,-27.81760877347456,93.75095195084415,-27.0,93.0,-24.87,113.63,False,77.0,61.0,0.0,21.92,170.0,clear sky,http://openweathermap.org/img/w/01d.png
+Geraldton,Australia,Australia,AU,-26.510532279299632,115.63671425288817,-27.0,114.0,-28.77,114.6,True,73.4,53.0,0.0,12.75,150.0,clear sky,http://openweathermap.org/img/w/01d.png
+Northam,Australia,Australia,AU,-30.414954729713124,117.53398148237338,-27.0,121.0,-31.65,116.67,True,71.6,56.0,0.0,8.05,180.0,clear sky,http://openweathermap.org/img/w/01d.png
+Yulara,Australia,Australia,AU,-29.796931714712823,127.74625121723773,-27.0,128.0,-25.24,130.99,False,96.8,19.0,0.0,19.46,110.0,clear sky,http://openweathermap.org/img/w/01d.png
+Mount Isa,Australia,Australia,AU,-26.269560518076037,140.7145442654122,-27.0,142.0,-20.73,139.49,False,95.0,32.0,40.0,10.29,50.0,scattered clouds,http://openweathermap.org/img/w/03d.png
+Bundaberg,Australia,Australia,AU,-24.70460186204726,151.50218088305613,-27.0,149.0,-24.87,152.35,True,86.0,42.0,40.0,14.99,90.0,scattered clouds,http://openweathermap.org/img/w/03d.png
+Hervey Bay,Australia,Australia,AU,-25.46821060065431,154.39351080666418,-27.0,156.0,-25.3,152.85,True,86.0,42.0,40.0,14.99,90.0,scattered clouds,http://openweathermap.org/img/w/03d.png
+Vao,New Caledonia,New Caledonia,NC,-28.942423264343407,165.2482369771942,-27.0,163.0,-22.67,167.48,False,76.13,100.0,0.0,21.34,127.0,clear sky,http://openweathermap.org/img/w/01d.png
+Isangel,Vanuatu,Republic of Vanuatu,VU,-25.22873259623286,177.91243055920924,-27.0,177.0,-19.55,169.27,False,79.24,100.0,0.0,21.9,128.5,clear sky,http://openweathermap.org/img/w/01d.png
+Russell,New Zealand,New Zealand,NZ,-28.679813185306823,179.46317604406232,-27.0,180.0,-35.26,174.12,False,76.13,59.0,20.0,3.0,307.0,few clouds,http://openweathermap.org/img/w/02d.png
+Neiafu,Tonga,Kingdom of Tonga,TO,-17.63548466594341,-174.25111297450627,-20.0,-173.0,-18.65,-173.98,True,78.8,94.0,90.0,2.24,,light rain,http://openweathermap.org/img/w/10n.png
+Atuona,French Polynesia,French Polynesia,PF,-16.507549748567378,-139.30788480410817,-20.0,-138.0,-9.8,-139.03,False,81.94,98.0,0.0,20.04,88.0002,clear sky,http://openweathermap.org/img/w/01n.png
+Hualmay,Peru,Republic of Peru,PE,-21.08332433802981,-94.82334429336295,-20.0,-96.0,-11.1,-77.61,False,70.01,81.0,32.0,5.79,179.5,scattered clouds,http://openweathermap.org/img/w/03n.png
+Tocopilla,Chile,Republic of Chile,CL,-21.600128782901187,-73.88689731316576,-20.0,-75.0,-22.09,-70.2,False,65.92,82.0,56.0,3.89,224.5,broken clouds,http://openweathermap.org/img/w/04n.png
+Mizque,"Bolivia, Plurinational State of",Plurinational State of Bolivia,BO,-18.166931964217884,-65.50359793638738,-20.0,-68.0,-17.94,-65.34,True,56.92,98.0,36.0,0.69,109.5,light rain,http://openweathermap.org/img/w/10n.png
+Monteagudo,"Bolivia, Plurinational State of",Plurinational State of Bolivia,BO,-19.520713920634762,-64.0722043942523,-20.0,-61.0,-19.8,-63.96,True,62.99,97.0,8.0,2.33,195.0,light rain,http://openweathermap.org/img/w/10n.png
+Alto Araguaia,Brazil,Federative Republic of Brazil,BR,-16.709031124001722,-52.70945740523995,-20.0,-54.0,-17.32,-53.22,True,71.77,90.0,12.0,4.56,344.0,few clouds,http://openweathermap.org/img/w/02n.png
+Prata,Brazil,Federative Republic of Brazil,BR,-19.129947733098625,-48.81642045786799,-20.0,-47.0,-19.31,-48.92,True,72.67,94.0,36.0,4.56,330.0,scattered clouds,http://openweathermap.org/img/w/03n.png
+Matias Barbosa,Brazil,Federative Republic of Brazil,BR,-21.912326250201097,-43.48646091127199,-20.0,-40.0,-21.87,-43.32,True,66.73,96.0,64.0,1.36,44.5002,light rain,http://openweathermap.org/img/w/10n.png
+Caravelas,Brazil,Federative Republic of Brazil,BR,-20.992361410534397,-30.12472238217536,-20.0,-33.0,-17.73,-39.27,False,80.23,99.0,76.0,17.65,31.5002,broken clouds,http://openweathermap.org/img/w/04n.png
+Maragogi,Brazil,Federative Republic of Brazil,BR,-17.130792464510858,-24.92971029385171,-20.0,-26.0,-9.01,-35.22,False,76.58,98.0,100.0,6.02,78.5002,light rain,http://openweathermap.org/img/w/10n.png
+Henties Bay,Namibia,Republic of Namibia,NA,-21.753429280154894,9.840374844343433,-20.0,9.0,-22.12,14.28,False,62.59,99.0,12.0,4.12,293.0,few clouds,http://openweathermap.org/img/w/02n.png
+Grootfontein,Namibia,Republic of Namibia,NA,-20.433819514796262,19.62508895221068,-20.0,23.0,-19.56,18.1,True,63.71,98.0,76.0,7.07,196.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Beitbridge,Zimbabwe,Republic of Zimbabwe,ZW,-21.499899248887942,30.62777010479929,-20.0,30.0,-22.22,30.0,True,71.54,95.0,64.0,6.29,73.5002,broken clouds,http://openweathermap.org/img/w/04n.png
+Chimoio,Mozambique,Republic of Mozambique,MZ,-18.198043635820216,34.46300832475701,-20.0,37.0,-19.11,33.48,True,71.6,94.0,75.0,9.17,100.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Saint-Louis,Réunion,Réunion,RE,-23.407290646576257,53.71653404712787,-20.0,51.0,-21.27,55.42,True,77.0,65.0,75.0,5.82,30.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Saint-Paul,Réunion,Réunion,RE,-21.13576550166647,54.713153503125895,-20.0,58.0,-21.01,55.27,True,77.0,73.0,0.0,8.05,110.0,clear sky,http://openweathermap.org/img/w/01n.png
+Hithadhoo,Maldives,Republic of Maldives,MV,-16.553300909955098,73.38677158875522,-20.0,72.0,-0.6,73.08,False,82.39,100.0,24.0,4.5,20.0002,few clouds,http://openweathermap.org/img/w/02d.png
+Karratha,Australia,Australia,AU,-16.636864936799086,111.53493159831731,-20.0,114.0,-20.74,116.85,False,81.13,74.0,20.0,4.38,342.5,few clouds,http://openweathermap.org/img/w/02d.png
+Port Hedland,Australia,Australia,AU,-20.53902543511901,120.86641737329974,-20.0,121.0,-20.31,118.58,True,86.0,70.0,40.0,10.29,330.0,scattered clouds,http://openweathermap.org/img/w/03d.png
+Broome,Australia,Australia,AU,-19.855185616216893,124.68733220117188,-20.0,128.0,-17.97,122.23,True,87.8,70.0,75.0,8.05,300.0,broken clouds,http://openweathermap.org/img/w/04d.png
+Alice Springs,Australia,Australia,AU,-22.707707491454258,132.81327123691082,-20.0,135.0,-23.7,133.88,True,102.2,13.0,0.0,12.75,40.0,clear sky,http://openweathermap.org/img/w/01d.png
+Atherton,Australia,Australia,AU,-18.059394299855278,144.8782090314835,-20.0,142.0,-17.27,145.48,True,84.2,62.0,40.0,20.8,130.0,scattered clouds,http://openweathermap.org/img/w/03d.png
+Mackay,Australia,Australia,AU,-20.826913149562994,151.05084230089653,-20.0,149.0,-21.15,149.2,True,84.2,62.0,8.0,18.34,120.0,light rain,http://openweathermap.org/img/w/10d.png
+Samarai,Papua New Guinea,Independent State of Papua New Guinea,PG,-16.53804840262871,154.65923213595602,-20.0,156.0,-10.62,150.67,False,77.03,100.0,92.0,10.31,192.0,moderate rain,http://openweathermap.org/img/w/10d.png
+Moindou,New Caledonia,New Caledonia,NC,-23.062228298587467,165.07362770119832,-20.0,163.0,-21.69,165.68,True,84.2,51.0,0.0,20.8,140.0,clear sky,http://openweathermap.org/img/w/01d.png
+Faanui,French Polynesia,French Polynesia,PF,-14.964721349914795,-157.9720918140586,-13.0,-159.0,-16.48,-151.75,False,83.6,100.0,56.0,19.66,75.0002,broken clouds,http://openweathermap.org/img/w/04n.png
+Fare,French Polynesia,French Polynesia,PF,-10.506475080814965,-148.52648448003075,-13.0,-152.0,-16.7,-151.02,False,83.78,97.0,56.0,17.92,81.0002,broken clouds,http://openweathermap.org/img/w/04n.png
+Chicama,Peru,Republic of Peru,PE,-12.25653515983095,-88.2044380775244,-13.0,-89.0,-7.84,-79.15,False,71.6,88.0,75.0,9.17,140.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Chimbote,Peru,Republic of Peru,PE,-11.906600178534973,-84.38565934819725,-13.0,-82.0,-9.08,-78.59,False,71.32,84.0,20.0,7.81,174.5,few clouds,http://openweathermap.org/img/w/02n.png
+Santa Rosa,"Bolivia, Plurinational State of",Plurinational State of Bolivia,BO,-12.576116916048498,-66.84026662935766,-13.0,-68.0,-20.7,-64.83,False,63.67,59.0,80.0,2.77,136.0,light rain,http://openweathermap.org/img/w/10n.png
+Mozarlandia,Brazil,Federative Republic of Brazil,BR,-14.410371453530491,-50.843599326833626,-13.0,-54.0,-14.74,-50.57,True,73.25,90.0,36.0,3.04,232.5,scattered clouds,http://openweathermap.org/img/w/03n.png
+Corrente,Brazil,Federative Republic of Brazil,BR,-10.513852246705628,-44.11862678758423,-13.0,-47.0,-17.45,-44.68,False,66.14,100.0,92.0,4.05,289.0,moderate rain,http://openweathermap.org/img/w/10n.png
+Boquira,Brazil,Federative Republic of Brazil,BR,-12.870428860128312,-42.59227425627692,-13.0,-40.0,-12.82,-42.73,True,73.66,90.0,80.0,3.33,111.5,broken clouds,http://openweathermap.org/img/w/04n.png
+Tamandare,Brazil,Federative Republic of Brazil,BR,-9.70245551849128,-32.070998339943124,-13.0,-33.0,-8.28,-70.75,False,78.56,85.0,24.0,2.1,359.0,few clouds,http://openweathermap.org/img/w/02n.png
+Olinda,Brazil,Federative Republic of Brazil,BR,-10.238203201218738,-26.573496120233827,-13.0,-26.0,-22.82,-43.41,False,80.6,83.0,75.0,6.93,140.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Georgetown,"Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan da Cunha",SH,-13.685822045568976,-20.32268815407339,-13.0,-19.0,-7.93,-14.42,False,77.66,100.0,88.0,15.35,113.0,overcast clouds,http://openweathermap.org/img/w/04n.png
+Namibe,Angola,Republic of Angola,AO,-11.30339249853877,3.170947666087282,-13.0,2.0,-15.19,12.15,False,74.11,100.0,8.0,3.22,214.5,clear sky,http://openweathermap.org/img/w/02n.png
+Huambo,Angola,Republic of Angola,AO,-12.415171826101819,15.809012202014905,-13.0,16.0,-12.78,15.73,True,55.25,91.0,20.0,3.04,239.5,few clouds,http://openweathermap.org/img/w/02n.png
+Likasi,"Congo, The Democratic Republic of the","Congo, The Democratic Republic of the",CD,-11.039554150232098,26.75213138873809,-13.0,30.0,-10.99,26.74,True,64.48,100.0,64.0,2.82,185.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Montepuez,Mozambique,Republic of Mozambique,MZ,-14.083349995820623,39.10492945703745,-13.0,37.0,-13.13,39.0,True,73.12,91.0,76.0,4.23,44.5002,broken clouds,http://openweathermap.org/img/w/04n.png
+Mahajanga,Madagascar,Republic of Madagascar,MG,-15.982782213889106,45.146316672873915,-13.0,44.0,-15.72,46.32,True,77.0,88.0,40.0,4.7,120.0,scattered clouds,http://openweathermap.org/img/w/03n.png
+Sambava,Madagascar,Republic of Madagascar,MG,-11.559080163806922,51.93560266463615,-13.0,51.0,-14.27,50.17,True,81.26,100.0,64.0,14.56,168.5,light rain,http://openweathermap.org/img/w/10n.png
+Antalaha,Madagascar,Republic of Madagascar,MG,-14.044243193271623,54.57987880640309,-13.0,58.0,-14.9,50.28,False,78.34,91.0,76.0,8.63,169.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Victoria,Seychelles,Republic of Seychelles,SC,-10.707716960796931,61.98660098167281,-13.0,65.0,-4.62,55.45,False,77.0,94.0,20.0,2.24,230.0,few clouds,http://openweathermap.org/img/w/02n.png
+Srandakan,Indonesia,Republic of Indonesia,ID,-12.275070338442095,108.10656017620823,-13.0,107.0,-7.94,110.25,False,73.21,99.0,88.0,7.58,284.5,light rain,http://openweathermap.org/img/w/10d.png
+Praya,Indonesia,Republic of Indonesia,ID,-14.23594803751201,116.29973494878865,-13.0,114.0,-8.71,116.27,False,84.2,70.0,20.0,2.24,,few clouds,http://openweathermap.org/img/w/02d.png
+Port Keats,Australia,Australia,AU,-13.537746573192708,127.68209279027289,-13.0,128.0,-14.25,129.55,True,88.87,80.0,0.0,13.18,233.0,clear sky,http://openweathermap.org/img/w/01d.png
+Alyangula,Australia,Australia,AU,-13.582969538101217,135.3080749859183,-13.0,135.0,-13.85,136.42,True,82.4,78.0,75.0,8.05,270.0,broken clouds,http://openweathermap.org/img/w/04d.png
+Mareeba,Australia,Australia,AU,-14.982595649699139,144.786114846293,-13.0,142.0,-16.99,145.42,True,84.2,62.0,40.0,20.8,130.0,scattered clouds,http://openweathermap.org/img/w/03d.png
+Kirakira,Solomon Islands,Solomon Islands,SB,-12.543168552637239,162.85155534409841,-13.0,163.0,-10.46,161.92,True,77.08,100.0,92.0,3.78,11.0002,heavy intensity rain,http://openweathermap.org/img/w/10d.png
+Sola,Vanuatu,Republic of Vanuatu,VU,-13.76161950752128,172.77631037124584,-13.0,170.0,-13.88,167.55,False,83.06,93.0,88.0,15.86,141.5,overcast clouds,http://openweathermap.org/img/w/04d.png
+San Cristobal,Ecuador,Republic of Ecuador,EC,-5.821532843475694,-88.72694688160412,-6.0,-89.0,-1.02,-79.44,False,62.68,100.0,80.0,0.54,239.5,light rain,http://openweathermap.org/img/w/10n.png
+Paita,Peru,Republic of Peru,PE,-5.672183412645678,-82.88085660047878,-6.0,-82.0,-5.09,-81.11,True,78.07,65.0,20.0,10.04,194.5,few clouds,http://openweathermap.org/img/w/02n.png
+Saquena,Peru,Republic of Peru,PE,-4.8734305608382344,-72.8970495745708,-6.0,-75.0,-4.67,-73.52,True,79.01,87.0,12.0,3.04,327.0,few clouds,http://openweathermap.org/img/w/02n.png
+Sao Paulo De Olivenca,Brazil,Federative Republic of Brazil,BR,-3.041445810467458,-68.53017785729892,-6.0,-68.0,-3.38,-68.87,True,79.91,81.0,20.0,3.27,51.0002,few clouds,http://openweathermap.org/img/w/02n.png
+Ariquemes,Brazil,Federative Republic of Brazil,BR,-9.371723106441799,-63.34438975290468,-6.0,-61.0,-9.91,-63.03,True,78.65,76.0,36.0,3.11,337.5,scattered clouds,http://openweathermap.org/img/w/03n.png
+Alta Floresta,Brazil,Federative Republic of Brazil,BR,-9.062359660810253,-54.129613444254815,-6.0,-54.0,-9.87,-56.08,True,75.68,94.0,56.0,1.99,33.0002,broken clouds,http://openweathermap.org/img/w/04n.png
+Coroata,Brazil,Federative Republic of Brazil,BR,-4.195738047211625,-44.13766415490462,-6.0,-47.0,-6.39,-44.31,True,74.92,90.0,8.0,1.81,87.0002,light rain,http://openweathermap.org/img/w/10n.png
+Omboue,Gabon,Gabonese Republic,GA,-6.343973808009387,0.6996853574516506,-6.0,2.0,-1.57,9.26,False,80.68,100.0,48.0,4.72,202.0,light rain,http://openweathermap.org/img/w/10n.png
+Gamba,Gabon,Gabonese Republic,GA,-3.155561549188601,9.363803761960387,-6.0,9.0,-2.72,10.02,True,75.05,100.0,92.0,3.04,95.5002,light rain,http://openweathermap.org/img/w/10n.png
+Brazzaville,Congo,Republic of the Congo,CG,-3.5989167778096043,15.241851386709005,-6.0,16.0,-4.27,15.28,True,75.31,100.0,20.0,3.36,230.0,few clouds,http://openweathermap.org/img/w/02n.png
+Kamina,"Congo, The Democratic Republic of the","Congo, The Democratic Republic of the",CD,-8.463619717154193,25.058689819269766,-6.0,23.0,-8.74,25.0,True,65.02,91.0,8.0,3.33,310.5,clear sky,http://openweathermap.org/img/w/02n.png
+Chala,"Tanzania, United Republic of",United Republic of Tanzania,TZ,-7.550304309371445,31.627248594093142,-6.0,30.0,-7.6,31.27,True,62.6,82.0,20.0,3.36,140.0,few clouds,http://openweathermap.org/img/w/02n.png
+Msowero,"Tanzania, United Republic of",United Republic of Tanzania,TZ,-6.629531744990502,37.42890890551362,-6.0,37.0,-6.53,37.2,True,75.2,88.0,40.0,3.38,74.0002,scattered clouds,http://openweathermap.org/img/w/03n.png
+Lamu,Kenya,Republic of Kenya,KE,-3.097010604597803,41.45096197042892,-6.0,44.0,-2.27,40.9,True,79.42,93.0,92.0,7.85,63.0002,overcast clouds,http://openweathermap.org/img/w/04n.png
+Padang,Indonesia,Republic of Indonesia,ID,-7.7655973141777945,92.17792851937796,-6.0,93.0,-0.92,100.36,False,75.2,94.0,40.0,2.24,10.0,scattered clouds,http://openweathermap.org/img/w/03d.png
+Tanggulangin,Indonesia,Republic of Indonesia,ID,-7.224804786803202,112.49690687855588,-6.0,114.0,-6.99,111.85,True,75.23,90.0,36.0,4.12,195.0,scattered clouds,http://openweathermap.org/img/w/03d.png
+Sorong,Indonesia,Republic of Indonesia,ID,-2.5265176600156316,130.54123264935805,-6.0,128.0,-0.86,131.25,True,79.33,100.0,48.0,3.22,97.0002,scattered clouds,http://openweathermap.org/img/w/03d.png
+Tual,Indonesia,Republic of Indonesia,ID,-7.30710810562285,133.59886461336666,-6.0,135.0,-5.67,132.75,True,79.64,100.0,64.0,17.87,304.5,light rain,http://openweathermap.org/img/w/10d.png
+Merauke,Indonesia,Republic of Indonesia,ID,-8.709139006896143,139.37599265840754,-6.0,142.0,-8.49,140.4,True,79.73,100.0,80.0,20.11,300.5,light rain,http://openweathermap.org/img/w/10d.png
+Kandrian,Papua New Guinea,Independent State of Papua New Guinea,PG,-5.839395050797323,148.86457413734712,-6.0,149.0,-6.21,149.55,True,81.71,83.0,92.0,9.15,331.0,overcast clouds,http://openweathermap.org/img/w/04d.png
+Kieta,Papua New Guinea,Independent State of Papua New Guinea,PG,-2.8534873450159557,158.27659246009736,-6.0,156.0,-6.22,155.63,True,83.96,90.0,68.0,12.84,281.5,light rain,http://openweathermap.org/img/w/10d.png
+Buala,Solomon Islands,Solomon Islands,SB,-7.78500515883538,159.60659034840714,-6.0,163.0,-8.15,159.59,True,79.78,99.0,92.0,19.04,293.5,light rain,http://openweathermap.org/img/w/10d.png
+Hilo,United States,United States of America,US,4.385663475892008,-156.36548137254525,1.0,-159.0,19.71,-155.08,False,77.0,73.0,75.0,11.41,120.0,broken clouds,http://openweathermap.org/img/w/04n.png
+San Patricio,Mexico,United Mexican States,MX,2.7473002212759274,-117.64894749091434,1.0,-117.0,19.22,-104.7,False,80.6,74.0,75.0,11.41,360.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Acapulco,Mexico,United Mexican States,MX,2.148190691819874,-106.18976714949844,1.0,-103.0,16.86,-99.88,False,80.6,78.0,40.0,9.17,310.0,scattered clouds,http://openweathermap.org/img/w/03n.png
+Manta,Ecuador,Republic of Ecuador,EC,-0.9181321008163037,-83.38100693098865,1.0,-82.0,-0.95,-80.73,True,80.6,74.0,40.0,12.75,210.0,scattered clouds,http://openweathermap.org/img/w/03n.png
+Puerto Leguizamo,Colombia,Republic of Colombia,CO,-0.05625168504002387,-73.4713780076883,1.0,-75.0,-0.19,-74.78,True,85.13,63.0,64.0,1.99,108.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Santa Isabel Do Rio Negro,Brazil,Federative Republic of Brazil,BR,-0.5451807053626765,-66.0498686641754,1.0,-68.0,-0.41,-65.02,True,85.72,55.0,0.0,7.4,88.5002,clear sky,http://openweathermap.org/img/w/01n.png
+Lethem,Guyana,Republic of Guyana,GY,4.090155122955787,-60.31454751302985,1.0,-61.0,3.38,-59.8,True,83.83,53.0,0.0,16.35,70.0002,clear sky,http://openweathermap.org/img/w/01n.png
+Camopi,French Guiana,French Guiana,GF,3.6865699029927956,-52.71740635484237,1.0,-54.0,3.17,-52.33,True,77.93,70.0,0.0,4.5,70.5002,clear sky,http://openweathermap.org/img/w/01n.png
+Maracacume,Brazil,Federative Republic of Brazil,BR,-2.1367062914182497,-46.153566497833715,1.0,-47.0,-2.04,-45.96,True,76.58,93.0,88.0,3.04,29.0002,overcast clouds,http://openweathermap.org/img/w/04n.png
+Camocim,Brazil,Federative Republic of Brazil,BR,-0.34480011080807627,-40.63581510300882,1.0,-40.0,-2.9,-40.84,True,79.01,82.0,20.0,10.38,61.5002,few clouds,http://openweathermap.org/img/w/02n.png
+Touros,Brazil,Federative Republic of Brazil,BR,2.830938229560239,-30.375920595549424,1.0,-33.0,-5.2,-35.46,False,78.8,83.0,40.0,3.36,200.0,scattered clouds,http://openweathermap.org/img/w/03n.png
+Bonthe,Sierra Leone,Republic of Sierra Leone,SL,4.273947735907608,-16.763164916214293,1.0,-19.0,7.53,-12.5,False,80.68,83.0,48.0,4.72,265.5,scattered clouds,http://openweathermap.org/img/w/03n.png
+Harper,Liberia,Republic of Liberia,LR,4.224885312507592,-8.929177854985312,1.0,-12.0,4.38,-7.71,True,80.9,100.0,0.0,5.23,188.0,clear sky,http://openweathermap.org/img/w/01n.png
+Axim,Ghana,Republic of Ghana,GH,-0.9769041657365385,-3.5427381281204084,1.0,-5.0,4.87,-2.24,False,82.34,100.0,0.0,8.93,196.5,clear sky,http://openweathermap.org/img/w/01n.png
+Yenagoa,Nigeria,Federal Republic of Nigeria,NG,1.149929055551624,3.1971551540522167,1.0,2.0,4.92,6.26,False,76.81,83.0,0.0,6.91,191.0,clear sky,http://openweathermap.org/img/w/01n.png
+Abonnema,Nigeria,Federal Republic of Nigeria,NG,3.4263589855488474,6.153717251765224,1.0,9.0,4.71,6.79,True,76.4,88.0,24.0,7.29,187.0,few clouds,http://openweathermap.org/img/w/02n.png
+Yokadouma,Cameroon,Republic of Cameroon,CM,2.9148128975747305,14.83526416671624,1.0,16.0,3.52,15.05,True,68.03,93.0,20.0,2.21,184.0,few clouds,http://openweathermap.org/img/w/02n.png
+Buta,"Congo, The Democratic Republic of the","Congo, The Democratic Republic of the",CD,3.414706702345332,25.89043984114266,1.0,23.0,2.79,24.73,True,73.34,83.0,12.0,2.1,41.5002,few clouds,http://openweathermap.org/img/w/02n.png
+Isiro,"Congo, The Democratic Republic of the","Congo, The Democratic Republic of the",CD,3.5674536234133756,28.048911484023897,1.0,30.0,2.77,27.62,True,67.13,90.0,0.0,2.1,6.50021,clear sky,http://openweathermap.org/img/w/01n.png
+Kaabong,Uganda,Republic of Uganda,UG,3.34610941749046,33.6604939775484,1.0,37.0,3.51,34.14,True,61.96,89.0,0.0,4.34,100.0,clear sky,http://openweathermap.org/img/w/01n.png
+Hobyo,Somalia,Federal Republic of Somalia,SO,2.2372846140277396,53.194651182477216,1.0,51.0,5.35,48.53,False,77.08,85.0,80.0,15.97,51.0002,broken clouds,http://openweathermap.org/img/w/04n.png
+Kudahuvadhoo,Maldives,Republic of Maldives,MV,3.5756020935231483,66.58458094199771,1.0,65.0,2.67,72.89,False,81.08,100.0,36.0,8.59,50.0002,scattered clouds,http://openweathermap.org/img/w/03n.png
+Hambantota,Sri Lanka,Democratic Socialist Republic of Sri Lanka,LK,3.3365091415985235,82.20563523803847,1.0,79.0,6.12,81.12,True,73.4,94.0,20.0,5.82,40.0,few clouds,http://openweathermap.org/img/w/02n.png
+Matara,Sri Lanka,Democratic Socialist Republic of Sri Lanka,LK,-0.5177423780487052,82.564105565321,1.0,86.0,5.95,80.54,False,77.53,93.0,80.0,11.39,52.5002,broken clouds,http://openweathermap.org/img/w/04d.png
+Banda Aceh,Indonesia,Republic of Indonesia,ID,2.671253310284584,91.36614746312856,1.0,93.0,5.56,95.32,False,71.63,100.0,56.0,3.22,139.5,light rain,http://openweathermap.org/img/w/10d.png
+Mersing,Malaysia,Malaysia,MY,2.7290250844205675,104.57209001023863,1.0,107.0,2.43,103.84,True,79.87,92.0,36.0,10.65,343.0,scattered clouds,http://openweathermap.org/img/w/03d.png
+Pontianak,Indonesia,Republic of Indonesia,ID,-0.38033572121270165,110.92970950693615,1.0,114.0,-0.02,109.34,True,80.6,88.0,40.0,7.14,299.5,scattered clouds,http://openweathermap.org/img/w/03d.png
+Poso,Indonesia,Republic of Indonesia,ID,-2.037571020386368,120.05748651779119,1.0,121.0,-1.4,120.75,True,82.34,100.0,20.0,2.48,131.0,few clouds,http://openweathermap.org/img/w/02d.png
+Biak,Indonesia,Republic of Indonesia,ID,-0.12601505178562977,136.6551057834237,1.0,135.0,-0.91,122.88,False,83.33,89.0,8.0,2.59,194.5,clear sky,http://openweathermap.org/img/w/02d.png
+Lorengau,Papua New Guinea,Independent State of Papua New Guinea,PG,-1.1207289981010726,147.88865278801876,1.0,149.0,-2.02,147.27,True,80.18,100.0,92.0,12.33,304.0,light rain,http://openweathermap.org/img/w/10d.png
+Butaritari,Kiribati,Republic of Kiribati,KI,2.6196094517398985,164.34563169763064,1.0,163.0,3.07,172.79,False,84.05,100.0,76.0,22.35,59.5002,light rain,http://openweathermap.org/img/w/10d.png
+Kapaa,United States,United States of America,US,10.289479981952663,-169.0869004110083,8.0,-166.0,22.08,-159.32,False,81.12,69.0,75.0,11.41,50.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Cabo San Lucas,Mexico,United Mexican States,MX,9.158291329367877,-121.86298835049325,8.0,-124.0,22.89,-109.91,False,62.73,51.0,20.0,9.17,280.0,few clouds,http://openweathermap.org/img/w/02n.png
+Puerto Escondido,Mexico,United Mexican States,MX,7.959217657429771,-100.63312250421673,8.0,-103.0,15.86,-97.07,False,80.6,69.0,5.0,5.84,274.0,clear sky,http://openweathermap.org/img/w/02n.png
+Acajutla,El Salvador,Republic of El Salvador,SV,11.483079607287358,-90.13447160611888,8.0,-89.0,13.59,-89.83,True,75.2,44.0,0.0,2.24,220.0,clear sky,http://openweathermap.org/img/w/01n.png
+La Palma,Panama,Republic of Panama,PA,5.0250059296524805,-81.38976191081366,8.0,-82.0,8.4,-78.14,True,82.61,75.0,0.0,6.13,19.5002,clear sky,http://openweathermap.org/img/w/01n.png
+Tibu,Colombia,Republic of Colombia,CO,9.262957587813442,-72.61235059482767,8.0,-75.0,8.64,-72.74,True,79.87,55.0,0.0,2.37,96.5002,clear sky,http://openweathermap.org/img/w/01n.png
+Villa Bruzual,"Venezuela, Bolivarian Republic of",Bolivarian Republic of Venezuela,VE,8.970552323469501,-69.0186982551339,8.0,-68.0,9.33,-69.12,True,82.48,53.0,92.0,3.78,87.5002,overcast clouds,http://openweathermap.org/img/w/04n.png
+Upata,"Venezuela, Bolivarian Republic of",Bolivarian Republic of Venezuela,VE,6.485287152012341,-62.648782769652605,8.0,-61.0,8.02,-62.41,True,70.1,97.0,88.0,5.84,51.5002,light rain,http://openweathermap.org/img/w/10n.png
+Iracoubo,French Guiana,French Guiana,GF,6.104859982389135,-53.17826643723639,8.0,-54.0,5.48,-53.21,True,73.7,98.0,88.0,4.56,72.0002,light rain,http://openweathermap.org/img/w/10n.png
+Cayenne,French Guiana,French Guiana,GF,6.957010705663812,-48.3443735407365,8.0,-47.0,4.94,-52.33,False,73.4,94.0,0.0,1.12,90.0,clear sky,http://openweathermap.org/img/w/01n.png
+Itarema,Brazil,Federative Republic of Brazil,BR,10.585069618714993,-38.4220012769961,8.0,-40.0,-2.92,-39.92,False,77.98,86.0,8.0,9.08,68.0002,clear sky,http://openweathermap.org/img/w/02n.png
+Sao Filipe,Cabo Verde,Republic of Cabo Verde,CV,10.795149297552715,-34.28772546198298,8.0,-33.0,14.9,-24.5,False,72.31,98.0,12.0,10.83,46.5002,few clouds,http://openweathermap.org/img/w/02n.png
+Bubaque,Guinea-Bissau,Republic of Guinea-Bissau,GW,9.922351144963475,-17.77979465986056,8.0,-19.0,11.28,-15.83,True,79.78,99.0,8.0,10.65,267.0,clear sky,http://openweathermap.org/img/w/02n.png
+Telimele,Guinea,Republic of Guinea,GN,11.094499667070018,-12.906872512968278,8.0,-12.0,10.9,-13.03,True,67.63,89.0,0.0,2.21,230.5,clear sky,http://openweathermap.org/img/w/01n.png
+Seguela,Côte d'Ivoire,Republic of Côte d'Ivoire,CI,8.507233057368278,-6.761063627232459,8.0,-5.0,7.96,-6.67,True,74.6,75.0,32.0,4.34,108.5,scattered clouds,http://openweathermap.org/img/w/03n.png
+Banikoara,Benin,Republic of Benin,BJ,11.36415744773819,2.0906214580247307,8.0,2.0,11.3,2.44,True,66.91,41.0,0.0,8.41,38.0002,clear sky,http://openweathermap.org/img/w/01n.png
+Otukpo,Nigeria,Federal Republic of Nigeria,NG,6.6585652226081375,8.658857691989851,8.0,9.0,7.19,8.13,True,77.44,36.0,0.0,10.27,37.5002,clear sky,http://openweathermap.org/img/w/01n.png
+Boali,Central African Republic,Central African Republic,CF,4.814639191772983,17.986663028611964,8.0,16.0,4.81,18.11,True,71.6,88.0,8.0,3.49,101.0,clear sky,http://openweathermap.org/img/w/02n.png
+Kibre Mengist,Ethiopia,Federal Democratic Republic of Ethiopia,ET,5.722926195325166,40.26217667670421,8.0,37.0,5.87,38.99,True,56.56,92.0,36.0,2.71,69.0002,scattered clouds,http://openweathermap.org/img/w/03n.png
+Berbera,Somalia,Federal Republic of Somalia,SO,11.130144700189884,46.243488193720054,8.0,44.0,10.44,45.01,True,51.34,86.0,0.0,2.37,171.5,clear sky,http://openweathermap.org/img/w/01n.png
+Bandarbeyla,Somalia,Federal Republic of Somalia,SO,9.285295849934172,56.906778503786185,8.0,58.0,9.49,50.81,False,76.85,100.0,68.0,15.68,28.0002,broken clouds,http://openweathermap.org/img/w/04n.png
+Ugoofaaru,Maldives,Republic of Maldives,MV,5.357287656881992,63.90350472612496,8.0,65.0,5.67,73.0,False,83.15,99.0,88.0,17.13,60.5002,overcast clouds,http://openweathermap.org/img/w/04n.png
+Dhidhdhoo,Maldives,Republic of Maldives,MV,7.951748704650383,70.8544564611455,8.0,72.0,6.88,73.1,True,82.93,100.0,88.0,7.4,63.0002,overcast clouds,http://openweathermap.org/img/w/04n.png
+Tiruchchendur,India,Republic of India,IN,8.225724659469396,78.26373291557744,8.0,79.0,8.48,78.12,True,73.4,88.0,20.0,5.82,10.0,mist,http://openweathermap.org/img/w/50n.png
+Kalmunai,Sri Lanka,Democratic Socialist Republic of Sri Lanka,LK,8.323550496809442,87.0511535878379,8.0,86.0,7.42,81.82,False,73.39,93.0,88.0,4.5,326.0,overcast clouds,http://openweathermap.org/img/w/04d.png
+Sabang,Indonesia,Republic of Indonesia,ID,5.948396866359895,92.62778180753735,8.0,93.0,1.17,120.82,False,83.15,99.0,8.0,6.62,68.0002,clear sky,http://openweathermap.org/img/w/02d.png
+Jertih,Malaysia,Malaysia,MY,5.813589707314543,102.77423274537524,8.0,100.0,5.74,102.5,True,77.0,94.0,75.0,2.24,,broken clouds,http://openweathermap.org/img/w/04d.png
+Ca Mau,Viet Nam,Socialist Republic of Viet Nam,VN,6.888640069839656,105.26337492304033,8.0,107.0,9.18,105.15,True,75.64,89.0,32.0,15.19,20.5002,scattered clouds,http://openweathermap.org/img/w/03d.png
+Tagusao,Philippines,Republic of the Philippines,PH,10.058230452227559,117.10525228589961,8.0,114.0,9.19,117.81,True,78.52,100.0,20.0,8.41,96.0002,few clouds,http://openweathermap.org/img/w/02d.png
+Cabay,Philippines,Republic of the Philippines,PH,11.410107021243896,125.42663844005484,8.0,128.0,11.45,125.49,True,77.08,100.0,80.0,11.54,97.5002,light rain,http://openweathermap.org/img/w/10d.png
+Kavieng,Papua New Guinea,Independent State of Papua New Guinea,PG,10.190538223853974,156.30694615115826,8.0,156.0,-2.57,150.8,False,82.84,100.0,88.0,10.76,280.5,light rain,http://openweathermap.org/img/w/10d.png
+Makakilo City,United States,United States of America,US,12.727860670776291,-162.63535731819695,15.0,-166.0,21.35,-158.09,False,81.3,54.0,1.0,11.41,80.0,clear sky,http://openweathermap.org/img/w/01n.png
+Guerrero Negro,Mexico,United Mexican States,MX,14.799324554784324,-132.56110549362188,15.0,-131.0,27.97,-114.04,False,60.74,52.0,0.0,13.56,309.0,clear sky,http://openweathermap.org/img/w/01n.png
+Coahuayana,Mexico,United Mexican States,MX,12.38329951594409,-106.96087609372479,15.0,-110.0,18.62,-100.35,False,74.83,46.0,80.0,2.21,275.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Tlapehuala,Mexico,United Mexican States,MX,18.283086581210338,-100.67004552007408,15.0,-103.0,18.24,-100.54,True,75.01,45.0,44.0,1.48,263.5,scattered clouds,http://openweathermap.org/img/w/03n.png
+Escarcega,Mexico,United Mexican States,MX,18.27580208520634,-89.93524022010946,15.0,-89.0,18.61,-90.75,True,86.03,45.0,8.0,6.06,118.0,clear sky,http://openweathermap.org/img/w/02n.png
+San Andres,Colombia,Republic of Colombia,CO,14.14812530440312,-80.3596595833659,15.0,-82.0,8.22,-76.58,False,82.4,78.0,40.0,7.85,333.0,scattered clouds,http://openweathermap.org/img/w/03n.png
+Morant Bay,Jamaica,Jamaica,JM,14.282373861987889,-76.63115005419617,15.0,-75.0,17.88,-76.41,False,80.6,54.0,20.0,10.29,120.0,few clouds,http://openweathermap.org/img/w/02n.png
+Road Town,"Virgin Islands, British",British Virgin Islands,VG,17.344596214813983,-64.34002872300452,15.0,-61.0,18.42,-64.62,True,77.0,69.0,40.0,14.99,80.0,scattered clouds,http://openweathermap.org/img/w/03n.png
+Mana,French Guiana,French Guiana,GF,12.964315421983276,-51.51578263208982,15.0,-54.0,5.67,-53.78,False,73.88,99.0,92.0,3.22,32.0002,light rain,http://openweathermap.org/img/w/10n.png
+Ponta Do Sol,Cabo Verde,Republic of Cabo Verde,CV,16.875629807286664,-36.096536526222636,15.0,-33.0,17.2,-25.09,False,68.0,68.0,0.0,5.82,60.0,clear sky,http://openweathermap.org/img/w/01n.png
+Santa Maria,Cabo Verde,Republic of Cabo Verde,CV,17.067520953517622,-21.117705280315295,15.0,-19.0,16.6,-22.9,True,68.0,77.0,0.0,5.82,40.0,clear sky,http://openweathermap.org/img/w/01n.png
+Sokolo,Mali,Republic of Mali,ML,15.303032353982072,-5.930891466919015,15.0,-5.0,14.74,-6.12,True,65.47,40.0,48.0,5.28,41.0002,scattered clouds,http://openweathermap.org/img/w/03n.png
+Malanville,Benin,Republic of Benin,BJ,12.324605340079492,2.8456169609511255,15.0,2.0,11.87,3.39,True,69.43,40.0,8.0,9.31,43.0002,clear sky,http://openweathermap.org/img/w/02n.png
+Tanout,Niger,Republic of the Niger,NE,15.288717196247008,9.607610361924227,15.0,9.0,14.97,8.88,True,58.04,56.0,0.0,8.75,49.5002,clear sky,http://openweathermap.org/img/w/01n.png
+Maiduguri,Nigeria,Federal Republic of Nigeria,NG,12.357487303375876,13.103750704273496,15.0,16.0,11.84,13.15,True,56.29,63.0,0.0,3.49,14.5002,clear sky,http://openweathermap.org/img/w/01n.png
+Umm Kaddadah,Sudan,Republic of the Sudan,SD,14.039741928548837,26.362841153179886,15.0,23.0,13.6,26.69,True,53.23,43.0,0.0,12.06,28.0002,clear sky,http://openweathermap.org/img/w/01n.png
+Kassala,Sudan,Republic of the Sudan,SD,15.614934360196509,36.60906039128851,15.0,37.0,15.45,36.38,True,66.86,78.0,0.0,7.25,26.0002,clear sky,http://openweathermap.org/img/w/01n.png
+Abha,Saudi Arabia,Kingdom of Saudi Arabia,SA,18.152210372346666,43.12595349909556,15.0,44.0,18.22,42.5,True,54.45,66.0,0.0,1.21,25.0002,clear sky,http://openweathermap.org/img/w/01n.png
+Salalah,Oman,Sultanate of Oman,OM,15.134473775111157,52.38464154010441,15.0,51.0,17.01,54.1,True,69.8,68.0,40.0,5.82,350.0,scattered clouds,http://openweathermap.org/img/w/03n.png
+Nagar Karnul,India,Republic of India,IN,16.571794911030345,78.3263444817244,15.0,79.0,16.48,78.32,True,51.38,88.0,0.0,3.71,57.5002,clear sky,http://openweathermap.org/img/w/01n.png
+Port Blair,India,Republic of India,IN,11.781749090386384,95.65527260145022,15.0,93.0,11.67,92.75,True,81.49,100.0,8.0,10.38,40.0002,clear sky,http://openweathermap.org/img/w/02d.png
+Thoen,Thailand,Kingdom of Thailand,TH,17.359951247503297,99.40030467869005,15.0,100.0,17.61,99.22,True,66.19,100.0,100.0,2.55,97.5002,moderate rain,http://openweathermap.org/img/w/10d.png
+Cabatuan,Philippines,Republic of the Philippines,PH,13.508682923882457,125.94901873274597,15.0,128.0,16.95,121.67,False,68.75,99.0,100.0,4.34,332.5,moderate rain,http://openweathermap.org/img/w/10d.png
+Constitucion,Mexico,United Mexican States,MX,21.79212148263653,-118.23069589333616,22.0,-117.0,23.99,-104.67,False,50.0,46.0,90.0,12.75,190.0,overcast clouds,http://openweathermap.org/img/w/04n.png
+Charcas,Mexico,United Mexican States,MX,23.35037548583726,-101.29345476152508,22.0,-103.0,23.13,-101.11,True,55.88,64.0,80.0,18.81,228.5,broken clouds,http://openweathermap.org/img/w/04n.png
+Abasolo,Mexico,United Mexican States,MX,24.26594976075576,-98.15994754644629,22.0,-96.0,20.45,-101.53,False,64.4,42.0,75.0,14.99,280.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Caibarien,Cuba,Republic of Cuba,CU,23.056414958831773,-78.8851633596989,22.0,-82.0,22.52,-79.47,True,73.4,78.0,20.0,5.82,100.0,few clouds,http://openweathermap.org/img/w/02n.png
+Guantanamo,Cuba,Republic of Cuba,CU,19.562183353276026,-75.09528300881928,22.0,-75.0,20.14,-75.21,True,76.39,77.0,20.0,8.05,20.0,few clouds,http://openweathermap.org/img/w/02n.png
+San Juan,United States,United States of America,US,23.08716082666423,-65.35995913632499,22.0,-68.0,26.19,-98.16,False,49.46,76.0,90.0,3.36,40.0,mist,http://openweathermap.org/img/w/50n.png
+The Valley,Anguilla,Anguilla,AI,19.55242493726079,-62.286145590107374,22.0,-61.0,18.22,-63.06,True,77.0,69.0,20.0,13.87,70.0,few clouds,http://openweathermap.org/img/w/02n.png
+Saint-Francois,Guadeloupe,Guadeloupe,GP,21.40517268619015,-49.09892054483795,22.0,-47.0,16.25,-61.27,False,75.2,78.0,75.0,6.93,90.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Nouakchott,Mauritania,Islamic Republic of Mauritania,MR,19.049033713694325,-15.681030398757237,22.0,-19.0,18.08,-15.98,True,60.8,19.0,0.0,8.05,50.0,clear sky,http://openweathermap.org/img/w/01n.png
+Puerto Del Rosario,Spain,Kingdom of Spain,ES,25.090359138249724,-11.09729389352644,22.0,-12.0,28.5,-13.86,True,59.0,82.0,0.0,4.7,320.0,clear sky,http://openweathermap.org/img/w/01n.png
+Araouane,Mali,Republic of Mali,ML,20.618461024417535,-4.238354678295632,22.0,-5.0,18.9,-3.53,True,57.14,36.0,36.0,7.92,37.5002,scattered clouds,http://openweathermap.org/img/w/03n.png
+Arlit,Niger,Republic of the Niger,NE,19.64773012429473,4.514046066960329,22.0,2.0,18.74,7.39,True,56.78,75.0,80.0,3.89,335.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Bilma,Niger,Republic of the Niger,NE,21.309274769329203,12.187474992820926,22.0,9.0,18.69,12.92,True,47.83,54.0,24.0,1.54,109.5,few clouds,http://openweathermap.org/img/w/02n.png
+Jalu,Libya,Libya,LY,23.33291142649278,25.08436969400742,22.0,23.0,29.03,21.55,False,39.41,80.0,0.0,2.82,18.0002,clear sky,http://openweathermap.org/img/w/01n.png
+Aswan,Egypt,Arab Republic of Egypt,EG,22.487891973882316,27.756789128590384,22.0,30.0,24.09,32.9,False,50.0,57.0,0.0,5.82,20.0,clear sky,http://openweathermap.org/img/w/01n.png
+Sawakin,Sudan,Republic of the Sudan,SD,19.542479721072258,38.76113156607704,22.0,37.0,19.1,37.33,True,70.46,95.0,100.0,11.27,13.0002,overcast clouds,http://openweathermap.org/img/w/04n.png
+Riyadh,Saudi Arabia,Kingdom of Saudi Arabia,SA,22.411542890991136,46.422910345126006,22.0,44.0,24.63,46.72,True,59.0,67.0,0.0,5.82,170.0,clear sky,http://openweathermap.org/img/w/01n.png
+Abu Dhabi,United Arab Emirates,United Arab Emirates,AE,23.126129282873556,55.36598900516462,22.0,58.0,24.47,54.37,True,63.46,93.0,0.0,5.82,130.0,haze,http://openweathermap.org/img/w/50n.png
+Sur,Oman,Sultanate of Oman,OM,19.474288955086614,62.96653272230833,22.0,65.0,22.57,59.53,True,68.39,100.0,0.0,5.61,175.5,clear sky,http://openweathermap.org/img/w/01n.png
+Ojhar,India,Republic of India,IN,20.118982107392128,73.98051919622408,22.0,72.0,20.09,73.93,True,41.39,81.0,12.0,5.06,101.5,few clouds,http://openweathermap.org/img/w/02n.png
+Gidam,India,Republic of India,IN,19.008057692725195,81.61840847472547,22.0,79.0,18.98,81.4,True,37.39,84.0,0.0,2.77,34.0002,clear sky,http://openweathermap.org/img/w/01d.png
+Kandi,India,Republic of India,IN,23.91145773510256,87.86681572072688,22.0,86.0,17.59,78.11,False,53.6,66.0,0.0,5.82,110.0,haze,http://openweathermap.org/img/w/50n.png
+Taungdwingyi,Myanmar,Republic of Myanmar,MM,20.092991863655055,95.67242349220518,22.0,93.0,20.0,95.55,True,57.46,95.0,0.0,3.78,323.0,clear sky,http://openweathermap.org/img/w/01d.png
+Thanh Hoa,Viet Nam,Socialist Republic of Viet Nam,VN,19.22353685532342,106.47983364722833,22.0,107.0,10.21,106.33,False,75.2,78.0,20.0,5.82,20.0,few clouds,http://openweathermap.org/img/w/02d.png
+Xiongzhou,China,People's Republic of China,CN,24.80206728328055,114.724093961655,22.0,114.0,32.34,118.83,False,26.6,92.0,75.0,2.24,,mist,http://openweathermap.org/img/w/50d.png
+Davila,Philippines,Republic of the Philippines,PH,19.609418424911695,117.91888077113093,22.0,121.0,18.47,120.58,True,80.6,69.0,75.0,6.93,70.0,broken clouds,http://openweathermap.org/img/w/04d.png
+Dicabisagan,Philippines,Republic of the Philippines,PH,18.531584574601823,127.50852790379001,22.0,128.0,17.08,122.42,False,71.86,100.0,92.0,10.09,46.0002,heavy intensity rain,http://openweathermap.org/img/w/10d.png
+Naze,Japan,Japan,JP,24.181032937732056,135.33289401474872,22.0,135.0,28.37,129.48,False,57.2,71.0,75.0,10.29,10.0,broken clouds,http://openweathermap.org/img/w/04d.png
+Katsuura,Japan,Japan,JP,23.355949597332085,145.1007560767483,22.0,142.0,33.93,134.5,False,40.87,56.0,75.0,9.17,310.0,broken clouds,http://openweathermap.org/img/w/04d.png
+Kahului,United States,United States of America,US,30.69725092758568,-149.5733838182389,29.0,-152.0,20.89,-156.47,False,79.2,64.0,40.0,23.04,70.0,scattered clouds,http://openweathermap.org/img/w/03n.png
+Lompoc,United States,United States of America,US,26.86940033809671,-132.7631366706321,29.0,-131.0,34.64,-120.46,False,57.54,71.0,1.0,13.87,320.0,clear sky,http://openweathermap.org/img/w/01d.png
+Pacific Grove,United States,United States of America,US,31.963212414901587,-126.60126530638554,29.0,-124.0,36.62,-121.92,False,55.8,83.0,75.0,11.41,270.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Mochicahui,Mexico,United Mexican States,MX,26.067541419636623,-108.91717820677381,29.0,-110.0,25.95,-108.93,True,55.4,58.0,5.0,14.99,330.0,clear sky,http://openweathermap.org/img/w/02n.png
+Chihuahua,Mexico,United Mexican States,MX,29.388274730194812,-105.83876195123905,29.0,-103.0,28.66,-106.08,True,41.0,48.0,20.0,6.93,20.0,few clouds,http://openweathermap.org/img/w/02n.png
+Freeport,United States,United States of America,US,25.92020975108564,-93.64188499320288,29.0,-96.0,42.3,-89.62,False,31.12,79.0,1.0,10.29,180.0,clear sky,http://openweathermap.org/img/w/01n.png
+Morgan City,United States,United States of America,US,29.299758189163608,-91.10954115946194,29.0,-89.0,29.7,-91.21,True,69.51,97.0,90.0,12.75,160.0,mist,http://openweathermap.org/img/w/50n.png
+Saint Pete Beach,United States,United States of America,US,26.684243260860406,-84.71543688007034,29.0,-82.0,27.73,-82.74,True,71.51,90.0,1.0,3.56,193.5,clear sky,http://openweathermap.org/img/w/01n.png
+Wilmington,United States,United States of America,US,30.6960227672858,-75.3127056314767,29.0,-75.0,39.75,-75.55,False,34.2,93.0,1.0,5.91,224.5,clear sky,http://openweathermap.org/img/w/01n.png
+Hamilton,Bermuda,Bermuda,BM,28.02487015129977,-65.41593622702884,29.0,-68.0,32.3,-64.78,False,68.0,88.0,40.0,9.17,20.0,scattered clouds,http://openweathermap.org/img/w/03n.png
+Saint George,Bermuda,Bermuda,BM,27.98099379811356,-60.80785082028479,29.0,-61.0,32.38,-64.68,False,68.0,88.0,40.0,9.17,20.0,scattered clouds,http://openweathermap.org/img/w/03n.png
+Ribeira Grande,Portugal,Portuguese Republic,PT,28.686792585144612,-45.283730840248786,29.0,-47.0,38.52,-28.7,False,60.74,100.0,76.0,10.16,47.0002,light rain,http://openweathermap.org/img/w/10n.png
+Los Llanos De Aridane,Spain,Kingdom of Spain,ES,30.85460965573558,-23.078498965890784,29.0,-26.0,28.66,-17.92,False,60.8,63.0,64.0,9.17,280.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Tiznit,Morocco,Kingdom of Morocco,MA,26.358255709589997,-9.097423247743244,29.0,-12.0,29.7,-9.73,True,49.09,78.0,0.0,5.06,109.5,clear sky,http://openweathermap.org/img/w/01n.png
+Adrar,Algeria,People's Democratic Republic of Algeria,DZ,27.955549578637505,-1.7828190622931714,29.0,-5.0,27.87,-0.29,True,48.2,49.0,0.0,9.17,20.0,clear sky,http://openweathermap.org/img/w/01n.png
+Yafran,Libya,Libya,LY,32.17198565438593,12.426880435777854,29.0,9.0,32.06,12.53,True,27.04,71.0,0.0,2.82,23.0002,clear sky,http://openweathermap.org/img/w/01n.png
+Ajdabiya,Libya,Libya,LY,29.18931202270916,18.82980447515626,29.0,16.0,30.75,20.22,True,45.49,86.0,44.0,2.59,241.5,scattered clouds,http://openweathermap.org/img/w/03n.png
+Marsa Matruh,Egypt,Arab Republic of Egypt,EG,27.524523349429785,26.045911981432223,29.0,23.0,31.35,27.25,False,53.6,87.0,20.0,4.7,210.0,few clouds,http://openweathermap.org/img/w/02n.png
+Matay,Egypt,Arab Republic of Egypt,EG,28.51554620357506,28.94277337505249,29.0,30.0,28.42,30.79,True,39.46,84.0,0.0,2.55,72.5002,clear sky,http://openweathermap.org/img/w/01n.png
+Manama,Bahrain,Kingdom of Bahrain,BH,27.216456309011342,51.0767269770655,29.0,51.0,26.22,50.58,True,66.88,88.0,92.0,6.93,120.0,overcast clouds,http://openweathermap.org/img/w/04n.png
+Iranshahr,"Iran, Islamic Republic of",Islamic Republic of Iran,IR,26.328086221521776,61.295071404851036,29.0,58.0,27.21,60.69,True,53.6,30.0,0.0,6.93,20.0,clear sky,http://openweathermap.org/img/w/01n.png
+Farah,Afghanistan,Islamic Republic of Afghanistan,AF,32.18362219963841,61.721788271368155,29.0,65.0,32.37,62.11,True,35.68,83.0,36.0,2.48,47.0002,scattered clouds,http://openweathermap.org/img/w/03n.png
+Faqirwali,Pakistan,Islamic Republic of Pakistan,PK,29.50462729649655,72.98351569583825,29.0,72.0,29.47,73.04,True,43.51,86.0,0.0,2.89,9.50021,clear sky,http://openweathermap.org/img/w/01n.png
+Jhinjhak,India,Republic of India,IN,26.622451812891438,79.62993634227112,29.0,79.0,26.58,79.75,True,37.79,78.0,0.0,3.71,314.0,clear sky,http://openweathermap.org/img/w/01n.png
+Jumla,Nepal,Federal Democratic Republic of Nepal,NP,29.518458253642464,83.44710548187112,29.0,86.0,29.28,82.18,True,5.93,82.0,0.0,2.59,73.0002,clear sky,http://openweathermap.org/img/w/01n.png
+Xichang,China,People's Republic of China,CN,28.98992320241654,101.9341823883883,29.0,100.0,27.88,102.25,True,18.04,77.0,8.0,1.48,290.5,clear sky,http://openweathermap.org/img/w/02d.png
+Hongjiang,China,People's Republic of China,CN,26.687390682484114,109.48855666020722,29.0,107.0,27.21,109.83,True,17.59,86.0,56.0,3.38,349.5,broken clouds,http://openweathermap.org/img/w/04d.png
+Leiyang,China,People's Republic of China,CN,26.208657661439087,112.7589531816385,29.0,114.0,26.42,112.85,True,27.53,97.0,88.0,5.84,338.5,overcast clouds,http://openweathermap.org/img/w/04d.png
+Wenling,China,People's Republic of China,CN,27.323766441347182,122.65648645596744,29.0,121.0,28.38,121.38,True,38.74,100.0,92.0,13.29,358.5,light rain,http://openweathermap.org/img/w/10d.png
+Kushima,Japan,Japan,JP,29.155176098065912,132.3450102412895,29.0,135.0,31.5,131.29,True,43.57,52.0,75.0,10.29,340.0,broken clouds,http://openweathermap.org/img/w/04d.png
+Hasaki,Japan,Japan,JP,28.844957262382568,150.60149274834347,29.0,149.0,35.73,140.83,False,40.05,48.0,20.0,10.29,320.0,few clouds,http://openweathermap.org/img/w/02d.png
+Fortuna,United States,United States of America,US,39.273817734731615,-138.86989209908907,36.0,-138.0,40.6,-124.16,False,50.77,100.0,90.0,14.99,340.0,overcast clouds,http://openweathermap.org/img/w/04n.png
+Half Moon Bay,United States,United States of America,US,33.437765350949036,-131.90891569719577,36.0,-131.0,37.46,-122.43,False,56.71,74.0,20.0,5.82,290.0,few clouds,http://openweathermap.org/img/w/02n.png
+Pahrump,United States,United States of America,US,36.94504653276187,-116.66545623321895,36.0,-117.0,36.21,-115.98,True,52.05,43.0,1.0,3.36,70.0,clear sky,http://openweathermap.org/img/w/01n.png
+Redlands,United States,United States of America,US,39.32189795077909,-108.79258410273872,36.0,-110.0,34.06,-117.19,False,55.35,30.0,20.0,3.36,330.0,few clouds,http://openweathermap.org/img/w/02n.png
+Roswell,United States,United States of America,US,33.939934399137016,-104.59061579271956,36.0,-103.0,33.39,-104.52,True,37.51,78.0,1.0,3.36,150.0,clear sky,http://openweathermap.org/img/w/01n.png
+Muskogee,United States,United States of America,US,35.41275249395129,-95.56941993781504,36.0,-96.0,35.75,-95.37,True,38.21,85.0,90.0,5.82,130.0,overcast clouds,http://openweathermap.org/img/w/04n.png
+Herrin,United States,United States of America,US,38.02879623862064,-89.06692847613806,36.0,-89.0,37.8,-89.03,True,42.93,77.0,75.0,4.7,150.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Staunton,United States,United States of America,US,38.25183716918853,-79.81212839198322,36.0,-82.0,38.15,-79.07,True,38.07,70.0,1.0,3.33,214.0,clear sky,http://openweathermap.org/img/w/01n.png
+Elizabeth City,United States,United States of America,US,35.25827047417277,-73.68336672041929,36.0,-75.0,36.3,-76.22,True,46.96,86.0,90.0,4.7,90.0,overcast clouds,http://openweathermap.org/img/w/04n.png
+Mastic Beach,United States,United States of America,US,37.271535640203965,-70.85037695822638,36.0,-68.0,40.77,-72.85,True,30.67,80.0,20.0,1.59,324.5,few clouds,http://openweathermap.org/img/w/02n.png
+Saint-Pierre,Saint Pierre and Miquelon,Saint Pierre and Miquelon,PM,36.14990703733775,-52.873587766273076,36.0,-54.0,46.77,-56.17,False,28.4,74.0,75.0,17.22,360.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Torbay,Canada,Canada,CA,39.015025477186356,-48.77821048470702,36.0,-47.0,47.66,-52.73,False,28.4,92.0,90.0,18.34,340.0,light shower snow,http://openweathermap.org/img/w/13n.png
+Vila Franca Do Campo,Portugal,Portuguese Republic,PT,34.87764866508515,-24.465556743834966,36.0,-26.0,37.72,-25.43,True,62.6,88.0,40.0,18.34,110.0,scattered clouds,http://openweathermap.org/img/w/03n.png
+Ponta Do Sol,Portugal,Portuguese Republic,PT,32.704746788434065,-17.841846279088095,36.0,-19.0,32.67,-17.1,True,62.6,72.0,40.0,6.93,130.0,scattered clouds,http://openweathermap.org/img/w/03n.png
+Aljezur,Portugal,Portuguese Republic,PT,36.17278589985291,-11.523757643420506,36.0,-12.0,37.31,-8.8,True,59.53,99.0,0.0,17.43,105.0,clear sky,http://openweathermap.org/img/w/01n.png
+Lebrija,Spain,Kingdom of Spain,ES,36.99352198635944,-5.953621063438554,36.0,-5.0,36.92,-6.08,True,50.16,87.0,0.0,2.24,,clear sky,http://openweathermap.org/img/w/01n.png
+Carbonia,Italy,Italian Republic,IT,38.75602434625178,7.314197137050188,36.0,9.0,39.17,8.53,True,40.53,93.0,0.0,6.93,310.0,clear sky,http://openweathermap.org/img/w/01n.png
+Misratah,Libya,Libya,LY,32.78232260033463,15.560768897330577,36.0,16.0,32.38,15.09,True,55.03,100.0,68.0,7.02,258.5,broken clouds,http://openweathermap.org/img/w/04n.png
+Argostolion,Greece,Hellenic Republic,GR,37.980747198089816,20.363798808213595,36.0,23.0,38.18,20.49,True,54.8,100.0,92.0,5.61,61.5002,overcast clouds,http://openweathermap.org/img/w/04n.png
+Kayseri,Turkey,Republic of Turkey,TR,39.0582613609099,35.236251143853195,36.0,37.0,38.73,35.48,True,26.6,86.0,75.0,2.82,339.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Salmas,"Iran, Islamic Republic of",Islamic Republic of Iran,IR,38.031624861402356,44.23290071789623,36.0,44.0,38.2,44.77,True,24.8,85.0,20.0,6.93,270.0,few clouds,http://openweathermap.org/img/w/02n.png
+Garmsar,"Iran, Islamic Republic of",Islamic Republic of Iran,IR,34.843140892094844,52.497004188420384,36.0,51.0,35.22,52.34,True,27.44,74.0,64.0,2.26,336.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Tabas,"Iran, Islamic Republic of",Islamic Republic of Iran,IR,34.54439778374807,57.00612169648762,36.0,58.0,33.6,56.92,True,42.8,41.0,24.0,2.24,190.0,few clouds,http://openweathermap.org/img/w/02n.png
+Shache,China,People's Republic of China,CN,37.43279971686454,78.11027006097511,36.0,79.0,38.42,77.24,True,3.59,65.0,0.0,2.89,196.0,clear sky,http://openweathermap.org/img/w/01n.png
+Korla,China,People's Republic of China,CN,39.233735148574375,88.82971525233808,36.0,86.0,41.76,86.15,True,-7.98,70.0,8.0,1.77,244.5,clear sky,http://openweathermap.org/img/w/02n.png
+Xining,China,People's Republic of China,CN,35.83594740134102,101.7341909764404,36.0,100.0,36.62,101.77,True,-0.42,48.0,0.0,7.07,285.0,clear sky,http://openweathermap.org/img/w/01d.png
+Hanzhong,China,People's Republic of China,CN,33.40175047894658,107.07960132556252,36.0,107.0,33.08,107.03,True,24.34,94.0,88.0,2.77,51.0002,overcast clouds,http://openweathermap.org/img/w/04d.png
+Kaifeng,China,People's Republic of China,CN,34.76522934867464,114.98976089690645,36.0,114.0,34.8,114.35,True,23.0,57.0,0.0,2.24,,clear sky,http://openweathermap.org/img/w/01d.png
+Dongying,China,People's Republic of China,CN,38.35995253449758,118.79499117167177,36.0,121.0,37.43,118.67,True,10.79,61.0,56.0,3.04,286.0,broken clouds,http://openweathermap.org/img/w/04d.png
+Seoul,"Korea, Republic of","Korea, Republic of",KR,35.58691724773104,125.42807186692366,36.0,128.0,37.57,126.98,True,12.6,66.0,1.0,1.12,140.0,clear sky,http://openweathermap.org/img/w/01d.png
+Nanao,Japan,Japan,JP,37.18286491766489,136.86251788598918,36.0,135.0,37.05,136.95,True,33.8,86.0,75.0,3.36,270.0,light shower snow,http://openweathermap.org/img/w/13d.png
+Nemuro,Japan,Japan,JP,37.13632109487884,148.42504875951923,36.0,149.0,43.32,145.57,False,30.2,63.0,75.0,8.05,300.0,light shower snow,http://openweathermap.org/img/w/13d.png
+Nikolskoye,Russian Federation,Russian Federation,RU,34.67405435856522,169.56031651298014,36.0,170.0,59.7,30.79,False,32.0,95.0,90.0,2.24,10.0,overcast clouds,http://openweathermap.org/img/w/04n.png
+Provideniya,Russian Federation,Russian Federation,RU,40.72861775157407,-180.0,43.0,-180.0,64.42,-173.23,False,0.94,100.0,88.0,42.37,37.5002,overcast clouds,http://openweathermap.org/img/w/04n.png
+Bethel,United States,United States of America,US,41.62948618847723,-171.21172452314912,43.0,-173.0,60.79,-161.76,False,31.21,75.0,1.0,11.41,110.0,clear sky,http://openweathermap.org/img/w/01d.png
+Kodiak,United States,United States of America,US,41.15960736653113,-154.12735058285284,43.0,-152.0,39.95,-94.76,False,35.82,72.0,1.0,12.75,160.0,clear sky,http://openweathermap.org/img/w/01n.png
+Port Hardy,Canada,Canada,CA,43.09468133584278,-136.1637918226659,43.0,-138.0,50.7,-127.42,False,42.8,75.0,75.0,8.05,300.0,broken clouds,http://openweathermap.org/img/w/04n.png
+North Bend,United States,United States of America,US,44.69127985195324,-130.9396928035107,43.0,-131.0,43.41,-124.22,False,46.04,89.0,90.0,6.93,60.0,light rain,http://openweathermap.org/img/w/10n.png
+Lebanon,United States,United States of America,US,44.69465097270522,-122.15945878841958,43.0,-124.0,43.64,-72.25,False,26.98,71.0,90.0,1.77,227.0,overcast clouds,http://openweathermap.org/img/w/04n.png
+Altamont,United States,United States of America,US,42.50921435467255,-120.39926788556433,43.0,-117.0,37.19,-95.3,False,37.15,72.0,90.0,8.05,170.0,overcast clouds,http://openweathermap.org/img/w/04n.png
+Pocatello,United States,United States of America,US,42.06501720187828,-112.85592395807875,43.0,-110.0,42.87,-112.44,True,26.96,84.0,40.0,14.99,230.0,scattered clouds,http://openweathermap.org/img/w/03n.png
+Miles City,United States,United States of America,US,46.009119475090834,-104.97662048419791,43.0,-103.0,46.41,-105.84,True,23.0,87.0,90.0,23.04,360.0,overcast clouds,http://openweathermap.org/img/w/04n.png
+Hastings,United States,United States of America,US,40.62163746189474,-98.19219525722377,43.0,-96.0,40.59,-98.39,True,31.77,84.0,1.0,6.93,190.0,clear sky,http://openweathermap.org/img/w/01n.png
+Granger,United States,United States of America,US,42.04535835940037,-85.90416167465396,43.0,-89.0,41.75,-86.11,True,31.51,100.0,1.0,8.05,170.0,clear sky,http://openweathermap.org/img/w/01n.png
+Greensburg,United States,United States of America,US,40.422479091388325,-79.49361449597541,43.0,-82.0,30.83,-90.67,False,64.47,93.0,90.0,5.82,130.0,light rain,http://openweathermap.org/img/w/10n.png
+Glens Falls,United States,United States of America,US,43.243526241995916,-73.60400756835598,43.0,-75.0,43.31,-73.64,True,28.9,74.0,90.0,2.37,132.0,overcast clouds,http://openweathermap.org/img/w/04n.png
+Bar Harbor,United States,United States of America,US,44.63672597990667,-68.1470511595031,43.0,-68.0,44.39,-68.2,True,12.63,80.0,40.0,0.69,84.0002,scattered clouds,http://openweathermap.org/img/w/03n.png
+Lagoa,Portugal,Portuguese Republic,PT,45.7525292363821,-25.372589218942704,43.0,-26.0,37.14,-8.45,False,57.2,76.0,0.0,14.99,80.0,clear sky,http://openweathermap.org/img/w/01n.png
+Nazare,Portugal,Portuguese Republic,PT,39.55290145342299,-9.122758918255476,43.0,-12.0,39.6,-9.07,True,41.0,100.0,0.0,1.12,,clear sky,http://openweathermap.org/img/w/01n.png
+Custoias,Portugal,Portuguese Republic,PT,41.02595761482362,-7.359129031083356,43.0,-5.0,41.11,-7.32,True,24.11,71.0,0.0,2.26,48.0002,clear sky,http://openweathermap.org/img/w/01n.png
+Voiron,France,French Republic,FR,45.26433311777739,5.374539064282049,43.0,2.0,45.37,5.59,True,38.37,93.0,90.0,4.7,330.0,overcast clouds,http://openweathermap.org/img/w/04n.png
+Tortona,Italy,Italian Republic,IT,45.037165663629196,8.846153165149865,43.0,9.0,44.9,8.86,True,42.39,30.0,0.0,6.93,30.0,clear sky,http://openweathermap.org/img/w/01n.png
+Pljevlja,Montenegro,Montenegro,ME,43.22289191537501,19.296359613948006,43.0,16.0,43.36,19.36,True,30.2,92.0,90.0,12.75,300.0,snow,http://openweathermap.org/img/w/13n.png
+Elena,Bulgaria,Republic of Bulgaria,BG,42.86224511989029,26.037682636321833,43.0,23.0,42.93,25.88,True,34.95,100.0,75.0,3.71,238.0,mist,http://openweathermap.org/img/w/50n.png
+Tekirdag,Turkey,Republic of Turkey,TR,41.06566467881784,27.654989177558665,43.0,30.0,40.98,27.51,True,35.6,100.0,75.0,6.93,10.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Sebinkarahisar,Turkey,Republic of Turkey,TR,40.121703244431046,38.848885355364146,43.0,37.0,40.29,38.42,True,15.83,88.0,88.0,2.1,51.0002,overcast clouds,http://openweathermap.org/img/w/04n.png
+Ureki,Georgia,Georgia,GE,42.134660562955695,41.7608182528013,43.0,44.0,42.0,41.78,True,38.17,80.0,75.0,6.93,150.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Zhanaozen,Kazakhstan,Republic of Kazakhstan,KZ,43.48636296468061,53.517784756399315,43.0,51.0,43.35,52.85,True,29.02,85.0,80.0,13.96,116.5,broken clouds,http://openweathermap.org/img/w/04n.png
+Gazanjyk,Turkmenistan,Turkmenistan,TM,41.42035925909508,55.779659688160855,43.0,58.0,39.24,55.52,True,34.96,97.0,88.0,5.06,74.0002,overcast clouds,http://openweathermap.org/img/w/04n.png
+Zhezkazgan,Kazakhstan,Republic of Kazakhstan,KZ,46.28540779332582,67.07673954759883,43.0,65.0,47.8,67.71,True,8.77,77.0,44.0,4.38,219.0,scattered clouds,http://openweathermap.org/img/w/03n.png
+Aksu,China,People's Republic of China,CN,40.579508118011255,79.62468299936693,43.0,79.0,41.12,80.26,True,-2.04,61.0,56.0,2.26,308.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Hami,China,People's Republic of China,CN,45.90192814330024,95.2899369354588,43.0,93.0,42.84,93.51,True,-9.33,48.0,0.0,2.55,103.0,clear sky,http://openweathermap.org/img/w/01n.png
+Zhangye,China,People's Republic of China,CN,39.78963136466408,100.15846273434637,43.0,100.0,38.94,100.46,True,-4.02,64.0,0.0,3.0,159.5,clear sky,http://openweathermap.org/img/w/01d.png
+Mandalgovi,Mongolia,Mongolia,MN,43.185672679563424,105.98747869838371,43.0,107.0,45.76,106.27,True,-18.55,47.0,44.0,3.11,74.0002,scattered clouds,http://openweathermap.org/img/w/03d.png
+Baruun-Urt,Mongolia,Mongolia,MN,45.82674875318265,114.83774351050262,43.0,114.0,46.68,113.28,True,-16.26,43.0,36.0,3.11,61.0002,scattered clouds,http://openweathermap.org/img/w/03d.png
+Tieling,China,People's Republic of China,CN,42.305076054698326,124.33424649986249,43.0,121.0,42.29,123.84,True,-15.49,47.0,0.0,2.77,54.0002,clear sky,http://openweathermap.org/img/w/01d.png
+Huangnihe,China,People's Republic of China,CN,44.068297941377075,128.22018993737092,43.0,128.0,43.56,128.02,True,-17.07,72.0,0.0,3.27,268.0,clear sky,http://openweathermap.org/img/w/01d.png
+Popova,Russian Federation,Russian Federation,RU,42.876594835934455,131.8140182670767,43.0,135.0,42.96,131.72,True,8.6,60.0,0.0,10.65,352.5,clear sky,http://openweathermap.org/img/w/01d.png
+Novikovo,Russian Federation,Russian Federation,RU,45.899476427250484,144.83667206655602,43.0,142.0,51.15,37.89,False,12.86,90.0,80.0,5.57,116.5,broken clouds,http://openweathermap.org/img/w/04n.png
+Severo-Kurilsk,Russian Federation,Russian Federation,RU,39.73344653783888,166.19220120186745,43.0,163.0,50.68,156.12,False,29.29,100.0,44.0,13.78,306.5,scattered clouds,http://openweathermap.org/img/w/03d.png
+Sitka,United States,United States of America,US,50.98999252181866,-141.30258999031807,50.0,-138.0,37.17,-99.65,False,41.39,56.0,24.0,14.29,179.5,few clouds,http://openweathermap.org/img/w/02n.png
+Revelstoke,Canada,Canada,CA,51.251696957246985,-118.57105148667029,50.0,-117.0,50.99,-118.19,True,33.8,86.0,90.0,12.75,10.0,overcast clouds,http://openweathermap.org/img/w/04n.png
+Great Falls,United States,United States of America,US,47.12159749074114,-111.15622536575245,50.0,-110.0,47.5,-111.29,True,11.79,76.0,90.0,13.87,10.0,light shower snow,http://openweathermap.org/img/w/13n.png
+Shellbrook,Canada,Canada,CA,52.860142347679925,-106.24400349087446,50.0,-103.0,53.22,-106.39,True,-5.81,70.0,75.0,4.7,10.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Hibbing,United States,United States of America,US,47.2408655094669,-92.60886049968583,50.0,-96.0,47.43,-92.94,True,18.99,87.0,90.0,5.82,90.0,light snow,http://openweathermap.org/img/w/13n.png
+Thunder Bay,Canada,Canada,CA,50.07896220120482,-90.04823654017731,50.0,-89.0,48.41,-89.26,True,17.6,92.0,90.0,2.24,250.0,light snow,http://openweathermap.org/img/w/13n.png
+Hornepayne,Canada,Canada,CA,50.15584161483588,-84.79187998283281,50.0,-82.0,49.22,-84.78,True,18.53,90.0,92.0,0.81,357.5,overcast clouds,http://openweathermap.org/img/w/04n.png
+Moose Factory,Canada,Canada,CA,52.79848118834872,-78.41828468393238,50.0,-75.0,51.26,-80.61,True,3.2,84.0,90.0,4.7,20.0,light snow,http://openweathermap.org/img/w/13n.png
+Murdochville,Canada,Canada,CA,49.62523503752262,-65.05831253661461,50.0,-68.0,48.96,-65.49,True,2.69,75.0,24.0,4.38,230.0,few clouds,http://openweathermap.org/img/w/02n.png
+Havre-Saint-Pierre,Canada,Canada,CA,51.71311804203821,-61.919021476669755,50.0,-61.0,50.23,-63.6,True,-7.61,76.0,20.0,2.59,240.5,few clouds,http://openweathermap.org/img/w/02n.png
+Burgeo,Canada,Canada,CA,47.934683482656226,-56.831386978093164,50.0,-54.0,47.61,-57.61,True,23.75,100.0,12.0,25.48,346.0,few clouds,http://openweathermap.org/img/w/02n.png
+Nanortalik,Greenland,Greenland,GL,52.32489535840147,-45.329501054022074,50.0,-47.0,60.14,-45.24,False,27.08,94.0,88.0,10.54,99.5002,overcast clouds,http://openweathermap.org/img/w/04n.png
+Dingle,Ireland,Ireland,IE,49.50519203453449,-16.186878713915533,50.0,-19.0,52.14,-10.27,False,50.98,97.0,92.0,17.47,203.0,overcast clouds,http://openweathermap.org/img/w/04n.png
+Challans,France,French Republic,FR,46.90916818627217,-1.9456449421728141,50.0,-5.0,46.85,-1.88,True,47.61,93.0,90.0,4.7,30.0,overcast clouds,http://openweathermap.org/img/w/04n.png
+Vierzon,France,French Republic,FR,47.35066939256766,2.247257158591594,50.0,2.0,47.22,2.07,True,36.77,100.0,90.0,1.12,,mist,http://openweathermap.org/img/w/50n.png
+Bebra,Germany,Federal Republic of Germany,DE,50.83532401416274,9.849208362668396,50.0,9.0,50.97,9.79,True,42.8,93.0,92.0,4.7,200.0,light rain,http://openweathermap.org/img/w/10n.png
+Pelhrimov,Czechia,Czech Republic,CZ,49.454125655852664,15.239815190062197,50.0,16.0,49.43,15.22,True,37.4,93.0,75.0,6.93,290.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Zarichne,Ukraine,Ukraine,UA,51.75454761414983,26.09676405907435,50.0,23.0,51.81,26.13,True,35.23,98.0,92.0,7.92,204.5,light rain,http://openweathermap.org/img/w/10n.png
+Nedryhayliv,Ukraine,Ukraine,UA,50.738935399855215,33.832400071278684,50.0,37.0,50.83,33.88,True,17.68,92.0,88.0,6.85,172.5,overcast clouds,http://openweathermap.org/img/w/04n.png
+Muchkapskiy,Russian Federation,Russian Federation,RU,51.88195905886115,42.462640007585286,50.0,44.0,51.85,42.48,True,2.96,85.0,64.0,4.61,138.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Marfino,Russian Federation,Russian Federation,RU,46.5602654508035,48.70429719943066,50.0,51.0,56.07,37.56,False,27.79,100.0,90.0,8.95,200.0,light snow,http://openweathermap.org/img/w/13n.png
+Shubarkuduk,Kazakhstan,Republic of Kazakhstan,KZ,48.62714156615689,55.88169282461294,50.0,58.0,49.15,56.49,True,13.13,89.0,76.0,3.38,89.5002,broken clouds,http://openweathermap.org/img/w/04n.png
+Odesskoye,Russian Federation,Russian Federation,RU,53.47451382912473,73.0368737412957,50.0,72.0,54.21,72.97,True,8.81,80.0,64.0,9.53,228.5,broken clouds,http://openweathermap.org/img/w/04n.png
+Semey,Kazakhstan,Republic of Kazakhstan,KZ,49.775824678189274,79.66601932657372,50.0,79.0,50.41,80.25,True,15.52,85.0,92.0,3.0,212.5,overcast clouds,http://openweathermap.org/img/w/04n.png
+Sheregesh,Russian Federation,Russian Federation,RU,52.682946558730265,88.76513041519179,50.0,86.0,52.93,87.98,True,-18.33,25.0,48.0,3.04,108.5,scattered clouds,http://openweathermap.org/img/w/03n.png
+Abaza,Russian Federation,Russian Federation,RU,52.063947436627046,90.57406351934961,50.0,93.0,52.65,90.1,True,-37.86,0.0,0.0,2.37,193.5,clear sky,http://openweathermap.org/img/w/01n.png
+Bulgan,Mongolia,Mongolia,MN,49.043933344985334,102.57904908387003,50.0,100.0,48.81,103.53,True,-22.2,57.0,36.0,2.77,271.0,scattered clouds,http://openweathermap.org/img/w/03d.png
+Ulaanbaatar,Mongolia,Mongolia,MN,48.779059572879625,107.91516982005287,50.0,107.0,47.92,106.92,True,-25.61,67.0,20.0,2.24,,smoke,http://openweathermap.org/img/w/50n.png
+Ulety,Russian Federation,Russian Federation,RU,50.993968910080554,112.75407338752294,50.0,114.0,51.36,112.48,True,-26.47,37.0,24.0,2.71,318.0,few clouds,http://openweathermap.org/img/w/02d.png
+Nerchinskiy Zavod,Russian Federation,Russian Federation,RU,51.23588046616738,119.36375851431524,50.0,121.0,51.31,119.61,True,-35.25,62.0,0.0,2.48,285.5,clear sky,http://openweathermap.org/img/w/01d.png
+Nenjiang,China,People's Republic of China,CN,49.50249298291265,125.76816171386045,50.0,128.0,49.17,125.23,True,-12.52,59.0,8.0,5.23,287.0,clear sky,http://openweathermap.org/img/w/02d.png
+Lazarev,Russian Federation,Russian Federation,RU,52.46913655853928,142.39037994469885,50.0,142.0,52.23,141.51,True,2.47,58.0,0.0,10.76,297.5,clear sky,http://openweathermap.org/img/w/01d.png
+Vostok,Russian Federation,Russian Federation,RU,50.53251096170713,150.87486993372497,50.0,149.0,46.45,135.83,False,-2.67,82.0,56.0,2.59,238.0,broken clouds,http://openweathermap.org/img/w/04d.png
+Petropavlovsk-Kamchatskiy,Russian Federation,Russian Federation,RU,53.07201082010414,159.2875739769974,50.0,156.0,53.05,158.65,True,-0.41,64.0,24.0,4.47,350.0,few clouds,http://openweathermap.org/img/w/02d.png
+Egvekinot,Russian Federation,Russian Federation,RU,58.913479507344924,-179.85168419359215,57.0,-180.0,66.32,-179.17,False,-19.32,79.0,20.0,9.93,27.5002,few clouds,http://openweathermap.org/img/w/02d.png
+Haines Junction,Canada,Canada,CA,60.235706598147125,-141.8563288566192,57.0,-145.0,60.75,-137.51,False,17.59,73.0,92.0,5.28,206.0,overcast clouds,http://openweathermap.org/img/w/04n.png
+Smithers,Canada,Canada,CA,58.787284891941056,-127.92634504245285,57.0,-131.0,54.78,-127.17,False,24.8,92.0,75.0,2.24,,broken clouds,http://openweathermap.org/img/w/04n.png
+Houston,Canada,Canada,CA,55.04457852699513,-126.26327004488913,57.0,-124.0,54.4,-126.65,True,24.8,92.0,75.0,2.24,,broken clouds,http://openweathermap.org/img/w/04n.png
+Dawson Creek,Canada,Canada,CA,55.72906099540023,-120.0147472247932,57.0,-117.0,55.76,-120.23,True,3.54,77.0,90.0,2.24,,overcast clouds,http://openweathermap.org/img/w/04n.png
+Meadow Lake,Canada,Canada,CA,56.18119361218356,-107.47504009635114,57.0,-110.0,54.13,-108.44,True,-9.41,69.0,40.0,6.93,360.0,scattered clouds,http://openweathermap.org/img/w/03n.png
+La Ronge,Canada,Canada,CA,54.137195662363084,-104.8440596161177,57.0,-103.0,55.1,-105.3,True,-22.01,74.0,20.0,2.24,270.0,few clouds,http://openweathermap.org/img/w/02n.png
+Thompson,Canada,Canada,CA,58.63847961883556,-98.74096129018783,57.0,-96.0,55.74,-97.86,True,-27.41,74.0,5.0,9.17,310.0,clear sky,http://openweathermap.org/img/w/02n.png
+Iqaluit,Canada,Canada,CA,58.43206153297169,-73.4973307686486,57.0,-75.0,63.75,-68.52,False,-5.81,70.0,90.0,17.22,120.0,light snow,http://openweathermap.org/img/w/13n.png
+Saint-Augustin,Canada,Canada,CA,55.03023781390404,-58.50625816970573,57.0,-61.0,45.63,-73.98,False,17.15,85.0,90.0,3.36,40.0,light snow,http://openweathermap.org/img/w/13n.png
+Paamiut,Greenland,Greenland,GL,57.44034606817579,-50.72666174049283,57.0,-54.0,61.99,-49.67,False,31.4,100.0,68.0,35.54,133.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Qaqortoq,Greenland,Greenland,GL,58.889179191237744,-47.92581300063425,57.0,-47.0,60.72,-46.03,True,28.48,100.0,88.0,12.1,99.5002,overcast clouds,http://openweathermap.org/img/w/04n.png
+Tasiilaq,Greenland,Greenland,GL,60.444360884141126,-39.09998043818142,57.0,-40.0,65.61,-37.64,False,14.0,72.0,8.0,1.12,220.0,clear sky,http://openweathermap.org/img/w/02n.png
+Grindavik,Iceland,Republic of Iceland,IS,59.28864285507824,-25.05468733663931,57.0,-26.0,63.84,-22.43,False,37.4,93.0,90.0,36.91,240.0,light intensity drizzle,http://openweathermap.org/img/w/09n.png
+Vestmannaeyjar,Iceland,Republic of Iceland,IS,56.95590416145596,-22.356047527456276,57.0,-19.0,63.44,-20.27,False,43.01,99.0,88.0,27.09,217.5,light rain,http://openweathermap.org/img/w/10n.png
+Killybegs,Ireland,Ireland,IE,57.51251771816895,-9.972623233512046,57.0,-12.0,54.63,-8.45,True,49.13,99.0,92.0,16.46,219.0,light rain,http://openweathermap.org/img/w/10n.png
+Stromness,United Kingdom,United Kingdom of Great Britain and Northern Ireland,GB,59.89472395024427,-4.795670573295335,57.0,-5.0,58.97,-3.3,True,49.03,81.0,92.0,19.46,220.0,overcast clouds,http://openweathermap.org/img/w/04n.png
+Visnes,Norway,Kingdom of Norway,NO,58.419303446541946,2.5650861880383022,57.0,2.0,59.36,5.22,True,46.4,100.0,90.0,19.46,280.0,mist,http://openweathermap.org/img/w/50n.png
+Oksbol,Denmark,Kingdom of Denmark,DK,55.38847026373884,7.634180461063277,57.0,9.0,55.63,8.29,True,39.15,100.0,68.0,2.24,210.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Karlskrona,Sweden,Kingdom of Sweden,SE,55.635173284328,15.572371627004603,57.0,16.0,56.16,15.59,True,32.0,97.0,24.0,6.93,350.0,few clouds,http://openweathermap.org/img/w/02n.png
+Hrodna,Belarus,Republic of Belarus,BY,53.52531795792033,23.678948029132826,57.0,23.0,53.68,23.83,True,34.28,99.0,88.0,2.82,275.5,light rain,http://openweathermap.org/img/w/10n.png
+Safonovo,Russian Federation,Russian Federation,RU,55.06833001531065,32.97842484394044,57.0,30.0,55.11,33.24,True,29.69,98.0,92.0,8.75,203.0,overcast clouds,http://openweathermap.org/img/w/04n.png
+Konstantinovskiy,Russian Federation,Russian Federation,RU,57.77317908759426,39.737856865247366,57.0,37.0,57.83,39.59,True,26.6,92.0,90.0,4.47,210.0,overcast clouds,http://openweathermap.org/img/w/04n.png
+Bogovarovo,Russian Federation,Russian Federation,RU,59.39573094698687,47.125729846071415,57.0,44.0,58.98,47.02,True,19.21,90.0,88.0,7.29,237.0,overcast clouds,http://openweathermap.org/img/w/04n.png
+Chekmagush,Russian Federation,Russian Federation,RU,54.92510181721081,54.46439658494943,57.0,51.0,55.14,54.65,True,3.05,84.0,20.0,9.6,225.0,few clouds,http://openweathermap.org/img/w/02n.png
+Magnitogorsk,Russian Federation,Russian Federation,RU,53.552319579195945,59.35278645190104,57.0,58.0,53.42,58.98,True,-4.01,70.0,40.0,2.24,130.0,scattered clouds,http://openweathermap.org/img/w/03n.png
+Yarkovo,Russian Federation,Russian Federation,RU,57.86122924548709,67.57141268581076,57.0,65.0,54.81,82.6,False,19.4,79.0,90.0,15.66,260.0,light shower snow,http://openweathermap.org/img/w/13n.png
+Znamenskoye,Russian Federation,Russian Federation,RU,58.81274425519593,74.5369411941638,57.0,72.0,57.13,73.82,True,7.28,85.0,56.0,7.29,217.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Kyshtovka,Russian Federation,Russian Federation,RU,57.93656238173146,77.24413371440797,57.0,79.0,56.56,76.62,True,8.45,88.0,48.0,10.16,246.0,scattered clouds,http://openweathermap.org/img/w/03n.png
+Tyazhinskiy,Russian Federation,Russian Federation,RU,55.99971925822636,88.58887848307124,57.0,86.0,56.11,88.52,True,6.88,78.0,0.0,7.29,203.0,clear sky,http://openweathermap.org/img/w/01n.png
+Yeniseysk,Russian Federation,Russian Federation,RU,58.393404623498135,90.74096447566119,57.0,93.0,58.45,92.17,True,-1.09,68.0,0.0,7.92,123.5,clear sky,http://openweathermap.org/img/w/01n.png
+Zima,Russian Federation,Russian Federation,RU,53.81270238519099,101.85073350915015,57.0,100.0,53.93,102.05,True,-10.72,70.0,36.0,8.37,135.5,scattered clouds,http://openweathermap.org/img/w/03n.png
+Alekseyevsk,Russian Federation,Russian Federation,RU,58.25223920187999,108.34743390461854,57.0,107.0,57.84,108.35,True,-28.23,44.0,0.0,2.37,172.5,clear sky,http://openweathermap.org/img/w/01n.png
+Chara,Russian Federation,Russian Federation,RU,58.38171256999578,119.48371524617257,57.0,121.0,56.9,118.26,True,-31.11,46.0,32.0,1.7,266.0,scattered clouds,http://openweathermap.org/img/w/03d.png
+Ust-Maya,Russian Federation,Russian Federation,RU,57.78800219921877,135.00366027410658,57.0,135.0,60.42,134.54,True,-24.04,71.0,68.0,0.25,319.5,broken clouds,http://openweathermap.org/img/w/04d.png
+Okhotsk,Russian Federation,Russian Federation,RU,59.99278118261553,141.26751595039394,57.0,142.0,59.36,143.24,True,-18.96,100.0,0.0,7.92,331.5,clear sky,http://openweathermap.org/img/w/01d.png
+Magadan,Russian Federation,Russian Federation,RU,56.884053655577645,150.37700807089843,57.0,149.0,59.56,150.8,True,-3.79,100.0,0.0,9.82,34.5002,clear sky,http://openweathermap.org/img/w/01d.png
+Talaya,Russian Federation,Russian Federation,RU,60.02110672443243,154.09745184477023,57.0,156.0,55.79,84.89,False,12.2,85.0,40.0,13.42,190.0,light shower snow,http://openweathermap.org/img/w/13n.png
+Ossora,Russian Federation,Russian Federation,RU,57.99903077589035,162.76867830314754,57.0,163.0,59.24,163.07,True,-6.22,72.0,0.0,10.6,348.5,clear sky,http://openweathermap.org/img/w/01d.png
+Anadyr,Russian Federation,Russian Federation,RU,59.96385231857391,173.29457423756728,57.0,170.0,64.73,177.51,False,-32.81,66.0,20.0,4.47,350.0,mist,http://openweathermap.org/img/w/50d.png
+Beringovskiy,Russian Federation,Russian Federation,RU,56.75394683471016,178.04009761333816,57.0,180.0,63.05,179.32,False,-7.26,90.0,44.0,33.76,2.00021,scattered clouds,http://openweathermap.org/img/w/03d.png
+Nome,United States,United States of America,US,65.44007900137836,-167.7789755238917,64.0,-166.0,30.04,-94.42,False,49.89,86.0,90.0,8.05,30.0,overcast clouds,http://openweathermap.org/img/w/04n.png
+Barrow,United States,United States of America,US,65.7414392990262,-156.22066249886907,64.0,-159.0,39.51,-90.4,False,33.75,79.0,75.0,9.17,170.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Kenai,United States,United States of America,US,62.819010319653685,-153.09313252044154,64.0,-152.0,60.55,-151.26,True,29.46,88.0,90.0,11.41,360.0,snow,http://openweathermap.org/img/w/13n.png
+Fairbanks,United States,United States of America,US,66.77996559167714,-142.90620486851697,64.0,-145.0,64.84,-147.72,False,6.75,91.0,20.0,4.72,134.0,few clouds,http://openweathermap.org/img/w/02n.png
+Mayo,Canada,Canada,CA,64.77295662673012,-136.8933904170076,64.0,-138.0,63.59,-135.9,True,8.6,78.0,90.0,10.29,10.0,overcast clouds,http://openweathermap.org/img/w/04n.png
+Whitehorse,Canada,Canada,CA,61.94094427871338,-132.46860730505782,64.0,-131.0,60.72,-135.06,True,14.0,92.0,90.0,20.8,180.0,overcast clouds,http://openweathermap.org/img/w/04n.png
+Norman Wells,Canada,Canada,CA,67.44060256911749,-122.37965654427327,64.0,-124.0,65.28,-126.83,False,-4.01,76.0,20.0,8.05,100.0,few clouds,http://openweathermap.org/img/w/02n.png
+Hay River,Canada,Canada,CA,65.72556044173959,-119.95482206439097,64.0,-117.0,60.82,-115.79,False,-22.01,74.0,20.0,3.36,120.0,few clouds,http://openweathermap.org/img/w/02n.png
+Yellowknife,Canada,Canada,CA,61.92404507562896,-112.37251837036906,64.0,-110.0,62.45,-114.38,True,-27.41,67.0,20.0,2.24,70.0,few clouds,http://openweathermap.org/img/w/02n.png
+Clyde River,Canada,Canada,CA,67.00574034970371,-80.38317616892097,64.0,-82.0,70.47,-68.59,False,-11.21,76.0,75.0,13.87,320.0,broken clouds,http://openweathermap.org/img/w/04d.png
+Maniitsoq,Greenland,Greenland,GL,61.81821769618165,-58.0755472640965,64.0,-61.0,65.42,-52.9,False,26.45,89.0,88.0,19.71,114.5,overcast clouds,http://openweathermap.org/img/w/04n.png
+Sisimiut,Greenland,Greenland,GL,66.56908358531233,-54.72779116837144,64.0,-54.0,66.94,-53.67,True,0.58,100.0,56.0,2.26,78.5002,broken clouds,http://openweathermap.org/img/w/04n.png
+Vestmanna,Faroe Islands,Faroe Islands,FO,66.50228890030449,-9.467867256343345,64.0,-12.0,62.16,-7.17,False,48.2,100.0,88.0,13.87,230.0,light intensity shower rain,http://openweathermap.org/img/w/09n.png
+Klaksvik,Faroe Islands,Faroe Islands,FO,62.297512415438746,-4.4329230403690145,64.0,-5.0,62.23,-6.59,True,48.2,100.0,64.0,13.87,230.0,light intensity shower rain,http://openweathermap.org/img/w/09n.png
+Roald,Norway,Kingdom of Norway,NO,65.8733822670932,4.870500181033333,64.0,2.0,62.58,6.12,True,40.51,87.0,92.0,13.87,160.0,moderate rain,http://openweathermap.org/img/w/10n.png
+Ornskoldsvik,Sweden,Kingdom of Sweden,SE,63.266809536379135,18.17496880375299,64.0,16.0,63.29,18.72,True,3.06,84.0,0.0,4.7,290.0,light snow,http://openweathermap.org/img/w/13n.png
+Kautokeino,Norway,Kingdom of Norway,NO,67.42127654690755,23.603338218682254,64.0,23.0,69.01,23.04,True,-0.24,62.0,0.0,5.28,253.5,clear sky,http://openweathermap.org/img/w/01d.png
+Muyezerskiy,Russian Federation,Russian Federation,RU,63.59468453840179,31.458264820020005,64.0,30.0,63.93,31.65,True,6.88,78.0,0.0,3.56,252.5,clear sky,http://openweathermap.org/img/w/01n.png
+Shenkursk,Russian Federation,Russian Federation,RU,62.34343919517505,42.90648157168736,64.0,44.0,62.11,42.91,True,20.6,82.0,68.0,6.73,295.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Ust-Tsilma,Russian Federation,Russian Federation,RU,67.03249648807567,51.379489623299975,64.0,51.0,65.44,52.15,True,19.79,74.0,8.0,8.3,285.0,clear sky,http://openweathermap.org/img/w/02n.png
+Verkhnyaya Inta,Russian Federation,Russian Federation,RU,63.9810644329885,60.47898860986604,64.0,58.0,65.99,60.32,True,13.63,74.0,80.0,8.03,239.5,broken clouds,http://openweathermap.org/img/w/04n.png
+Andra,Russian Federation,Russian Federation,RU,62.51504585027181,65.66981927756824,64.0,65.0,62.52,65.89,True,0.58,73.0,64.0,8.37,203.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Staryy Nadym,Russian Federation,Russian Federation,RU,65.40334933325379,73.69300350688165,64.0,72.0,65.61,72.68,True,-4.65,80.0,44.0,11.88,202.5,scattered clouds,http://openweathermap.org/img/w/03n.png
+Strezhevoy,Russian Federation,Russian Federation,RU,61.770720939123564,78.06534575233069,64.0,79.0,60.73,77.6,True,-4.01,83.0,0.0,6.71,230.0,clear sky,http://openweathermap.org/img/w/01n.png
+Turukhansk,Russian Federation,Russian Federation,RU,65.97880842170326,87.42108157061881,64.0,86.0,65.8,87.96,True,2.78,66.0,0.0,20.45,181.0,clear sky,http://openweathermap.org/img/w/01n.png
+Teya,Russian Federation,Russian Federation,RU,63.528425746794234,92.45992749759766,64.0,93.0,60.37,92.63,True,-10.86,53.0,0.0,6.91,153.0,clear sky,http://openweathermap.org/img/w/01n.png
+Baykit,Russian Federation,Russian Federation,RU,60.74284352795649,98.0479265124907,64.0,100.0,61.68,96.39,True,-25.8,38.0,0.0,4.79,152.5,clear sky,http://openweathermap.org/img/w/01n.png
+Vanavara,Russian Federation,Russian Federation,RU,62.11460189322845,104.32925600687926,64.0,107.0,60.35,102.28,True,-24.0,35.0,0.0,6.13,160.5,clear sky,http://openweathermap.org/img/w/01n.png
+Lensk,Russian Federation,Russian Federation,RU,60.73667495905238,114.22710106862579,64.0,114.0,60.71,114.91,True,-0.78,55.0,44.0,10.83,255.0,scattered clouds,http://openweathermap.org/img/w/03n.png
+Nyurba,Russian Federation,Russian Federation,RU,64.77003373367096,117.66841770823503,64.0,121.0,63.29,118.35,True,-1.23,57.0,32.0,7.81,266.5,scattered clouds,http://openweathermap.org/img/w/03n.png
+Sangar,Russian Federation,Russian Federation,RU,63.32572440158492,127.61275855189056,64.0,128.0,63.92,127.47,True,-32.77,57.0,88.0,4.12,124.5,overcast clouds,http://openweathermap.org/img/w/04n.png
+Dzhebariki-Khaya,Russian Federation,Russian Federation,RU,61.743464831826145,136.46595657961586,64.0,135.0,62.22,135.8,True,-36.51,70.0,44.0,2.77,37.5002,scattered clouds,http://openweathermap.org/img/w/03d.png
+Dukat,Russian Federation,Russian Federation,RU,63.16905612892229,155.6444473239549,64.0,156.0,62.55,155.55,True,-39.21,74.0,20.0,2.77,286.5,few clouds,http://openweathermap.org/img/w/02d.png
+Lavrentiya,Russian Federation,Russian Federation,RU,73.61649282651072,-169.51799154644686,71.0,-173.0,65.58,-170.99,False,-1.05,100.0,88.0,45.77,38.0002,overcast clouds,http://openweathermap.org/img/w/04n.png
+College,United States,United States of America,US,72.12388353158276,-147.1588962108401,71.0,-145.0,64.86,-147.8,False,3.43,88.0,1.0,4.72,134.0,clear sky,http://openweathermap.org/img/w/01n.png
+Aklavik,Canada,Canada,CA,71.05126998739274,-137.85738752271246,71.0,-138.0,68.22,-135.01,True,1.4,77.0,75.0,5.82,110.0,broken clouds,http://openweathermap.org/img/w/04d.png
+Tuktoyaktuk,Canada,Canada,CA,74.28352406454106,-131.9171760544347,71.0,-131.0,69.44,-133.03,False,-4.01,83.0,75.0,10.29,130.0,broken clouds,http://openweathermap.org/img/w/04d.png
+Qaanaaq,Greenland,Greenland,GL,73.80663251164205,-84.44235178403825,71.0,-82.0,77.48,-69.36,False,-11.94,100.0,0.0,10.42,93.0002,clear sky,http://openweathermap.org/img/w/01d.png
+Upernavik,Greenland,Greenland,GL,71.31067416755181,-58.824312606306584,71.0,-61.0,72.79,-56.15,True,10.21,100.0,48.0,6.06,32.0002,scattered clouds,http://openweathermap.org/img/w/03d.png
+Kangaatsiaq,Greenland,Greenland,GL,69.87120273016896,-55.90856449330818,71.0,-54.0,68.31,-53.46,True,15.11,100.0,48.0,14.07,77.0002,scattered clouds,http://openweathermap.org/img/w/03d.png
+Ilulissat,Greenland,Greenland,GL,72.13309481303185,-49.29122902186523,71.0,-47.0,69.22,-51.1,True,19.4,44.0,20.0,9.17,40.0,few clouds,http://openweathermap.org/img/w/02d.png
+Husavik,Iceland,Republic of Iceland,IS,72.93053457701001,-11.435820836914594,71.0,-12.0,66.04,-17.34,False,27.58,100.0,88.0,1.48,170.5,overcast clouds,http://openweathermap.org/img/w/04n.png
+Raudeberg,Norway,Kingdom of Norway,NO,69.1614814523784,0.2075724977719995,71.0,2.0,61.99,5.14,False,39.2,100.0,92.0,14.99,90.0,moderate rain,http://openweathermap.org/img/w/10n.png
+Sorland,Norway,Kingdom of Norway,NO,71.0098403567611,7.064895798332575,71.0,9.0,67.67,12.69,False,41.53,100.0,36.0,19.89,236.5,light rain,http://openweathermap.org/img/w/10n.png
+Andenes,Norway,Kingdom of Norway,NO,70.52295381764597,15.587727363107712,71.0,16.0,69.31,16.12,True,32.0,100.0,92.0,10.29,270.0,light rain,http://openweathermap.org/img/w/10d.png
+Skjervoy,Norway,Kingdom of Norway,NO,71.74570380524604,20.5115177869996,71.0,23.0,70.03,20.97,True,33.97,100.0,88.0,18.88,280.5,overcast clouds,http://openweathermap.org/img/w/04d.png
+Vardo,Norway,Kingdom of Norway,NO,70.36015100250529,31.25078353349855,71.0,30.0,70.37,31.11,True,10.4,85.0,40.0,6.93,340.0,scattered clouds,http://openweathermap.org/img/w/03d.png
+Revda,Russian Federation,Russian Federation,RU,67.54480904086982,34.762709593110316,71.0,37.0,67.94,34.55,True,5.08,74.0,0.0,4.61,264.0,clear sky,http://openweathermap.org/img/w/01d.png
+Kamenka,Russian Federation,Russian Federation,RU,68.49944289626121,42.732833077368966,71.0,44.0,53.19,44.05,False,13.13,88.0,76.0,8.03,217.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Naryan-Mar,Russian Federation,Russian Federation,RU,67.58659726202703,50.71534225462888,71.0,51.0,67.67,53.09,True,18.89,73.0,0.0,17.58,272.0,clear sky,http://openweathermap.org/img/w/01n.png
+Sovetskiy,Russian Federation,Russian Federation,RU,72.01461599496128,66.687817542084,71.0,65.0,56.76,48.47,False,9.44,83.0,80.0,13.06,219.5,broken clouds,http://openweathermap.org/img/w/04n.png
+Aksarka,Russian Federation,Russian Federation,RU,71.01958767292277,68.79940972411737,71.0,72.0,66.56,67.8,False,-10.32,70.0,76.0,12.55,218.5,broken clouds,http://openweathermap.org/img/w/04n.png
+Talnakh,Russian Federation,Russian Federation,RU,72.51034024982704,88.29909624473302,71.0,86.0,69.49,88.39,True,6.29,79.0,80.0,20.71,181.5,broken clouds,http://openweathermap.org/img/w/04d.png
+Khatanga,Russian Federation,Russian Federation,RU,71.36025453774909,98.50137228307179,71.0,100.0,71.98,102.47,False,6.38,72.0,48.0,11.43,229.0,scattered clouds,http://openweathermap.org/img/w/03d.png
+Saskylakh,Russian Federation,Russian Federation,RU,71.56980658551163,116.0865233435184,71.0,114.0,71.97,114.09,True,3.5,73.0,24.0,13.96,265.0,few clouds,http://openweathermap.org/img/w/02d.png
+Zhigansk,Russian Federation,Russian Federation,RU,72.31071690638072,122.06311914334147,71.0,121.0,66.77,123.37,False,-21.84,65.0,64.0,7.14,155.0,broken clouds,http://openweathermap.org/img/w/04n.png
+Tiksi,Russian Federation,Russian Federation,RU,70.78432800774895,125.51110136306255,71.0,128.0,71.64,128.87,True,-7.12,60.0,64.0,28.27,252.0,broken clouds,http://openweathermap.org/img/w/04d.png
+Verkhoyansk,Russian Federation,Russian Federation,RU,70.39141062692939,132.34437266477423,71.0,135.0,67.55,133.39,True,-37.68,73.0,32.0,2.33,150.0,scattered clouds,http://openweathermap.org/img/w/03n.png
+Belaya Gora,Russian Federation,Russian Federation,RU,69.01053452896599,145.39338854116878,71.0,142.0,68.54,146.19,True,-36.64,0.0,36.0,4.5,166.0,scattered clouds,http://openweathermap.org/img/w/03d.png
+Chokurdakh,Russian Federation,Russian Federation,RU,72.07041506637714,149.8504046786588,71.0,149.0,70.62,147.9,True,-13.15,61.0,56.0,18.03,255.0,broken clouds,http://openweathermap.org/img/w/04d.png
+Cherskiy,Russian Federation,Russian Federation,RU,73.08669765571095,158.53453544453328,71.0,156.0,68.75,161.3,False,-24.4,73.0,76.0,6.13,185.0,broken clouds,http://openweathermap.org/img/w/04d.png
+Pevek,Russian Federation,Russian Federation,RU,73.22668323656815,168.7378686566334,71.0,170.0,69.7,170.27,False,-9.55,100.0,80.0,8.86,303.5,broken clouds,http://openweathermap.org/img/w/04d.png
+Leningradskiy,Russian Federation,Russian Federation,RU,71.21710713876412,179.34248570215885,71.0,177.0,69.38,178.42,True,-8.43,97.0,48.0,12.33,271.0,scattered clouds,http://openweathermap.org/img/w/03d.png
+Narsaq,Greenland,Greenland,GL,76.50472060804739,-65.34343511890413,78.0,-68.0,60.91,-46.05,False,6.56,67.0,64.0,3.33,15.5002,broken clouds,http://openweathermap.org/img/w/04n.png
+Longyearbyen,Svalbard and Jan Mayen,Svalbard and Jan Mayen,SJ,81.2702842383651,15.795910665079976,78.0,16.0,78.22,15.64,True,6.8,60.0,75.0,14.99,330.0,broken clouds,http://openweathermap.org/img/w/04d.png
+Dikson,Russian Federation,Russian Federation,RU,79.94644384220963,71.87649227650338,78.0,72.0,73.51,80.55,False,6.74,100.0,56.0,35.32,195.5,broken clouds,http://openweathermap.org/img/w/04d.png
+Deputatskiy,Russian Federation,Russian Federation,RU,77.02217960392503,142.13390663245,78.0,142.0,69.3,139.9,False,-33.99,58.0,36.0,6.02,246.5,scattered clouds,http://openweathermap.org/img/w/03d.png
+Mehamn,Norway,Kingdom of Norway,NO,81.54367896139686,27.615413798517285,85.0,30.0,71.03,27.85,False,20.83,87.0,56.0,4.27,219.0,broken clouds,http://openweathermap.org/img/w/04d.png
+Berlevag,Norway,Kingdom of Norway,NO,90.0,31.956751120055422,90.0,30.0,70.86,29.09,False,18.22,100.0,44.0,7.58,216.5,scattered clouds,http://openweathermap.org/img/w/03d.png
