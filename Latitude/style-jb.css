@@ -1,10 +1,75 @@
-.box {
-  height: 400px;
-  padding: 20px;
-  color: #fff;
-  background: deepskyblue;
+/* Page Heading */
+.page_heading {
+  background-color:lightgoldenrodyellow;
+  height:70px;
+  margin:0px 0px 0px 0px;
+}
+/* Navigation Bar */
+.navbar {
+  height:70px;
+  margin:0px;
+  vertical-align: middle;
 }
 
-.margin-top-80 {
-  margin-top: 80px;
+/* Navigation Bar Command List items */
+.navbar li {
+  display:inline-block;
+  font-size:15px;
+  text-align:center;
+  vertical-align:middle;
+  color: black;
+  font-weight:600;
+  height:20px;
+  /* width:80px; */
+  padding:2px;
+  margin:17px 2px 2px 2px;
+}
+
+/* Turn off default underline and color on hyperlinks */
+.navbar li a {
+  text-decoration:none;
+  color: black;
+}
+
+/* Turn off default border around drop-down list */
+.navbar li select {
+  border:0px;
+}
+
+.navbar li select option {
+  text-align:right;
+}
+
+/* Header for the page */
+.header h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size:30px;
+  color:lightgoldenrodyellow;
+
+  background-color: darkcyan;
+  text-align: center;
+  font-weight: 600;
+  padding: 20px 0px 20px 0px;
+  margin: 0px;
+}
+
+/* Main content section */
+.overall_content {
+  background-color:palegoldenrod;
+  height:600px;
+  margin: 0px;
+}
+
+/* Featured content section */
+.featured_content {
+  background-color:lightgoldenrodyellow;
+  height:500px;
+  margin-top:20px;
+}
+
+/* Selection content section */
+.selection_content {
+  background-color:lightgoldenrodyellow;
+  height:450px;
+  margin-top:20px;
 }

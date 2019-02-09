@@ -14,20 +14,55 @@
 <body>
 
   <div class="container">
-    <div class="row">
-        <div class="offset-md-1 col-md-2">
-            <h1>Lattitude</h1>
-        </div>
-        <div class="offset-md-6 col-md-3">
-          <ul>
-            <li>Plots</li>
-            <li>Comparison</li>
-            <li>Data</li>
-          </ul>
-        </div>
-    </div>
-  </div>
+    <!-- Was: "row align-items-center" -->
+    <div class="row align-items-center">
 
+      <div class="page_heading">
+        
+        <div class="col-md-2">
+          <div class="header">
+            <h1>Latitude</h1>
+          </div>  
+        </div>
+
+        <div class="col-md-4 col-md-offset-6">
+          <div class="navbar">
+            <ul>
+              <li>
+                  <select id="fig_select" onchange="location = this.value;">
+                    <option value="" selected disabled hidden>Plots</option>
+                    <option value="index.html">Max Temperature</option>
+                    <option value="index.html">Humidity</option>
+                    <option value="index.html">Cloudiness</option>
+                    <option value="index.html">Wind Speed</option>
+                  </select>              
+              </li>
+              <li>Comparison</li>
+              <li>Data</li>
+            </ul>  
+          </div>
+        </div>
+        
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="overall_content">
+        <div class="col-md-8">
+          <div class="featured_content">
+            This is the main plot content
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="selection_content">
+            This is the 4x4 plots content
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
 </body>
 
 </html>
