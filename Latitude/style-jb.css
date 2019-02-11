@@ -1,9 +1,12 @@
+/*************************************************/
 /* Page Heading */
 .page_heading {
-  background-color:lightgoldenrodyellow;
+  background-color:white;
   height:70px;
   margin:0px 0px 0px 0px;
 }
+
+/*************************************************/
 /* Navigation Bar */
 .navbar {
   height:70px;
@@ -13,40 +16,46 @@
 
 /* Navigation Bar Command List items */
 .navbar li {
+  /* Cause list items to display horizontally (vs veritically) */
   display:inline-block;
   font-size:15px;
   text-align:center;
   vertical-align:middle;
-  color: black;
+  color: grey;
   font-weight:600;
   height:20px;
-  /* width:80px; */
   padding:2px;
-  margin:17px 2px 2px 2px;
+  margin:25px 2px 2px 2px;
 }
 
-/* Turn off default underline and color on hyperlinks */
+/* Navigation Bar => Hyperlinks */
 .navbar li a {
+  /* Turn off default underline and color on hyperlinks */
   text-decoration:none;
-  color: black;
+  /* Set color to match other menu items */
+  color: grey;
 }
 
-/* Turn off default border around drop-down list */
+/* Navigation Bar => Plot drop-down select */
 .navbar li select {
+  /* Align the default text in the drop-down "Plot" to the right */
+  text-align-last: right;
+  /* Turn off default border around drop-down list */
   border:0px;
 }
 
+/* Navigation Bar => Plot drop-down select options */
 .navbar li select option {
-  text-align:right;
+  color:black;
 }
 
 /* Header for the page */
 .header h1 {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size:30px;
-  color:lightgoldenrodyellow;
+  color:white;
 
-  background-color: darkcyan;
+  background-color: #4AAAA5;
   text-align: center;
   font-weight: 600;
   padding: 20px 0px 20px 0px;
@@ -55,21 +64,72 @@
 
 /* Main content section */
 .overall_content {
-  background-color:palegoldenrod;
+  background-color:lightgrey;
   height:600px;
   margin: 0px;
 }
 
+/*************************************************/
 /* Featured content section */
 .featured_content {
-  background-color:lightgoldenrodyellow;
-  height:500px;
-  margin-top:20px;
+  background-color:#EAEAF2;
+  /* height:500px; */
+  margin:40px 0px 0px 30px;
+  padding-bottom: 10px;
 }
 
+.featured_content h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size:30px;
+  color:#4AAAA5;
+  font-weight: 800;
+  padding: 20px 0px 0px 0px;
+  margin: 20px;
+}
+
+.featured_content p {
+  margin:40px;
+}
+
+.featured_content .plot_summary img {
+  float:left;
+  width:250px;
+  margin: 20px;
+}
+
+.featured_content .plot_focus img {
+  display:block;
+  width:500px;
+  margin: auto;
+}
+
+
+/*************************************************/
 /* Selection content section */
 .selection_content {
-  background-color:lightgoldenrodyellow;
-  height:450px;
-  margin-top:20px;
+  background-color:#EAEAF2;
+  height:400px;
+  /* width:320px; */
+  margin:40px 40px 0px 0px;
+}
+
+.selection_content h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size:24px;
+  color:#4AAAA5;
+  font-weight: 800;
+  padding: 20px 0px 0px 0px;
+  margin: 20px;
+}
+
+.selection_content img {
+  width:180px;
+}
+
+.selection_content .selection_plot_left img {
+  margin:20px 0px 0px 20px;
+}
+
+.selection_content .selection_plot_right img {
+  margin:20px 20px 0px 0px;
 }
