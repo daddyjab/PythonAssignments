@@ -126,6 +126,11 @@
   width:180px;
 }
 
+.selection_content .selected_plot img {
+  border:4px solid #4AAAA5;
+}
+
+
 .selection_content .selection_plot_left img {
   margin:20px 0px 0px 20px;
 }
