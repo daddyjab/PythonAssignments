@@ -2,16 +2,14 @@
 /* Page Heading */
 .page_heading {
   background-color:white;
-  height:70px;
   margin:0px 0px 0px 0px;
 }
 
 /*************************************************/
 /* Navigation Bar */
 .navbar {
-  height:70px;
-  margin:0px;
-  vertical-align: middle;
+  display:block;
+  margin: 0px auto;
 }
 
 /* Navigation Bar Command List items */
@@ -67,16 +65,17 @@
 .overall_content {
   display:block;
   background-color:lightgrey;
-  /* height:600px; */
+  padding: 20px;
   margin: 0 auto;
 }
 
 /*************************************************/
 /* Featured content section */
 .featured_content {
-  background-color:#EAEAF2;
-  margin:40px 0px 0px 30px;
-  padding-bottom: 10px;
+  display:block;
+  background-color:white;
+  padding: 20px;
+  margin: 0 auto;
 }
 
 .featured_content h1 {
@@ -84,34 +83,37 @@
   font-size:30px;
   color:#4AAAA5;
   font-weight: 800;
-  padding: 20px 0px 0px 0px;
-  margin: 20px;
+  padding: 20px;
+  margin: 0px;
 }
 
 .featured_content p {
-  margin:40px;
+  padding: 20px;
+  margin: 0px;
 }
 
 .featured_content .plot_summary img {
+  display:block;
   float:left;
   width:250px;
-  margin: 20px;
+  padding: 20px;
+  margin: 0px auto;
 }
 
 .featured_content .plot_focus img {
   display:block;
   width:500px;
-  margin: auto;
+  margin:auto;
 }
 
 
 /*************************************************/
 /* Selection content section */
 .selection_content {
-  background-color:#EAEAF2;
-  height:400px;
-  /* width:320px; */
-  margin:40px 40px 0px 0px;
+  display:block;
+  background-color:white;
+  padding: 20px;
+  margin: 0 auto;
 }
 
 .selection_content h1 {
@@ -119,12 +121,15 @@
   font-size:24px;
   color:#4AAAA5;
   font-weight: 800;
-  padding: 20px 0px 0px 0px;
-  margin: 20px;
+  padding: 20px;
+  margin: 0px;
 }
 
 .selection_content img {
+  display:block;
   width:180px;
+  margin: auto
+
 }
 
 .selection_content .selected_plot img {
@@ -133,11 +138,14 @@
 
 
 .selection_content .selection_plot_left img {
-  margin:20px 0px 0px 20px;
+  /* margin:20px 0px 0px 20px; */
+  margin: auto;
 }
 
 .selection_content .selection_plot_right img {
-  margin:20px 20px 0px 0px;
+  /* margin:20px 20px 0px 0px; */
+  margin: auto;
+
 }
 
 
@@ -145,7 +153,7 @@
 /* Comparison content section */
 .comparison_content {
   display:block;
-  background-color:#EAEAF2;
+  background-color:white;
   padding: 20px;
   margin: 0 auto;
 }
@@ -174,7 +182,6 @@
   margin: 0px;
 }
 
-
 .comparison_content img {
   display:block;
   width:500px;
@@ -182,11 +189,9 @@
 }
 
 .comparison_content .comparison_plot_left img {
-  /* margin:20px 0px 0px 20px; */
   margin: auto;
 }
 
 .comparison_content .comparison_plot_right img {
-  /* margin:20px 20px 0px 0px; */
   margin:auto;
 }
