@@ -102,8 +102,9 @@
 
 .featured_content .plot_focus img {
   display:block;
-  width:500px;
-  margin:auto;
+  width:600px;
+  padding: 20px;
+  margin:0px auto;
 }
 
 
