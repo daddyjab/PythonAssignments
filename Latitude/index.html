@@ -1,6 +1,17 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
+<!-- 
+**************************************************************
+Homework Assignment: 11-Web - Latitude
+
+@Author: Jeffery Brown (daddyjab)
+@Date: 2/12/19
+@Page: index.html
+
+**************************************************************
+ -->
+
 <head>
 
   <meta charset="UTF-8">
@@ -22,7 +33,7 @@
             
             <div class="col-md-2 col-md-offset-1">
               <div class="header">
-                <h1>Latitude</h1>
+                <a href="index.html"><h1>Latitude</h1></a>
               </div>  
             </div>
 
@@ -67,21 +78,27 @@
                           <img src="Resources/Fig1_Lat_vs_Temp.png">
                         </a>
                       </div>
-                      <p>This is the featured plot content.
-                        xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxx
-                        xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxx
-                        xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxx
-                        xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxx
-                        xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxx
-                        xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxx
-                        xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxx
-                        xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxx
-                        xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxx
-                        xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxx
-                        xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxx
-                        xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxx
-                        xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxx
-                      </p>
+                        <p><strong>The purpose of this project was to analyze how weather changes by latitude.</strong></p>
+                        <p>
+                        The analysis was performed by defining a grid of latitude and longitude points
+                        with uniform angular spacing, and then randomly selecting cities close to each
+                        grid point.  Weather data was obtained using the OpenWeatherMap API,
+                        and results were populated using Matplotlib.
+                        </p>
+                        <p>
+                        <strong>Several conclusions were drawn from the results:</strong>
+                        <ul>
+                          <li>
+                            Temperature shows a clear pattern of variation by latitude, with temperatures increasing near the equator (0 degree latitude) and decreasing near the poles
+                          </li>
+                          <li>
+                            Neither Humidity nor Cloudiness show a pattern of variation by latitude
+                          </li>
+                          <li>
+                            Wind Speed is relatively uniform across most latitudes, but with relatively higher wind speeds occurring near the poles
+                          </li>
+                        </ul>
+                        </p>
                     </div>
                 </div>
 
@@ -99,7 +116,7 @@
                       </div>
                       <div class="col-sm-6">
                         <div class="selection_plot_right">          
-                          <a href="index.html">
+                          <a href="vis_humid.html">
                             <img src="Resources/Fig2_Lat_vs_Humid.png" alt="Plot of Latitude vs. Humidity">
                           </a>
                         </div>
@@ -108,14 +125,14 @@
                     <div class="row">
                       <div class="col-sm-6">
                         <div class="selection_plot_left">          
-                          <a href="index.html">
+                          <a href="vis_cloud.html">
                             <img src="Resources/Fig3_Lat_vs_Cloud.png" alt="Plot of Latitude vs. Cloudiness">
                           </a>
                         </div>
                       </div>
                       <div class="col-sm-6">
                         <div class="selection_plot_right">          
-                          <a href="index.html">
+                          <a href="vis_wind.html">
                             <img src="Resources/Fig4_Lat_vs_Wind.png" alt="Plot of Latitude vs. Wind Speed">
                           </a>
                         </div>

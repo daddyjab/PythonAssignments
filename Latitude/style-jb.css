@@ -1,3 +1,12 @@
+/*************************************************************
+Homework Assignment: 11-Web - Latitude
+
+@Author: Jeffery Brown (daddyjab)
+@Date: 2/12/19
+@Page: style-jb.css
+
+**************************************************************/
+
 /*************************************************/
 /* Page Heading */
 .page_heading {
@@ -60,6 +69,11 @@
   margin: 0px;
 }
 
+.page_heading div a {
+  /* Turn off default underline and color on hyperlinks */
+  text-decoration:none;  
+}
+
 /*************************************************/
 /* Main content section */
 .overall_content {
@@ -95,7 +109,7 @@
 .featured_content .plot_summary img {
   display:block;
   float:left;
-  width:250px;
+  width:350px;
   padding: 20px;
   margin: 0px auto;
 }
@@ -196,3 +210,28 @@
 .comparison_content .comparison_plot_right img {
   margin:auto;
 }
+
+
+/*************************************************/
+/* Data content section */
+.data_content {
+  display:block;
+  background-color:white;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.data_content h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size:30px;
+  color:#4AAAA5;
+  font-weight: 800;
+  padding: 20px;
+  margin: 0px;
+}
+
+.data_content p {
+  padding: 20px;
+  margin: 0px;
+}
+
